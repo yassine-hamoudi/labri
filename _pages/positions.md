@@ -2,7 +2,7 @@
 title: "Open positions"
 layout: textlay
 sitemap: false
-permalink: /positions
+permalink: /positions/
 ---
 
 # Open positions

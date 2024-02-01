@@ -2,7 +2,7 @@
 title: "Seminar"
 layout: textlay
 sitemap: false
-permalink: /seminar
+permalink: /seminar/
 ---
 
 [![email](/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**Subscribe to the mailing list**](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique)
