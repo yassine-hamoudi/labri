@@ -5,9 +5,9 @@ sitemap: false
 permalink: /seminar/
 ---
 
-[![email](/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**Subscribe to the mailing list**](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique)
+[![email]({{ site.url }}{{ site.baseurl }}/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**Subscribe to the mailing list**](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique)
 
-[![calendar](/images/logo/calendar.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**Subscribe to iCalendar**](/files/calendar.ics)
+[![calendar]({{ site.url }}{{ site.baseurl }}/images/logo/calendar.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**Subscribe to iCalendar**](/files/calendar.ics)
 
 #### The seminar takes place on Tuesdays from 15:00 to 16:00 CET. It is located at [LaBRI]({{site.baseurl}}/contact), either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are in english and broadcasted on Zoom, upon agreement of the speaker. For questions, you can reach [Yvan Le Borgne](mailto:borgne@labri.fr) or [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr).
 <br>
