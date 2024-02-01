@@ -1,0 +1,103 @@
+- day: 2024-02-13
+  time: "15:00"
+  room: "076"
+  speaker: Idris Delsol
+  affiliation: Télécom Paris
+  title: TBA
+  abstract:
+
+- day: 2024-01-09
+  time: "15:00"
+  room: "076"
+  speaker: Grégory Brivady
+  affiliation: Télécom Paris
+  title: Calcul quantique de la Maximum Mean Discrepancy de Distribution de Probabilités avec un noyau Gaussien
+  abstract: "La Maximum Mean Discrepancy (MMD) permet de mesurer la distance entre distributions de probabilités. Son calcul est réalisé à l'aide des Kernel Mean Embedding, qui consistent à représenter les distributions dans des espaces de dimensions supérieur muni d'un produit scalaire, puis de calculer la distance dans cet espace [1]. Le swap-test [2] est une technique permettant d'estimer des produits scalaires avec un ordinateur quantique. En définissant la Quantum Mean Embedding (QME), le swap-test permet de rendre la complexité de calcul d'une estimation de la MMD indépendante du nombre d'échantillons [3], contrairement au cas classique où O(N²) calculs sont nécessaires pour N échantillons. Si la QME peut être préparée avec une complexité linéaire en le nombre d'échantillons, il est alors possible de réaliser un gain de complexité [3]. Je présenterai une implémentation du noyau Gaussien en terme de QME, qui pourrait permettre un tel gain. Ref: [1] K. Muandet, K. Fukumizu, B. Sriperumbudur, B. Schölkopf, Kernel Mean Embedding: A Review and Beyond (2017) [2] H. Buhrman, R. Cleve, J. Watrous, and R. de Wolf, Phys. Rev. Lett. 87, 167902 (2001) [3] J. M. Müler, K. Muandet, B. Schölkopf, Phys. Rev. Research 1, 033159 (2019)"
+
+- day: 2024-01-26
+  time: "15:00"
+  room: "076"
+  speaker: QuDATA Workshop
+  affiliation: Day 3
+  title: <a href="https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html">Program</a>
+  abstract: "9h00 - Yassine Hamoudi (LaBRI, CNRS Bordeaux) The NISQ Complexity of Collision Finding<br> 10h00 - Maël Luce (IRIF, Univ. Paris-Cité) Distributed Grover Algorithm<br> 11h00 - Simon Apers (IRIF, CNRS Paris) Quantum speedups for linear programming via interior point methods"
+
+- day: 2024-01-25
+  time: "15:00"
+  room: "076"
+  speaker: QuDATA Workshop
+  affiliation: Day 2
+  title: <a href="https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html">Program</a>
+  abstract: "9h00 - Félix Huber (LaBRI, Univ. Bordeaux) Semidefinite programming bounds for quantum codes<br> 10h00 - Wouter Rozendaal (IMB, Univ. Bordeaux) A Renormalisation Decoder for Kitaev's Toric Code<br> 11h00 - Jens Siewert (UPV/EHU, Leioa - Spain) Correlation constraints and the Bloch geometry of two-party systems <br>14h00 - Simon Martiel (IBM Quantum, Paris) Shallower CNOT circuits on realistic quantum hardware<br> 15h00 - Arthur Braida (ATOS & Univ. Orléans) Tight Lieb-Robinson bound for approximation ratio in Quantum Annealing<br> 16h00 - Ion Nechita (CNRS Toulouse) Monogamy of highly symmetric states"
+
+- day: 2024-01-24
+  time: "15:00"
+  room: "076"
+  speaker: QuDATA Workshop
+  affiliation: Day 1
+  title: <a href="https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html">Program</a>
+  abstract: "14h00 - Yixin Shen (INRIA Rennes) Finding many Collisions via Reusable Quantum Walks<br> 15h00 - Stéphane Dartois (CEA LIST, Univ. Paris-Saclay) Geometric multipartite entanglement and injective norm of uniform quantum states<br>  16h00 - Leonardo Novo (INL Braga - Portugal) Quantum search and optimization with continuous-time quantum walks<br>"
+
+- day: 2023-12-19
+  time: "15:00"
+  room: "076"
+  speaker: Yassine Hamoudi
+  affiliation: LaBRI
+  title: Quantum algorithms for solving zero-sum games
+  abstract: "I will explain how quantum algorithms can compute the Nash equilibrium of zero-sum games more efficiently compared to classical algorithms. In particular, I will describe a quantum state preparation technique for sampling from any discrete probability distribution. The talk will highlight some common features and limitations in current quantum algorithms for solving optimization problems with rigorous guarantees."
+
+- day: 2023-12-11
+  time: "15:00"
+  room: "076"
+  speaker: Nicolas Lorente
+  affiliation: CFM – Materials Physics Center
+  title: "Electron spin resonance with the scanning tunneling microscope: theory and design of simple quantum circuits on few-atom structures"
+  abstract: "A scanning tunnelling microscope (STM) can drive the spin evolution of a single atom, molecule or nanostructure on a solid surface [1]. A tunnelling electron current is localized on a single atom, while the bias is modulated at microwave frequencies. The measured current shows excitations attributed to a spin resonance (ESR). We have developed software to simulate virtually any instance of ESR-STM under realistic conditions of temperature, external fields, and conductance [2-5]. Here, we suggest the realization of the usual quantum circuit made up of one Hadamard and one CNOT gate that converts a product state to a Bell state. Quantum circuit is simulated with the interaction of two Ti atoms on an MgO substrate driven by a scanning tunneling microscope. The first step of the sequence (a Hadamard gate) is implemented to act on the first spin. The evolution onto the final state demonstrates the realization of the Hadamard gate, plus current-induced decoherence if a longer evolution time is used. To characterize our gate, we evaluate its fidelity on the desired Bell state. This allows us to discuss the performance of the simulated gate using tunnelling currents and solid state-hosted spins. References: [1] K. Yang et al. Science 366, 509 (2019) [2] J. reina-Gálvez et al PRB 100, 035411 (2019) [3] J Reina-Gálvez, Lorente, Delgado, Arrachea Phys. Rev. B 104, 245415 (2021) [4] J Reina-Gálvez, Wolf, Lorente Phys. Rev. B 107, 235404 (2023) [5] https://github.com/qphensurf"
+
+- day: 2023-12-11
+  time: "15:00"
+  room: 076
+  speaker: Nicolas Lorente
+  affiliation: CFM – Materials Physics Center
+  title: Autour du futur ordinateur à 127 qubit au pays basque
+  abstract: "À San Sébastien, le département d'éducation du gouvernment du Pays Basque a fait l'acquisition auprès d'IBM d'un ordinateur quantique à 127 qubits. Dans ce second exposé seront présentées une partie des activités scientifiques à l'université de San Sébastien en lien avec cet investissement."
+
+- day: 2023-12-05
+  time: "15:00"
+  room: 076
+  speaker: Razvan Barbulescu
+  affiliation: IMB
+  title: Reading group on "An Efficient Quantum Factoring Algorithm" (Oded Regev)
+  abstract: "This algorithm is an improvement of Shor's algorithm for factorization. Although the number of qubits is the same, O(n), the number of gates is reduced from O(n^2) to O(n^(3/2))."
+
+- day: 2023-11-28
+  time: "15:00"
+  room: 076
+  speaker: Sebastian Zur
+  affiliation: CWI
+  title: Multidimensional Electrical Networks
+  abstract: "Recently, Apers and Piddock [TQC '23] strengthened the natural connection between quantum walks and electrical networks by considering Kirchhoff's Law and Ohm's Law. In this talk, I will discuss the multidimensional electrical network by defining Kirchhoff's Alternative Law and Ohm's Alternative Law based on the novel multidimensional quantum walk framework by Jeffery and Zur [STOC '23]. This multidimensional electrical network allows one to sample from the electrical flow obtained via a multidimensional quantum walk algorithm and achieve exponential quantum-classical separations for certain graph problems. In analogy to the connection between the (edge-vertex) incidence matrix of a graph and Kirchhoff's Law and Ohm's Law in an electrical network, we also rebuild the connection between the alternative incidence matrix and Kirchhoff's Alternative Law and Ohm's Alternative Law."
+
+- day: 2023-11-21
+  time: "15:00"
+  room: 076
+  speaker: Yvan Le Borgne
+  affiliation: LaBRI
+  title: Reading group on "High-threshold and low-overhead fault-tolerant quantum memory" (IBM Quantum)
+  abstract: Compte-rendu de lecture de arxiv:2308.07915 par Bravyi, Cross, Gambetta, Maslov, Rall et Yoder.
+
+- day: 2023-10-17
+  time: "15:00"
+  room: 076
+  speaker: Razvan Barbulescu
+  affiliation: IMB
+  title: Presentation of the HQI Project (France 2030, led by J.-C. Lafoucrière (CEA))
+  abstract: Dans cet exposé, nous utilisons la présentation du projet Hybrid Quantum initiative pour faire un panorama de la recherche sur l'informatique quantique. Cela consiste en construction d'ordinateurs, correction des erreurs, optimisation, simulation, cryptanalyse etc.
+
+- day: 2023-09-26
+  time: "15:00"
+  room: 076
+  speaker: Yvan Le Borgne
+  affiliation: LaBRI
+  title: Reading group on "Discrete bulk reconstruction" (Aaronson,Pollack)
+  abstract: Compte-rendu de lecture de arXiv:2210.15601.

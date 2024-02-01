@@ -1,0 +1,81 @@
+- name: Yassine Hamoudi
+  photo: hamoudi.jpg
+  info: Chargé de recherche CNRS
+  website: https://yassine-hamoudi.github.io/
+  email: yassine.hamoudi@labri.fr
+  type: "principal"
+  number_fields: 3
+  field1: Quantum algorithms
+  field2: Monte Carlo methods
+  field3: Complexity theory
+
+- name: Felix Huber
+  photo: huber.jpg
+  info: Chaire de professeur junior
+  website: https://www.labri.fr/profil/Huber_ID1690293053
+  email: felix.huber@labri.fr
+  type: "principal"
+  number_fields: 3
+  field1: XXX
+  field2: XXX
+  field3: XXX
+
+- name: Cyril Gavoille
+  photo:
+  info:
+  website:
+  email:
+  type: "coinvest"
+  number_fields: 2
+  field1:
+  field2:
+
+- name: Yvan Le Borgne
+  photo:
+  info:
+  website:
+  email:
+  type: "coinvest"
+  number_fields: 2
+  field1:
+  field2:
+
+- name: Jean-François Marckert
+  photo:
+  info:
+  website:
+  email:
+  type: "coinvest"
+  number_fields: 2
+  field1:
+  field2:
+
+- name: Mikhail Raskin
+  photo:
+  info:
+  website:
+  email:
+  type: "coinvest"
+  number_fields: 2
+  field1:
+  field2:
+
+- name: Géraud Sénizergues
+  photo:
+  info:
+  website:
+  email:
+  type: "coinvest"
+  number_fields: 2
+  field1:
+  field2:
+
+- name: Adrian Tanasa
+  photo:
+  info:
+  website:
+  email:
+  type: "coinvest"
+  number_fields: 2
+  field1:
+  field2:
