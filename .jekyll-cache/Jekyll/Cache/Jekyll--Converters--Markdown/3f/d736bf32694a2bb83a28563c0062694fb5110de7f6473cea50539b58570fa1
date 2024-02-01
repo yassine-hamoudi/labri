@@ -1,0 +1,162 @@
+I"
++<p><a href="https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique"><img src="http://localhost:4000/images/logo/email.png" alt="email" style="vertical-align:middle; max-width: 40px; height: auto;" /><strong>   Subscribe to the mailing list</strong></a></p>
+
+<p><a href="http://localhost:4000/files/calendar.ics"><img src="http://localhost:4000/images/logo/calendar.png" alt="calendar" style="vertical-align:middle; max-width: 40px; height: auto;" /><strong>   Subscribe to iCalendar</strong></a></p>
+
+<h4 id="the-seminar-takes-place-on-tuesdays-from-1500-to-1600-cet-it-is-located-at-labri-either-on-ground-floor-rooms-073-076-amphi-or-first-floor-room-178-the-talks-are-usually-in-english-and-broadcasted-on-zoom-for-questions-you-can-reach-yvan-le-borgne-or-yassine-hamoudi">The seminar takes place on Tuesdays from 15:00 to 16:00 CET. It is located at <a href="/contact">LaBRI</a>, either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are usually in english and broadcasted on Zoom. For questions, you can reach <a href="mailto:borgne@labri.fr">Yvan Le Borgne</a> or <a href="mailto:yassine.hamoudi@labri.fr">Yassine Hamoudi</a>.</h4>
+<p><br /></p>
+
+<h1 id="upcoming-talks">Upcoming talks</h1>
+
+<details>
+  <summary>
+    13th February 2024 at 15:00 (Room 076, Zoom link)<br />
+    <b>Idris Delsol </b> (Télécom Paris) <i>TBA</i> ⓘ
+  </summary>
+
+</details>
+<p></p>
+
+<p><br /></p>
+<h1 id="past-talks">Past talks</h1>
+
+<h3 id="2024">2024</h3>
+
+<details>
+  <summary>
+    9th January 2024<br />
+    <b>Grégory Brivady </b> (Télécom Paris) <i>Calcul quantique de la Maximum Mean Discrepancy de Distribution de Probabilités avec un noyau Gaussien</i> ⓘ
+  </summary>
+  <blockquote>
+    <p>La Maximum Mean Discrepancy (MMD) permet de mesurer la distance entre distributions de probabilités. Son calcul est réalisé à l’aide des Kernel Mean Embedding, qui consistent à représenter les distributions dans des espaces de dimensions supérieur muni d’un produit scalaire, puis de calculer la distance dans cet espace [1]. Le swap-test [2] est une technique permettant d’estimer des produits scalaires avec un ordinateur quantique. En définissant la Quantum Mean Embedding (QME), le swap-test permet de rendre la complexité de calcul d’une estimation de la MMD indépendante du nombre d’échantillons [3], contrairement au cas classique où O(N²) calculs sont nécessaires pour N échantillons. Si la QME peut être préparée avec une complexité linéaire en le nombre d’échantillons, il est alors possible de réaliser un gain de complexité [3]. Je présenterai une implémentation du noyau Gaussien en terme de QME, qui pourrait permettre un tel gain. Ref: [1] K. Muandet, K. Fukumizu, B. Sriperumbudur, B. Schölkopf, Kernel Mean Embedding: A Review and Beyond (2017) [2] H. Buhrman, R. Cleve, J. Watrous, and R. de Wolf, Phys. Rev. Lett. 87, 167902 (2001) [3] J. M. Müler, K. Muandet, B. Schölkopf, Phys. Rev. Research 1, 033159 (2019)</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    26th January 2024<br />
+    <b>QuDATA Workshop </b> (Day 3) <i><a href="https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html">Program</a></i> ⓘ
+  </summary>
+  <blockquote>
+    <p>9h00 - Yassine Hamoudi (LaBRI, CNRS Bordeaux) The NISQ Complexity of Collision Finding<br /> 10h00 - Maël Luce (IRIF, Univ. Paris-Cité) Distributed Grover Algorithm<br /> 11h00 - Simon Apers (IRIF, CNRS Paris) Quantum speedups for linear programming via interior point methods</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    25th January 2024<br />
+    <b>QuDATA Workshop </b> (Day 2) <i><a href="https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html">Program</a></i> ⓘ
+  </summary>
+  <blockquote>
+    <p>9h00 - Félix Huber (LaBRI, Univ. Bordeaux) Semidefinite programming bounds for quantum codes<br /> 10h00 - Wouter Rozendaal (IMB, Univ. Bordeaux) A Renormalisation Decoder for Kitaev’s Toric Code<br /> 11h00 - Jens Siewert (UPV/EHU, Leioa - Spain) Correlation constraints and the Bloch geometry of two-party systems <br />14h00 - Simon Martiel (IBM Quantum, Paris) Shallower CNOT circuits on realistic quantum hardware<br /> 15h00 - Arthur Braida (ATOS &amp; Univ. Orléans) Tight Lieb-Robinson bound for approximation ratio in Quantum Annealing<br /> 16h00 - Ion Nechita (CNRS Toulouse) Monogamy of highly symmetric states</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    24th January 2024<br />
+    <b>QuDATA Workshop </b> (Day 1) <i><a href="https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html">Program</a></i> ⓘ
+  </summary>
+  <blockquote>
+    <p>14h00 - Yixin Shen (INRIA Rennes) Finding many Collisions via Reusable Quantum Walks<br /> 15h00 - Stéphane Dartois (CEA LIST, Univ. Paris-Saclay) Geometric multipartite entanglement and injective norm of uniform quantum states<br />  16h00 - Leonardo Novo (INL Braga - Portugal) Quantum search and optimization with continuous-time quantum walks<br /></p>
+  </blockquote>
+</details>
+<p></p>
+
+<h3 id="2023">2023</h3>
+
+<details>
+  <summary>
+    19th December 2023<br />
+    <b>Yassine Hamoudi </b> (LaBRI) <i>Quantum algorithms for solving zero-sum games</i> ⓘ
+  </summary>
+  <blockquote>
+    <p>I will explain how quantum algorithms can compute the Nash equilibrium of zero-sum games more efficiently compared to classical algorithms. In particular, I will describe a quantum state preparation technique for sampling from any discrete probability distribution. The talk will highlight some common features and limitations in current quantum algorithms for solving optimization problems with rigorous guarantees.</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    11th December 2023<br />
+    <b>Nicolas Lorente </b> (CFM – Materials Physics Center) <i>Electron spin resonance with the scanning tunneling microscope: theory and design of simple quantum circuits on few-atom structures</i> ⓘ
+  </summary>
+  <blockquote>
+    <p>A scanning tunnelling microscope (STM) can drive the spin evolution of a single atom, molecule or nanostructure on a solid surface [1]. A tunnelling electron current is localized on a single atom, while the bias is modulated at microwave frequencies. The measured current shows excitations attributed to a spin resonance (ESR). We have developed software to simulate virtually any instance of ESR-STM under realistic conditions of temperature, external fields, and conductance [2-5]. Here, we suggest the realization of the usual quantum circuit made up of one Hadamard and one CNOT gate that converts a product state to a Bell state. Quantum circuit is simulated with the interaction of two Ti atoms on an MgO substrate driven by a scanning tunneling microscope. The first step of the sequence (a Hadamard gate) is implemented to act on the first spin. The evolution onto the final state demonstrates the realization of the Hadamard gate, plus current-induced decoherence if a longer evolution time is used. To characterize our gate, we evaluate its fidelity on the desired Bell state. This allows us to discuss the performance of the simulated gate using tunnelling currents and solid state-hosted spins. References: [1] K. Yang et al. Science 366, 509 (2019) [2] J. reina-Gálvez et al PRB 100, 035411 (2019) [3] J Reina-Gálvez, Lorente, Delgado, Arrachea Phys. Rev. B 104, 245415 (2021) [4] J Reina-Gálvez, Wolf, Lorente Phys. Rev. B 107, 235404 (2023) [5] https://github.com/qphensurf</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    11th December 2023<br />
+    <b>Nicolas Lorente </b> (CFM – Materials Physics Center) <i>Autour du futur ordinateur à 127 qubit au pays basque</i> ⓘ
+  </summary>
+  <blockquote>
+    <p>À San Sébastien, le département d’éducation du gouvernment du Pays Basque a fait l’acquisition auprès d’IBM d’un ordinateur quantique à 127 qubits. Dans ce second exposé seront présentées une partie des activités scientifiques à l’université de San Sébastien en lien avec cet investissement.</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    5th December 2023<br />
+    <b>Razvan Barbulescu </b> (IMB) <i>Reading group on “An Efficient Quantum Factoring Algorithm” (Oded Regev)</i> ⓘ
+  </summary>
+  <blockquote>
+    <p>This algorithm is an improvement of Shor’s algorithm for factorization. Although the number of qubits is the same, O(n), the number of gates is reduced from O(n^2) to O(n^(3/2)).</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    28th November 2023<br />
+    <b>Sebastian Zur </b> (CWI) <i>Multidimensional Electrical Networks</i> ⓘ
+  </summary>
+  <blockquote>
+    <p>Recently, Apers and Piddock [TQC ‘23] strengthened the natural connection between quantum walks and electrical networks by considering Kirchhoff’s Law and Ohm’s Law. In this talk, I will discuss the multidimensional electrical network by defining Kirchhoff’s Alternative Law and Ohm’s Alternative Law based on the novel multidimensional quantum walk framework by Jeffery and Zur [STOC ‘23]. This multidimensional electrical network allows one to sample from the electrical flow obtained via a multidimensional quantum walk algorithm and achieve exponential quantum-classical separations for certain graph problems. In analogy to the connection between the (edge-vertex) incidence matrix of a graph and Kirchhoff’s Law and Ohm’s Law in an electrical network, we also rebuild the connection between the alternative incidence matrix and Kirchhoff’s Alternative Law and Ohm’s Alternative Law.</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    21st November 2023<br />
+    <b>Yvan Le Borgne </b> (LaBRI) <i>Reading group on “High-threshold and low-overhead fault-tolerant quantum memory” (IBM Quantum)</i> ⓘ
+  </summary>
+  <blockquote>
+    <p>Compte-rendu de lecture de arxiv:2308.07915 par Bravyi, Cross, Gambetta, Maslov, Rall et Yoder.</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    17th October 2023<br />
+    <b>Razvan Barbulescu </b> (IMB) <i>Presentation of the HQI Project (France 2030, led by J.-C. Lafoucrière (CEA))</i> ⓘ
+  </summary>
+  <blockquote>
+    <p>Dans cet exposé, nous utilisons la présentation du projet Hybrid Quantum initiative pour faire un panorama de la recherche sur l’informatique quantique. Cela consiste en construction d’ordinateurs, correction des erreurs, optimisation, simulation, cryptanalyse etc.</p>
+  </blockquote>
+</details>
+<p></p>
+
+<details>
+  <summary>
+    26th September 2023<br />
+    <b>Yvan Le Borgne </b> (LaBRI) <i>Reading group on “Discrete bulk reconstruction” (Aaronson,Pollack)</i> ⓘ
+  </summary>
+  <blockquote>
+    <p>Compte-rendu de lecture de arXiv:2210.15601.</p>
+  </blockquote>
+</details>
+<p></p>
+
+<h3 id="older-events"><a href="https://combalgo.labri.fr/pmwiki.php/Groupe/Info-Quantique">Older events</a></h3>
+
+<p><br /></p>
+:ET

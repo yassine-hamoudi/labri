@@ -21,60 +21,60 @@
   field3: XXX
 
 - name: Cyril Gavoille
-  photo:
-  info:
-  website:
-  email:
+  photo: gavoille.jpeg
+  info: Professeur
+  website: https://dept-info.labri.fr/~gavoille/
+  email: gavoille@labri.fr
   type: "coinvest"
   number_fields: 2
   field1:
   field2:
 
 - name: Yvan Le Borgne
-  photo:
-  info:
-  website:
-  email:
+  photo: yvan.jpeg
+  info: Chargé de recherche CNRS
+  website: https://www.labri.fr/perso/borgne/
+  email: borgne@labri.fr
   type: "coinvest"
   number_fields: 2
   field1:
   field2:
 
 - name: Jean-François Marckert
-  photo:
-  info:
-  website:
-  email:
+  photo: marckert.png
+  info: Directeur de recherche CNRS
+  website: https://www.labri.fr/perso/marckert/
+  email: marckert@labri.fr
   type: "coinvest"
   number_fields: 2
   field1:
   field2:
 
 - name: Mikhail Raskin
-  photo:
-  info:
-  website:
-  email:
+  photo: raskin.jpeg
+  info: Maître de conférence
+  website: https://users.mccme.ru/raskin/
+  email: mikhail.raskin@u-bordeaux.fr
   type: "coinvest"
   number_fields: 2
   field1:
   field2:
 
 - name: Géraud Sénizergues
-  photo:
-  info:
-  website:
-  email:
+  photo: senizergues.jpeg
+  info: Professeur émérite
+  website: https://dept-info.labri.fr/~ges/
+  email: geraud.senizergues@u-bordeaux.fr
   type: "coinvest"
   number_fields: 2
   field1:
   field2:
 
 - name: Adrian Tanasa
-  photo:
-  info:
-  website:
-  email:
+  photo: tanasa.jpeg
+  info: Professeur
+  website: https://www.labri.fr/perso/atanasa/?lang=uk
+  email: adrian.tanasa@labri.fr
   type: "coinvest"
   number_fields: 2
   field1:
