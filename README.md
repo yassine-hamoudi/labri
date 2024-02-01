@@ -1,3 +1,3 @@
-# Add seminars
+# How to add a seminar
 
-- Open file _data/seminar.yml
+- Enter the description into the file _data/seminar.yml

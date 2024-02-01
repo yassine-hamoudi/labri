@@ -2,11 +2,10 @@
 title: "Seminar"
 layout: gridlay
 excerpt: "Allan Lab at Leiden University."
-sitemap: false
 permalink: /seminar/
 ---
 
-[![emaim](/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**Subscribe to the mailing list**](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique)
+[![email](/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**Subscribe to the mailing list**](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique)
 
 [![calendar](/images/logo/calendar.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**Subscribe to iCalendar**](/files/calendar.ics)
 
