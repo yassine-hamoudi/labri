@@ -20,6 +20,16 @@
   field2: XXX
   field3: XXX
 
+- name: Arnaud Casteigts
+  photo: casteigts.jpeg
+  info: Professeur
+  website: https://arnaudcasteigts.net/
+  email: arnaud.casteigts@u-bordeaux.fr
+  type: "coinvest"
+  number_fields: 2
+  field1:
+  field2:
+
 - name: Cyril Gavoille
   photo: gavoille.jpeg
   info: Professeur
