@@ -1,6 +1,6 @@
 ---
 title: "Seminar"
-layout: gridlay
+layout: textlay
 sitemap: false
 permalink: /seminar/
 ---
