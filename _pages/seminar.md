@@ -1,7 +1,7 @@
 ---
 title: "Seminar"
 layout: gridlay
-excerpt: "Allan Lab at Leiden University."
+sitemap: false
 permalink: /seminar/
 ---
 
