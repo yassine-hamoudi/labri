@@ -7,7 +7,7 @@
 
 # Site settings
 title: Quantum Information & Computation
-url: "https://yassine-hamoudi.github.io/labri/"
+url: "https://yassine-hamoudi.github.io/labri"
 baseurl: ""
 
 include:
