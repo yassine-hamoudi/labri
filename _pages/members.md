@@ -17,9 +17,9 @@ permalink: /members/
 {% assign typeMember = 'coinvest' %}
 {% include print_members.md %}
 
-## Students
+<!-- ## Students
 {% assign typeMember = 'student' %}
-{% include print_members.md %}
+{% include print_members.md %} -->
 
 ## Local Collaborators
 <div class="row">
@@ -43,7 +43,7 @@ permalink: /members/
 </div>
 </div>
 
-## Former members
+<!-- ## Former members
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -75,4 +75,4 @@ permalink: /members/
 
 </div>
 
-<br>
+<br> -->

@@ -11,7 +11,7 @@
 
 - name: Felix Huber
   photo: huber.jpg
-  info: Professeur junior
+  info: Chaire de professeur junior
   website: https://www.labri.fr/profil/Huber_ID1690293053
   email: felix.huber@labri.fr
   type: "principal"
@@ -20,15 +20,15 @@
   field2: XXX
   field3: XXX
 
-- name: Arnaud Casteigts
-  photo: casteigts.jpeg
-  info: Professeur
-  website: https://arnaudcasteigts.net/
-  email: arnaud.casteigts@u-bordeaux.fr
-  type: "coinvest"
-  number_fields: 2
-  field1:
-  field2:
+# - name: Arnaud Casteigts
+#   photo: casteigts.jpeg
+#   info: Professeur
+#   website: https://arnaudcasteigts.net/
+#   email: arnaud.casteigts@u-bordeaux.fr
+#   type: "coinvest"
+#   number_fields: 2
+#   field1:
+#   field2:
 
 - name: Cyril Gavoille
   photo: gavoille.jpeg
@@ -50,6 +50,16 @@
   field1:
   field2:
 
+# - name: Jean-François Marckert
+#   photo: marckert.png
+#   info: Directeur de recherche CNRS
+#   website: https://www.labri.fr/perso/marckert/
+#   email: marckert@labri.fr
+#   type: "coinvest"
+#   number_fields: 2
+#   field1:
+#   field2:
+
 - name: Mikhail Raskin
   photo: raskin.jpeg
   info: Maître de conférence
@@ -59,6 +69,16 @@
   number_fields: 2
   field1:
   field2:
+
+# - name: Géraud Sénizergues
+#   photo: senizergues.jpeg
+#   info: Professeur émérite
+#   website: https://dept-info.labri.fr/~ges/
+#   email: geraud.senizergues@u-bordeaux.fr
+#   type: "coinvest"
+#   number_fields: 2
+#   field1:
+#   field2:
 
 - name: Adrian Tanasa
   photo: tanasa.jpeg
