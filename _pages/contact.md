@@ -1,7 +1,6 @@
 ---
-title: "Allan Lab - Publications"
-layout: gridlay
-excerpt: "Allan Lab -- Publications."
+title: "Contact"
+layout: default
 sitemap: false
 permalink: /contact/
 ---

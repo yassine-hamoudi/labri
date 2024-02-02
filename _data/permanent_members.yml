@@ -11,7 +11,7 @@
 
 - name: Felix Huber
   photo: huber.jpg
-  info: Chaire de professeur junior
+  info: Professeur junior
   website: https://www.labri.fr/profil/Huber_ID1690293053
   email: felix.huber@labri.fr
   type: "principal"
@@ -50,31 +50,11 @@
   field1:
   field2:
 
-- name: Jean-François Marckert
-  photo: marckert.png
-  info: Directeur de recherche CNRS
-  website: https://www.labri.fr/perso/marckert/
-  email: marckert@labri.fr
-  type: "coinvest"
-  number_fields: 2
-  field1:
-  field2:
-
 - name: Mikhail Raskin
   photo: raskin.jpeg
   info: Maître de conférence
   website: https://users.mccme.ru/raskin/
   email: mikhail.raskin@u-bordeaux.fr
-  type: "coinvest"
-  number_fields: 2
-  field1:
-  field2:
-
-- name: Géraud Sénizergues
-  photo: senizergues.jpeg
-  info: Professeur émérite
-  website: https://dept-info.labri.fr/~ges/
-  email: geraud.senizergues@u-bordeaux.fr
   type: "coinvest"
   number_fields: 2
   field1:

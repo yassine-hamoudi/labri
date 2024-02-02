@@ -1,11 +1,17 @@
 - name: Shrinidhi Teganahally Sridhara
-  time: Spring 2023
   type: "bachelor"
+  time: Spring 2023
+  start_date:
+  end_date:
 
 - name: Stéphane Dartois
-  time: 2020-2021
   type: "postdoc"
+  time: 2020-2021
+  start_date:
+  end_date:
 
 - name: Ghazal Kachigar
-  time: 2016-2019
   type: "phd"
+  time: 2016-2019
+  start_date:
+  end_date:

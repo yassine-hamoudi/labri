@@ -1,15 +1,14 @@
 ---
 title: "Seminar"
-layout: textlay
+layout: default
 sitemap: false
 permalink: /seminar/
 ---
 
-[![email]({{ site.url }}{{ site.baseurl }}/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Subscribe to the mailing list**](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique)
-
+[![email]({{ site.url }}{{ site.baseurl }}/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Subscribe to the mailing list**](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique) &nbsp;&nbsp;
 [![calendar]({{ site.url }}{{ site.baseurl }}/images/logo/calendar.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Subscribe to iCalendar**]({{ site.url }}{{ site.baseurl }}/files/calendar.ics)
 
-#### The seminar takes place on Tuesdays from 15:00 to 16:00 CET. It is located at [LaBRI]({{site.baseurl}}/contact), either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are usually in english and broadcasted on Zoom. For questions, you can reach [Yvan Le Borgne](mailto:borgne@labri.fr) or [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr).
+#### The seminar takes place on Tuesdays from 15:00 to 16:00 CET. It is located at [LaBRI]({{ site.url }}{{ site.baseurl }}/contact), either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are usually in english and broadcasted on Zoom. For questions, you can reach [Yvan Le Borgne](mailto:borgne@labri.fr) or [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr).
 <br>
 
 {% capture nowDay %}{{'now' | date: '%s'}}{% endcapture %}

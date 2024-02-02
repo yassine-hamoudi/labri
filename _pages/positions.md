@@ -1,6 +1,6 @@
 ---
 title: "Open positions"
-layout: textlay
+layout: default
 sitemap: false
 permalink: /positions/
 ---

@@ -7,7 +7,7 @@ permalink: /members/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see open positions)]({{ site.url }}{{ site.baseurl }}/positions) **!**
+ **We are  looking for new students and postdocs to join the team** [(see open positions)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
 ## Principal Investigators
 {% assign typeMember = 'principal' %}
