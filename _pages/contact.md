@@ -5,10 +5,14 @@ sitemap: false
 permalink: /contact/
 ---
 
-#### **Email**
-> [qic@labri.fr](mailto:qic@labri.fr)
+#### **Email addresses**
+> Head: [Felix Huber](mailto:felix.huber@labri.fr)
+>
+> Deputy head: [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr)
+>
+> Seminar organizer: [Yvan Le Borgne](borgne@labri.fr)
 
-#### **Address**
+#### **Location**
 > LaBRI, Bâtiment A30
 >
 > 351 cours de la Libération

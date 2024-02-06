@@ -47,7 +47,7 @@ permalink: /
 
 </div>
 
-#### We are grateful for funding from the [Université de Bordeaux](https://www.u-bordeaux.fr/en), the Naquidis center, the [CNRS](https://www.cnrs.fr/en), the [PEPR EPIQ](https://project.inria.fr/epiq/fr/) and the [ANR QuDATA](https://anr.fr/Project-ANR-18-CE47-0010).
+#### We are grateful for funding from the [Université de Bordeaux](https://www.u-bordeaux.fr/en), the Naquidis center, the [CNRS](https://www.cnrs.fr/en), the [PEPR EPIQ](https://project.inria.fr/epiq/) and the [ANR QuDATA](https://anr.fr/Project-ANR-18-CE47-0010).
 
 #### **We are  looking for passionate new students and postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 

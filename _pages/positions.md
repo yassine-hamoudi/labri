@@ -7,23 +7,34 @@ permalink: /positions/
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
-
-We are  looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
+If you want to work with us as a student or Postdoc, please send an email to the [member]({{ site.url }}{{ site.baseurl }}/members) that best fits your interests. State briefly why you are motivated and attach a CV, including information about your grades and/or research experience. It is strongly encouraged to provide the names and email addresses of one or two recommenders that can support your application.
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+We have currently one PhD and two Postdoc positions funded by the PEPR EPiCQ grant and .... We are particularly looking for candidates that are be interested in the following topics:
 
+*Large-scale mathematical optimization for quantum information and computation problems:*
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+- approximation algorithms for ground state problems
+- characterization of quantum communication capacities
+and quantum error correcting codes
+- quantum correlations such as entanglement and nonlocality
+- machine learning for provable results in optimization
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+Contact: [Felix Huber](mailto:felix.huber@labri.fr)
+
+*Quantum algorithms for MCMC and optimization methods:*
+  - properties of quantum walks (composition, amortized cost, robustness...)
+  - quantum speedups for algorithmic convex geometry
+  - algorithms and lower bounds in query complexity
+
+Contact: [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr)
+
+PhD positions are granted for 36 months with a net income of about 1700 €.
+Postdocs positions are granted for 24 months with a net income ranging between 2100 € and 2500 € depending on the candidate experience. It is required to hold a master's degree (resp. PhD) before starting a PhD (resp. Postdoc) position.
+The positions include all the social benefits of a usual French contract (health insurance, public transport expenses, paid leave, etc.).
+
+### Applications for Undergraduate / Master students
+We can offer internships for undergraduate or master students. Applicants should have a strong mathematical background and some basic knowledge about quantum information.
 
 <br>
