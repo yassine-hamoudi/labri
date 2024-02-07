@@ -1,3 +1,67 @@
+- day: 2024-04-30
+  time: "15:00"
+  room: "076"
+  speaker: Gerard Munné
+  affiliation: Jagiellonian University Kraków
+  title: TBA
+  abstract:
+
+- day: 2024-04-16
+  time: "15:00"
+  room: "076"
+  speaker: Albert Rico
+  affiliation: Jagiellonian University Kraków
+  title: TBA
+  abstract:
+
+- day: 2024-04-09
+  time: "15:00"
+  room: "076"
+  speaker: Lev-Arcady Sellem
+  affiliation: Inria Paris
+  title: TBA
+  abstract:
+
+- day: 2024-04-02
+  time: "15:00"
+  room: "076"
+  speaker: Yanlin Chen
+  affiliation: CWI
+  title: TBA
+  abstract:
+
+- day: 2024-03-26
+  time: "15:00"
+  room: "076"
+  speaker: Maxime Cautrès
+  affiliation: LIG
+  title: TBA
+  abstract:
+
+- day: 2024-03-12
+  time: "15:00"
+  room: "076"
+  speaker: Sébastien Labbé
+  affiliation: LaBRI
+  title: TBA
+  abstract:
+
+- day: 2024-03-05
+  time: "15:00"
+  room: "076"
+  speaker: Clément Maria
+  affiliation: Inria d'Université Côte d'Azur
+  title: TBA
+  abstract:
+
+- day: 2024-02-20
+  time: "15:00"
+  room: "076"
+  speaker: Video session
+  affiliation: N/A
+  title: New directions in quantum state learning and testing (Ryan O'Donnell)
+  abstract: "We will be watching and commenting the video <a href='https://www.youtube.com/watch?v=MnxQ3oqTWgQ'>https://www.youtube.com/watch?v=MnxQ3oqTWgQ</a> by Ryan O'Donnell."
+
 - day: 2024-02-13
   time: "15:00"
   room: "076"
