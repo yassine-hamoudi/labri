@@ -1,5 +1,6 @@
 
-{% for talk in site.data.seminar %}
+{% assign sorted = site.data.seminar | sort: 'day' | reverse %}
+{% for talk in sorted %}
   {% capture talkDay %}{{talk.day | date: '%s'}}{% endcapture %}
   {% assign talkYear = talk.day | date: "%Y" %}
   {% if talkDay < nowDay and talkYear == year%}

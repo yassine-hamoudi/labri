@@ -11,7 +11,7 @@ If you want to work with us as a student or Postdoc, please send an email to the
 
 ### Applications for PhD and Postdoc positions
 
-We have currently one PhD and two Postdoc positions funded by the PEPR EPiCQ grant and .... We are particularly looking for candidates that are be interested in the following topics:
+We have currently one PhD and two Postdoc positions funded by the PEPR EPiCQ grant and .... We are particularly looking for candidates that are interested in the following topics:
 
 *Large-scale mathematical optimization for quantum information and computation problems:*
 
@@ -24,7 +24,7 @@ and quantum error correcting codes
 Contact: [Felix Huber](mailto:felix.huber@labri.fr)
 
 *Quantum algorithms for MCMC and optimization methods:*
-  - properties of quantum walks (composition, amortized cost, robustness...)
+  - discrete-time quantum walks
   - quantum speedups for algorithmic convex geometry
   - algorithms and lower bounds in query complexity
 

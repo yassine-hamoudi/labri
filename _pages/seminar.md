@@ -17,7 +17,8 @@ permalink: /seminar/
 
 # Upcoming talks
 
-{% for talk in site.data.seminar %}
+{% assign sorted = site.data.seminar | sort: 'day'  %}
+{% for talk in sorted %}
   {% capture talkDay %}{{talk.day | date: '%s'}}{% endcapture %}
   {% if talkDay >= nowDay %}
 <details markdown=block>

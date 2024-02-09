@@ -70,18 +70,10 @@
   title: TBA
   abstract:
 
-- day: 2024-01-09
-  time: "15:00"
-  room: "076"
-  speaker: Grégory Brivady
-  affiliation: Télécom Paris
-  title: Calcul quantique de la Maximum Mean Discrepancy de Distribution de Probabilités avec un noyau Gaussien
-  abstract: "La Maximum Mean Discrepancy (MMD) permet de mesurer la distance entre distributions de probabilités. Son calcul est réalisé à l'aide des Kernel Mean Embedding, qui consistent à représenter les distributions dans des espaces de dimensions supérieur muni d'un produit scalaire, puis de calculer la distance dans cet espace [1]. Le swap-test [2] est une technique permettant d'estimer des produits scalaires avec un ordinateur quantique. En définissant la Quantum Mean Embedding (QME), le swap-test permet de rendre la complexité de calcul d'une estimation de la MMD indépendante du nombre d'échantillons [3], contrairement au cas classique où O(N²) calculs sont nécessaires pour N échantillons. Si la QME peut être préparée avec une complexité linéaire en le nombre d'échantillons, il est alors possible de réaliser un gain de complexité [3]. Je présenterai une implémentation du noyau Gaussien en terme de QME, qui pourrait permettre un tel gain. Ref: [1] K. Muandet, K. Fukumizu, B. Sriperumbudur, B. Schölkopf, Kernel Mean Embedding: A Review and Beyond (2017) [2] H. Buhrman, R. Cleve, J. Watrous, and R. de Wolf, Phys. Rev. Lett. 87, 167902 (2001) [3] J. M. Müler, K. Muandet, B. Schölkopf, Phys. Rev. Research 1, 033159 (2019)"
-
 - day: 2024-01-26
   time: "15:00"
   room: "076"
-  speaker: QuDATA Workshop
+  speaker: Workshop ANR QuDATA
   affiliation: Day 3
   title: <a href="https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html">Program</a>
   abstract: "9h00 - Yassine Hamoudi (LaBRI, CNRS Bordeaux) The NISQ Complexity of Collision Finding<br> 10h00 - Maël Luce (IRIF, Univ. Paris-Cité) Distributed Grover Algorithm<br> 11h00 - Simon Apers (IRIF, CNRS Paris) Quantum speedups for linear programming via interior point methods"
@@ -89,7 +81,7 @@
 - day: 2024-01-25
   time: "15:00"
   room: "076"
-  speaker: QuDATA Workshop
+  speaker: Workshop ANR QuDATA
   affiliation: Day 2
   title: <a href="https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html">Program</a>
   abstract: "9h00 - Félix Huber (LaBRI, Univ. Bordeaux) Semidefinite programming bounds for quantum codes<br> 10h00 - Wouter Rozendaal (IMB, Univ. Bordeaux) A Renormalisation Decoder for Kitaev's Toric Code<br> 11h00 - Jens Siewert (UPV/EHU, Leioa - Spain) Correlation constraints and the Bloch geometry of two-party systems <br>14h00 - Simon Martiel (IBM Quantum, Paris) Shallower CNOT circuits on realistic quantum hardware<br> 15h00 - Arthur Braida (ATOS & Univ. Orléans) Tight Lieb-Robinson bound for approximation ratio in Quantum Annealing<br> 16h00 - Ion Nechita (CNRS Toulouse) Monogamy of highly symmetric states"
@@ -97,10 +89,18 @@
 - day: 2024-01-24
   time: "15:00"
   room: "076"
-  speaker: QuDATA Workshop
+  speaker: Workshop ANR QuDATA
   affiliation: Day 1
   title: <a href="https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html">Program</a>
   abstract: "14h00 - Yixin Shen (INRIA Rennes) Finding many Collisions via Reusable Quantum Walks<br> 15h00 - Stéphane Dartois (CEA LIST, Univ. Paris-Saclay) Geometric multipartite entanglement and injective norm of uniform quantum states<br>  16h00 - Leonardo Novo (INL Braga - Portugal) Quantum search and optimization with continuous-time quantum walks<br>"
+
+- day: 2024-01-09
+  time: "15:00"
+  room: "076"
+  speaker: Grégory Brivady
+  affiliation: Télécom Paris
+  title: Calcul quantique de la Maximum Mean Discrepancy de Distribution de Probabilités avec un noyau Gaussien
+  abstract: "La Maximum Mean Discrepancy (MMD) permet de mesurer la distance entre distributions de probabilités. Son calcul est réalisé à l'aide des Kernel Mean Embedding, qui consistent à représenter les distributions dans des espaces de dimensions supérieur muni d'un produit scalaire, puis de calculer la distance dans cet espace [1]. Le swap-test [2] est une technique permettant d'estimer des produits scalaires avec un ordinateur quantique. En définissant la Quantum Mean Embedding (QME), le swap-test permet de rendre la complexité de calcul d'une estimation de la MMD indépendante du nombre d'échantillons [3], contrairement au cas classique où O(N²) calculs sont nécessaires pour N échantillons. Si la QME peut être préparée avec une complexité linéaire en le nombre d'échantillons, il est alors possible de réaliser un gain de complexité [3]. Je présenterai une implémentation du noyau Gaussien en terme de QME, qui pourrait permettre un tel gain. Ref: [1] K. Muandet, K. Fukumizu, B. Sriperumbudur, B. Schölkopf, Kernel Mean Embedding: A Review and Beyond (2017) [2] H. Buhrman, R. Cleve, J. Watrous, and R. de Wolf, Phys. Rev. Lett. 87, 167902 (2001) [3] J. M. Müler, K. Muandet, B. Schölkopf, Phys. Rev. Research 1, 033159 (2019)"
 
 - day: 2023-12-19
   time: "15:00"
