@@ -11,7 +11,7 @@ If you want to work with us as a student or Postdoc, please send an email to the
 
 ### Applications for PhD and Postdoc positions
 
-We have currently one PhD and two Postdoc positions funded by the PEPR EPIQ grant and the ANR for junior professor. We are particularly looking for candidates that are interested in the following topics:
+We have currently one PhD and two Postdoc positions funded by the PEPR EPIQ grant and the ANR grant for junior professor. We are particularly looking for candidates that are interested in the following topics:
 
 *Large-scale mathematical optimization for quantum information and computation problems:*
 
