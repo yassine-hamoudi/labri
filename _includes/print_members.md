@@ -13,6 +13,8 @@
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
   <a href="{{ member.website }}">Website</a>&nbsp;&nbsp;&nbsp;<a href="mailto:{{ member.email }}">Email</a>
+
+  {% if member.number_fields <> 0 %}
   <ul style="margin-top:-25px;padding:16px;overflow: hidden">
 
   {% if member.number_fields == 1 %}
@@ -23,7 +25,7 @@
   <li> {{ member.field1}} </li>
   <li> {{ member.field2}} </li>
   {% endif %}
- 
+
   {% if member.number_fields == 3 %}
   <li> {{ member.field1 }} </li>
   <li> {{ member.field2 }} </li>
@@ -46,6 +48,7 @@
   {% endif %}
 
   </ul>
+    {% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
