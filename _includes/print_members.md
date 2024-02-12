@@ -23,7 +23,7 @@
   <li> {{ member.field1}} </li>
   <li> {{ member.field2}} </li>
   {% endif %}
-
+ 
   {% if member.number_fields == 3 %}
   <li> {{ member.field1 }} </li>
   <li> {{ member.field2 }} </li>
