@@ -29,19 +29,20 @@ permalink: /
 </div>
 
 <div class="col-sm-4 clearfix">
-<div style="text-align:center"><h4>Complexity Theory</h4></div>
+<div style="text-align:center"><h4>Mathematics of quantum correlations and quantum codes</h4></div>
  <ul>
-    <li>Limitations of near-term quantum computers</li>
-    <li>Classical and quantum query complexity</li>
+    <li>Mathematical Optimization and non-commutative algebras</li>
+    <li>Entanglement and nonlocality</li>
+    <li>Bounds and implementations of quantum codes</li>
+    <li>Ground state problems</li>
  </ul>
 </div>
 
 <div class="col-sm-4 clearfix">
-<div style="text-align:center"><h4>XXXXXXXXXXX</h4></div>
+<div style="text-align:center"><h4>Complexity Theory</h4></div>
  <ul>
-    <li>XXXXXXXXXXX</li>
-    <li>XXXXXXXXXXX</li>
-    <li>XXXXXXXXXXX</li>
+    <li>Limitations of near-term quantum computers</li>
+    <li>Classical and quantum query complexity</li>
  </ul>
 </div>
 
