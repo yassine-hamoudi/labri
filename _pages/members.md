@@ -5,15 +5,15 @@ sitemap: false
 permalink: /members/
 ---
 
-# Group Members
+<!-- # Group Members -->
 
- **We are  looking for new students and postdocs to join the team** [(see open positions)]({{ site.url }}{{ site.baseurl }}/positions) **!**
+#### **We are  looking for new students and postdocs to join the team** [(see open positions)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
-## Principal Investigators
+## Group Leaders
 {% assign typeMember = 'principal' %}
 {% include print_members.md %}
 
-## Co-Investigators
+## Group Members
 {% assign typeMember = 'coinvest' %}
 {% include print_members.md %}
 

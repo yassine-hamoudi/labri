@@ -8,14 +8,19 @@
   website: https://www.labri.fr/perso/marckert/
   field:
 
-- name: Géraud Sénizergues
-  location: LaBRI
-  website: https://dept-info.labri.fr/~ges/
-  field:
+# - name: Géraud Sénizergues
+#   location: LaBRI
+#   website: https://dept-info.labri.fr/~ges/
+#   field:
 
 - name: Razvan Barbulescu
   location: IMB
   website: https://razvanbarbulescu.pages.math.cnrs.fr/
+  field: Cryptography
+
+- name: Alice Pellet--Mary
+  location: IMB
+  website: https://apelletm.pages.math.cnrs.fr/page-perso/
   field: Cryptography
 
 - name: Simon Martiel

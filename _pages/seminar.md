@@ -26,7 +26,7 @@ permalink: /seminar/
     {{ talk.day | date_to_long_string: "ordinal" }} at {{ talk.time}} (Room {{ talk.room }})<br>
     <b>{{ talk.speaker }} </b> ({{ talk.affiliation }}) <i>{{ talk.title }}</i> &#9432;
   </summary>
-   {{ talk.abstract }}
+   > {{ talk.abstract }}
 </details>
 <p></p>
   {% endif %}

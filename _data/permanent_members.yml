@@ -26,9 +26,7 @@
 #   website: https://arnaudcasteigts.net/
 #   email: arnaud.casteigts@u-bordeaux.fr
 #   type: "coinvest"
-#   number_fields: 2
-#   field1:
-#   field2:
+#   number_fields: 0
 
 - name: Cyril Gavoille
   photo: gavoille.jpeg
@@ -36,9 +34,7 @@
   website: https://dept-info.labri.fr/~gavoille/
   email: gavoille@labri.fr
   type: "coinvest"
-  number_fields: 2
-  field1:
-  field2:
+  number_fields: 0
 
 - name: Yvan Le Borgne
   photo: yvan.jpeg
@@ -46,9 +42,7 @@
   website: https://www.labri.fr/perso/borgne/
   email: borgne@labri.fr
   type: "coinvest"
-  number_fields: 2
-  field1:
-  field2:
+  number_fields: 0
 
 # - name: Jean-François Marckert
 #   photo: marckert.png
@@ -56,9 +50,7 @@
 #   website: https://www.labri.fr/perso/marckert/
 #   email: marckert@labri.fr
 #   type: "coinvest"
-#   number_fields: 2
-#   field1:
-#   field2:
+#   number_fields: 0
 
 - name: Mikhail Raskin
   photo: raskin.jpeg
@@ -66,19 +58,8 @@
   website: https://users.mccme.ru/raskin/
   email: mikhail.raskin@u-bordeaux.fr
   type: "coinvest"
-  number_fields: 2
-  field1:
-  field2:
+  number_fields: 0
 
-# - name: Géraud Sénizergues
-#   photo: senizergues.jpeg
-#   info: Professeur émérite
-#   website: https://dept-info.labri.fr/~ges/
-#   email: geraud.senizergues@u-bordeaux.fr
-#   type: "coinvest"
-#   number_fields: 2
-#   field1:
-#   field2:
 
 - name: Adrian Tanasa
   photo: tanasa.jpeg
@@ -86,6 +67,12 @@
   website: https://www.labri.fr/perso/atanasa/?lang=uk
   email: adrian.tanasa@labri.fr
   type: "coinvest"
-  number_fields: 2
-  field1:
-  field2:
+  number_fields: 0
+  
+- name: Géraud Sénizergues
+  photo: senizergues.jpeg
+  info: Professeur émérite
+  website: https://dept-info.labri.fr/~ges/
+  email: geraud.senizergues@u-bordeaux.fr
+  type: "coinvest"
+  number_fields: 0
