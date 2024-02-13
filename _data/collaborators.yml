@@ -13,22 +13,32 @@
 #   website: https://dept-info.labri.fr/~ges/
 #   field:
 
-- name: Razvan Barbulescu
-  location: IMB
-  website: https://razvanbarbulescu.pages.math.cnrs.fr/
-  field: Cryptography
+# - name: Razvan Barbulescu
+#   location: IMB
+#   website: https://razvanbarbulescu.pages.math.cnrs.fr/
+#   field: Cryptography
+#
+# - name: Alice Pellet--Mary
+#   location: IMB
+#   website: https://apelletm.pages.math.cnrs.fr/page-perso/
+#   field: Cryptography
 
-- name: Alice Pellet--Mary
-  location: IMB
-  website: https://apelletm.pages.math.cnrs.fr/page-perso/
-  field: Cryptography
+# - name: Simon Martiel
+#   location: IBM
+#   website: https://fr.linkedin.com/in/simon-martiel
+#   field: Quantum circuit synthesis
 
-- name: Simon Martiel
+- name: XXXXX XXXXXX
   location: IBM
-  website: https://fr.linkedin.com/in/simon-martiel
-  field: Quantum circuit synthesis
+  website:
+  field:
 
-- name: Gilles Zémor
+# - name: Gilles Zémor
+#   location: IMB
+#   website: https://www.math.u-bordeaux.fr/~gzemor/
+#   field: Classical and quantum error-correcting codes, Applications of coding to cryptography
+
+- name: XXXXX XXXXXX
   location: IMB
-  website: https://www.math.u-bordeaux.fr/~gzemor/
-  field: Classical and quantum error-correcting codes, Applications of coding to cryptography
+  website:
+  field:
