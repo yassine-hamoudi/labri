@@ -13,13 +13,13 @@ permalink: /seminar/
 #### The seminar takes place on Tuesdays from 15:00 to 16:00 CET. It is located at [LaBRI]({{ site.url }}{{ site.baseurl }}/contact), either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are usually in english and broadcasted on [Zoom](https://u-bordeaux-fr.zoom.us/j/89861302375?pwd=UW03M05sZzZ0cWFUT3lwNC92b1Y1Zz09). For questions, you can reach [Yvan Le Borgne](mailto:borgne@labri.fr).
 <br>
 
-{% capture nowDay %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture nowDay %}{{'now' | date:  "%Y%m%d"}}{% endcapture %}
 
 # Upcoming talks
 
 {% assign sorted = site.data.seminar | sort: 'day'  %}
 {% for talk in sorted %}
-  {% capture talkDay %}{{talk.day | date: '%s'}}{% endcapture %}
+  {% capture talkDay %}{{talk.day | date: "%Y%m%d"}}{% endcapture %}
   {% if talkDay >= nowDay %}
 <details markdown=block>
   <summary markdown=span>

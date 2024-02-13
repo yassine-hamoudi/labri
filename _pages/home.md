@@ -19,19 +19,19 @@ permalink: /
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<div style="text-align:center"><h4>Quantum Algorithms</h4></div>
+<div style="text-align:center"><h4>Quantum Algorithms and Computational Speedups</h4></div>
  <ul>
     <li>Optimization methods</li>
     <li>Monte Carlo methods</li>
     <li>Combinatorial algorithms</li>
-    <li>Statistical estimators and metrology</li>
+    <li>Statistical estimators</li>
  </ul>
 </div>
 
 <div class="col-sm-4 clearfix">
-<div style="text-align:center"><h4>Mathematics of quantum correlations and quantum codes</h4></div>
+<div style="text-align:center"><h4>Mathematics of Quantum Correlations and Quantum Codes</h4></div>
  <ul>
-    <li>Mathematical Optimization and non-commutative algebras</li>
+    <li>Mathematical optimization and non-commutative algebras</li>
     <li>Entanglement and nonlocality</li>
     <li>Bounds and implementations of quantum codes</li>
     <li>Ground state problems</li>
@@ -41,8 +41,8 @@ permalink: /
 <div class="col-sm-4 clearfix">
 <div style="text-align:center"><h4>Complexity Theory</h4></div>
  <ul>
-    <li>Limitations of near-term quantum computers</li>
     <li>Classical and quantum query complexity</li>
+    <li>Limitations of near-term quantum computers</li>
  </ul>
 </div>
 
