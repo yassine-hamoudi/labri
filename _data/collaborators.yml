@@ -28,7 +28,7 @@
   website: https://fr.linkedin.com/in/simon-martiel
   field: Quantum circuit synthesis
 
-# - name: Gilles Zémor
-#   location: IMB
-#   website: https://www.math.u-bordeaux.fr/~gzemor/
-#   field: Classical and quantum error-correcting codes, Applications of coding to cryptography
+- name: Gilles Zémor
+  location: IMB
+  website: https://www.math.u-bordeaux.fr/~gzemor/
+  field: Classical and quantum error-correcting codes, Applications of coding to cryptography
