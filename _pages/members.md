@@ -52,19 +52,19 @@ permalink: /members/
 </div>
 </div>
 
-<!-- ## Former members
+## Former Members
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-8 clearfix">
 <h4>Bachelor and Master Students</h4>
 {% for member in site.data.former_members %}
-{% if member.type == "bachelor" %}
+{% if member.type == "bachelor" or member.type == "master"%}
   {{ member.name }}, {{ member.time }}
 {% endif %}
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+<!-- <div class="col-sm-4 clearfix">
 <h4>PhD students</h4>
 {% for member in site.data.former_members %}
 {% if member.type == "phd" %}
@@ -80,8 +80,6 @@ permalink: /members/
   {{ member.name }}, {{ member.time }}
 {% endif %}
 {% endfor %}
-</div>
+</div> -->
 
 </div>
-
-<br> -->
