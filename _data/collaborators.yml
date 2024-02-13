@@ -23,15 +23,10 @@
 #   website: https://apelletm.pages.math.cnrs.fr/page-perso/
 #   field: Cryptography
 
-# - name: Simon Martiel
-#   location: IBM
-#   website: https://fr.linkedin.com/in/simon-martiel
-#   field: Quantum circuit synthesis
-
-- name: XXXXX XXXXXX
+- name: Simon Martiel
   location: IBM
-  website:
-  field:
+  website: https://fr.linkedin.com/in/simon-martiel
+  field: Quantum circuit synthesis
 
 # - name: Gilles Zémor
 #   location: IMB
