@@ -10,16 +10,16 @@ permalink: /members/
 #### **We are  looking for new students and postdocs to join the team** [(see open positions)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
 ## Group Leaders
-{% assign typeMember = 'principal' %}
+{% assign typeMember = 'leader' %}
 {% include print_members.md %}
 
-## Group Members
-{% assign typeMember = 'coinvest' %}
+## Permanent Members
+{% assign typeMember = 'member' %}
 {% include print_members.md %}
 
-<!-- ## Students
+## Students
 {% assign typeMember = 'student' %}
-{% include print_members.md %} -->
+{% include print_students.md %}
 
 ## Local Collaborators
 <div class="row">
@@ -52,7 +52,7 @@ permalink: /members/
 </div>
 </div>
 
-## Former Members
+<!-- ## Former Members
 <div class="row">
 
 <div class="col-sm-8 clearfix">
@@ -64,7 +64,7 @@ permalink: /members/
 {% endfor %}
 </div>
 
-<!-- <div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>PhD students</h4>
 {% for member in site.data.former_members %}
 {% if member.type == "phd" %}
@@ -80,6 +80,6 @@ permalink: /members/
   {{ member.name }}, {{ member.time }}
 {% endif %}
 {% endfor %}
-</div> -->
-
 </div>
+
+</div> -->

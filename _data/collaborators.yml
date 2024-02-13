@@ -13,11 +13,11 @@
 #   website: https://dept-info.labri.fr/~ges/
 #   field:
 
-# - name: Razvan Barbulescu
-#   location: IMB
-#   website: https://razvanbarbulescu.pages.math.cnrs.fr/
-#   field: Cryptography
-#
+- name: Razvan Barbulescu
+  location: IMB
+  website: https://razvanbarbulescu.pages.math.cnrs.fr/
+  field: Cryptography
+
 # - name: Alice Pellet--Mary
 #   location: IMB
 #   website: https://apelletm.pages.math.cnrs.fr/page-perso/
@@ -32,8 +32,3 @@
 #   location: IMB
 #   website: https://www.math.u-bordeaux.fr/~gzemor/
 #   field: Classical and quantum error-correcting codes, Applications of coding to cryptography
-
-- name: XXXXX XXXXXX
-  location: IMB
-  website:
-  field:

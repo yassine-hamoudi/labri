@@ -29,9 +29,8 @@ permalink: /
 </div>
 
 <div class="col-sm-4 clearfix">
-<div style="text-align:center"><h4>Mathematics of Quantum Correlations and Quantum Codes</h4></div>
+<div style="text-align:center"><h4>Mathematical optimization and non-commutative algebras</h4></div>
  <ul>
-    <li>Mathematical optimization and non-commutative algebras</li>
     <li>Entanglement and nonlocality</li>
     <li>Bounds and implementations of quantum codes</li>
     <li>Ground state problems</li>

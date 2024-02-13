@@ -3,7 +3,8 @@
   info: Chargé de recherche CNRS
   website: https://yassine-hamoudi.github.io/
   email: yassine.hamoudi@labri.fr
-  type: "principal"
+  publications: http://arxiv.org/a/hamoudi_y_1
+  type: "leader"
   number_fields: 3
   field1: Quantum algorithms
   field2: Monte Carlo methods
@@ -14,7 +15,8 @@
   info: Professeur junior
   website: https://www.labri.fr/profil/Huber_ID1690293053
   email: felix.huber@labri.fr
-  type: "principal"
+  publications: https://arxiv.org/a/huber_f_1.html
+  type: "leader"
   number_fields: 4
   field1: Quantum error correction
   field2: Quantum correlations
@@ -26,7 +28,7 @@
 #   info: Professeur
 #   website: https://arnaudcasteigts.net/
 #   email: arnaud.casteigts@u-bordeaux.fr
-#   type: "coinvest"
+#   type: "member"
 #   number_fields: 0
 
 - name: Cyril Gavoille
@@ -34,7 +36,7 @@
   info: Professeur
   website: https://dept-info.labri.fr/~gavoille/
   email: gavoille@labri.fr
-  type: "coinvest"
+  type: "member"
   number_fields: 0
 
 - name: Yvan Le Borgne
@@ -42,7 +44,7 @@
   info: Chargé de recherche CNRS
   website: https://www.labri.fr/perso/borgne/
   email: borgne@labri.fr
-  type: "coinvest"
+  type: "member"
   number_fields: 0
 
 # - name: Jean-François Marckert
@@ -50,7 +52,7 @@
 #   info: Directeur de recherche CNRS
 #   website: https://www.labri.fr/perso/marckert/
 #   email: marckert@labri.fr
-#   type: "coinvest"
+#   type: "member"
 #   number_fields: 0
 
 - name: Mikhail Raskin
@@ -58,7 +60,7 @@
   info: Maître de conférence
   website: https://users.mccme.ru/raskin/
   email: mikhail.raskin@u-bordeaux.fr
-  type: "coinvest"
+  type: "member"
   number_fields: 0
 
 
@@ -67,7 +69,7 @@
   info: Professeur
   website: https://www.labri.fr/perso/atanasa/?lang=uk
   email: adrian.tanasa@labri.fr
-  type: "coinvest"
+  type: "member"
   number_fields: 0
 
 - name: Géraud Sénizergues
@@ -75,5 +77,5 @@
   info: Professeur émérite
   website: https://dept-info.labri.fr/~ges/
   email: geraud.senizergues@u-bordeaux.fr
-  type: "coinvest"
+  type: "member"
   number_fields: 0

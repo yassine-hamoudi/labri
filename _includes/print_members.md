@@ -12,7 +12,11 @@
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
+  {% if typeMember == "leader" %}
+  <a href="{{ member.website }}">Website</a>&nbsp;&nbsp;&nbsp;<a href="{{ member.publications }}">Publications</a>&nbsp;&nbsp;&nbsp;<a href="mailto:{{ member.email }}">Email</a>
+  {% else %}
   <a href="{{ member.website }}">Website</a>&nbsp;&nbsp;&nbsp;<a href="mailto:{{ member.email }}">Email</a>
+  {% endif %}
 
   {% if member.number_fields <> 0 %}
   <ul style="margin-top:-25px;padding:16px;overflow: hidden">
