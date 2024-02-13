@@ -29,7 +29,7 @@ permalink: /
 </div>
 
 <div class="col-sm-4 clearfix">
-<div style="text-align:center"><h4>Mathematical optimization and non-commutative algebras</h4></div>
+<div style="text-align:center"><h4>Mathematical Optimization and Non-commutative Algebras</h4></div>
  <ul>
     <li>Entanglement and nonlocality</li>
     <li>Bounds and implementations of quantum codes</li>
