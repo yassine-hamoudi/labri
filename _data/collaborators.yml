@@ -18,10 +18,10 @@
   website: https://razvanbarbulescu.pages.math.cnrs.fr/
   field: Cryptography
 
-# - name: Alice Pellet--Mary
-#   location: IMB
-#   website: https://apelletm.pages.math.cnrs.fr/page-perso/
-#   field: Cryptography
+- name: Alice Pellet--Mary
+  location: IMB
+  website: https://apelletm.pages.math.cnrs.fr/page-perso/
+  field: Cryptography
 
 - name: Simon Martiel
   location: IBM
