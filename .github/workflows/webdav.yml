@@ -1,23 +1,16 @@
-name: Deploy Webdav
+name: Upload WebDAV
 
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
-  push:
-    branches:
-    - gh-pages
     
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Build
-        uses: jerryjvl/jekyll-build-action@v1
-      - name: Webdav deploy
-        uses: bxb100/action-upload@main
+      - uses: actions/checkout@v3
+      - uses: bxb100/action-upload@main
         with:
           provider: webdav
           provider_options: |
@@ -25,4 +18,4 @@ jobs:
             username=${{ secrets.WEBDAV_USERNAME }}
             password=${{ secrets.WEBDAV_PASSWORD }}
             root=/
-          include: '_site/**'
+          include: 'images/**'
