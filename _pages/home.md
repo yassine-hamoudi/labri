@@ -5,8 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-Test
-
+Bla
 <figure class="three" align="center">
   <a href="https://www.u-bordeaux.fr/en"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/bordeaux.jpeg" style="width: 240px" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.labri.fr/en/"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/labri2.png" style="width: 240px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
