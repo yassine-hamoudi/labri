@@ -16,5 +16,5 @@ jobs:
           webdav_username: ${{secrets.WEBDAV_USERNAME}}
           webdav_password: ${{secrets.WEBDAV_PASSWORD}}
           webdav_upload_path: "/"
-          files: "./_site/README.md"
+          files: "README.md"
           keep_structure: true
