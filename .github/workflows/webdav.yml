@@ -9,4 +9,4 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - run: ls -l *
+      - run: ls -l .
