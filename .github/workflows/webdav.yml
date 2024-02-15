@@ -13,7 +13,7 @@ jobs:
       - uses: bxb100/action-upload-webdav@v1
         with:
           webdav_address: "https://webdav.labri.fr/vhosts/quantique.labri.fr"
-          webdav_username: "a"
+          webdav_username: ${{secrets.WEBDAV_USERNAME}}
           webdav_password: ${{secrets.WEBDAV_PASSWORD}}
           webdav_upload_path: "/"
           files: "README.md"
