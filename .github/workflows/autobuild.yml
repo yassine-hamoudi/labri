@@ -1,4 +1,4 @@
-name: Upload WebDAV
+name: Deploy Webdav
 
 on:
   workflow_dispatch:
