@@ -9,11 +9,12 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: bxb100/action-upload-webdav@v1
         with:
           webdav_address: ${{secrets.WEBDAV_ADDRESS}}
           webdav_username: ${{secrets.WEBDAV_USERNAME}}
           webdav_password: ${{secrets.WEBDAV_PASSWORD}}
           webdav_upload_path: "/"
-          files: "../_site/README.md"
+          files: "_site/README.md"
           keep_structure: true
