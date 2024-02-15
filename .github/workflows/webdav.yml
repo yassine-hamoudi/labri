@@ -15,6 +15,6 @@ jobs:
           webdav_address: "https://webdav.labri.fr/vhosts/quantique.labri.fr"
           webdav_username: ${{secrets.WEBDAV_USERNAME}}
           webdav_password: ${{secrets.WEBDAV_PASSWORD}}
-          webdav_upload_path: "/vhosts/quantique.labri.fr/"
-          files: "README.md"
+          webdav_upload_path: "/"
+          files: "_site/**"
           keep_structure: true
