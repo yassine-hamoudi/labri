@@ -7,7 +7,7 @@
 
 # Site settings
 title: Quantum Information & Computation
-url: "https://quantique.labri.fr/"
+url: "https://quantique.labri.fr"
 baseurl: ""
 
 include:
