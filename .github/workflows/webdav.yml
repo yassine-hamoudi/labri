@@ -18,4 +18,4 @@ jobs:
             username=${{ secrets.WEBDAV_USERNAME }}
             password=${{ secrets.WEBDAV_PASSWORD }}
             root=/
-          include: '__site/**'
+          include: '_site/**'
