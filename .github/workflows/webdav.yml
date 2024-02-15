@@ -9,12 +9,10 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: bxb100/action-upload@main
+      - uses: tszalbot/action-upload-webdav@v1
         with:
-          provider: webdav
-          provider_options: |
-            endpoint=${{ secrets.WEBDAV_ADDRESS }}
-            username=${{ secrets.WEBDAV_USERNAME }}
-            password=${{ secrets.WEBDAV_PASSWORD }}
-            root=/
-          include: '_site/**'
+          webdav_address: ${{ secrets.WEBDAV_ADDRESS }}
+          webdav_username: ${{ secrets.WEBDAV_USERNAME }}
+          webdav_password: ${{ secrets.WEBDAV_PASSWORD }}
+          webdav_upload_path: "/"
+          files: "_site/**"
