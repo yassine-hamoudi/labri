@@ -4,15 +4,20 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
+  push:
+    branches:
+    - gh-pages
     
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Build
         uses: jerryjvl/jekyll-build-action@v1
-      - uses: bxb100/action-upload@main
+      - name: Webdav deploy
+        uses: bxb100/action-upload@main
         with:
           provider: webdav
           provider_options: |
