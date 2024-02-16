@@ -37,6 +37,6 @@ Postdocs positions are granted for 24 months with a net income ranging between 2
 The positions include all the social benefits of a usual French contract (health insurance, public transport expenses, paid leave, etc.).
 
 ### Applications for Undergraduate / Master students
-We can offer internships for undergraduate or master students. Applicants should have a strong mathematical background and some basic knowledge about quantum information.
+We can offer internships for undergraduate or master students. Applicants should have a strong mathematical or computer science background and some basic knowledge about quantum information.
 
 <br>

@@ -1,1 +1,41 @@
+- name: Stéphane Dartois
+  type: "postdoc"
+  info:
+  email:
+  supervisor: Cyril Gavoille
+  start_date: 2020-07-01
+  end_date: 2021-07-31
+  number_fields: 0
 
+- name: Shrinidhi Teganahally Sridhara
+  type: "student"
+  info: Internship on "Speed-up via some quantum walks"
+  affiliation: Chennai Mathematical Institute
+  level: Master
+  email:
+  supervisor: Yvan Le Borgne, Adrian Tanasa
+  start_date: 2023-05-01
+  end_date: 2023-07-31
+  number_fields: 0
+
+- name: Nathan Moumique
+  type: "student"
+  info: Internship on "Finding more easily spectrum of quantum hamiltonian under some assumption coming from graph theory"
+  affiliation:
+  level: L3 Physics
+  email:
+  supervisor: Yvan Le Borgne, Rémi Avriller (LOMA)
+  start_date: 2023-05-01
+  end_date: 2023-06-30
+  number_fields: 0
+
+- name: Clément Feytout
+  type: "student"
+  info: Internship on "Mise en place d’un protocole de communication quantique (BB84) avec Qiskit"
+  affiliation: Université de Bordeaux
+  level: L2 Physics
+  email:
+  supervisor: Yvan Le Borgne, Rémi Avriller (LOMA)
+  start_date: 2023-05-15
+  end_date: 2023-06-15
+  number_fields: 0

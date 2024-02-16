@@ -2,7 +2,8 @@
   photo: empty.png
   type: "student"
   info: Intern from Simon Fraser University
-  affiliation: Master's student at Simon Fraser University
+  affiliation: Simon Fraser University
+  level: Master
   email:
   supervisor: Felix Huber, Adrian Tanasa
   start_date: 2024-06-04
@@ -13,7 +14,8 @@
   photo: empty.png
   type: "student"
   info: Intern from Chennai Mathematical Institute
-  affiliation: Undergraduate at Chennai Mathematical Institute
+  affiliation: Chennai Mathematical Institute
+  level: Undergraduate
   email:
   supervisor: Yassine Hamoudi, Adrian Tanasa
   start_date: 2024-05-22
