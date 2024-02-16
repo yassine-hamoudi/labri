@@ -35,8 +35,8 @@
   room: "076"
   speaker: Maxime Cautrès
   affiliation: LIG
-  title: TBA
-  abstract:
+  title: Vertex-minor universal graphs for generating entangled quantum subsystems
+  abstract: "We study the notion of k-stabilizer universal quantum state, that is, an n-qubit quantum state, such that it is possible to induce any stabilizer state on any k qubits, by using only local operations and classical communications. These states generalize the notion of k-pairable states introduced by Bravyi et al., and can be studied from a combinatorial perspective using graph states and k-vertex-minor universal graphs. First, we demonstrate the existence of k-stabilizer universal graph states that are optimal in size with n=Θ(k2) qubits. We also provide parameters for which a random graph state on Θ(k2) qubits is k-stabilizer universal with high probability. Our second contribution consists of two explicit constructions of k-stabilizer universal graph states on n=O(k4) qubits. Both rely upon the incidence graph of the projective plane over a finite field 𝔽q. This provides a major improvement over the previously known explicit construction of k-pairable graph states with n=O(23k), bringing forth a new and potentially powerful family of multipartite quantum resources. Based on <a href='https://arxiv.org/abs/2402.06260'>https://arxiv.org/abs/2402.06260</a>."
 
 - day: 2024-03-12
   time: "15:00"
