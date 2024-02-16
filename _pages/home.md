@@ -25,7 +25,6 @@ permalink: /
     <li>Monte Carlo methods</li>
     <li>Combinatorial algorithms</li>
     <li>Distributed algorithms</li>
-    <li>Statistical estimators</li>
  </ul>
 </div>
 
