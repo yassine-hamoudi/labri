@@ -56,7 +56,7 @@ permalink: /members/
 <div class="row">
 
 <div class="col-sm-5 clearfix">
-<h4>Bachelor and Master Students</h4>
+<h4>Undergraduate and Master Students</h4>
 {% for member in site.data.former_members %}
 {% if member.type == "student"%}
   {{ member.name }}, {{ member.start_date | date:"%B %Y" }} - {{ member.end_date | date:"%B %Y" }}

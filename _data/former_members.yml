@@ -22,7 +22,7 @@
   type: "student"
   info: Internship on "Finding more easily spectrum of quantum hamiltonian under some assumption coming from graph theory"
   affiliation:
-  level: L3 Physics
+  level: L3 Physique
   email:
   supervisor: Yvan Le Borgne, Rémi Avriller (LOMA)
   start_date: 2023-05-01
@@ -33,7 +33,7 @@
   type: "student"
   info: Internship on "Mise en place d’un protocole de communication quantique (BB84) avec Qiskit"
   affiliation: Université de Bordeaux
-  level: L2 Physics
+  level: L2 Physique
   email:
   supervisor: Yvan Le Borgne, Rémi Avriller (LOMA)
   start_date: 2023-05-15
