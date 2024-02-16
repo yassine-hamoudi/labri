@@ -1,5 +1,5 @@
 What files to edit for updating the content of the site:
-  - New seminars: _data/seminar.yml
+  - New seminars: [_data/seminar.yml](https://github.com/yassine-hamoudi/labri/blob/gh-pages/_data/seminar.yml)
   - Text of a page: files in _pages/
   - Description of a member: files in _data/
   - Picture of a member: files in images/people/
