@@ -51,8 +51,8 @@ permalink: /
 
 #### **We are  looking for passionate new students and postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
-<div style="text-align:center">
+<!-- <div style="text-align:center">
 <iframe src="https://webmel.u-bordeaux.fr/home/bf-labri.ca@u-bordeaux.fr/gt.info-quantique.html" style="border: 0" width="90%" height="600" frameborder="0" scrolling="no"></iframe>
-</div>
+</div> -->
 
 <br>
