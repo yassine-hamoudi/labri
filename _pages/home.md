@@ -40,8 +40,9 @@ permalink: /
 <div class="col-sm-4 clearfix">
 <div style="text-align:center"><h4>Complexity Theory</h4></div>
  <ul>
-    <li>Classical and quantum query complexity</li>
     <li>Limitations of near-term quantum computers</li>
+    <li>Simulation of quantum circuits</li>
+    <li>Classical and quantum query complexity</li>
  </ul>
 </div>
 
