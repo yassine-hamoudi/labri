@@ -11,15 +11,13 @@ If you want to work with us as a student or postdoc, send an email to the [group
 
 ### Applications for PhD and Postdoc positions
 
-We have currently multiple PhD and postdoc positions available, funded by the PEPR EPIQ grant and the ANR grant for junior professor. We seek candidates that are interested in research on quantum information, quantum algorithms and optimization. Specific topics they can expect to work on are:
+We have currently multiple PhD and postdoc positions available, funded by the PEPR EPIQ grant and the ANR grant for junior professor. We seek candidates that are interested in research on quantum information, quantum algorithms and mathematical optimization. Specific topics they can expect to work on are:
 
-*Large-scale mathematical optimization for quantum information and computation problems:*
-
-- approximation algorithms for ground state problems
-- characterization of quantum communication capacities
-and quantum error correcting codes
-- quantum correlations such as entanglement and nonlocality
-- machine learning for provable results in optimization
+*Mathematical optimization in quantum information and computation::*
+  - approximation algorithms quantum for ground state problems
+  - characterization of quantum communication capacities and quantum error correcting codes
+  - characterization of entanglement and nonlocality
+  - applications of machine learning to optimization
 
 Contact: [Felix Huber](mailto:felix.huber@labri.fr)
 
@@ -30,11 +28,11 @@ Contact: [Felix Huber](mailto:felix.huber@labri.fr)
 
 Contact: [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr)
 
-Candidates must have training or experience in at least one of the following areas: quantum information and computation, mathematical programming, algorithmic theory, complexity theory.
+Candidates can have training or experience in at least one of the following areas: quantum information and computation, mathematical programming, algorithmic theory, complexity theory.
 
 PhD positions are granted for 36 months with a net income of about 1700 € (+ optional 150€/month with teaching service).
 Postdocs positions are granted for 24 months with a net income ranging between 2100 € and 2500 € depending on the candidate experience.
-The positions include all the social benefits of a usual French contract (health insurance, public transport expenses, paid leave, etc.).
+The positions profit from French social security and employee benefits (health insurance, public transport expenses, paid leave, etc.).
 
 ### Applications for Undergraduate / Master students
 We can offer internships for undergraduate or master students. Applicants should have a strong mathematical or computer science background and some basic knowledge about quantum information.
