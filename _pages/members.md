@@ -7,7 +7,7 @@ permalink: /members/
 
 <!-- # Group Members -->
 
-#### **We are  looking for new students and postdocs to join the team** [(see open positions)]({% link _pages/positions %}) **!**
+#### **We are  looking for new students and postdocs to join the team** [(see open positions)]({% link _pages/positions.md %}) **!**
 
 ## Group Leaders
 {% assign typeMember = 'leader' %}

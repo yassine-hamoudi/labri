@@ -7,7 +7,7 @@ permalink: /positions/
 
 # Open positions
 
-#### If you want to work with us as a student or postdoc, send an email to the [group member]({% link _pages/members %}) that best fits your interests, and attach the following information: a CV, a short cover letter, a transcript of records (for student applicants) or list of publications (for postdoctoral applicants), and the names and email addresses of one or two referees.
+#### If you want to work with us as a student or postdoc, send an email to the [group member]({% link _pages/members.md %}) that best fits your interests, and attach the following information: a CV, a short cover letter, a transcript of records (for student applicants) or list of publications (for postdoctoral applicants), and the names and email addresses of one or two referees.
 
 ### Applications for PhD and Postdoc positions
 
