@@ -1,3 +1,11 @@
+- day: 2024-06-04
+  time: "15:00"
+  room: "TBA"
+  speaker: Laurent Miclo
+  affiliation: Toulouse School of Economics, CNRS
+  title: Quantum walks, the discrete wave equation and Chebyshev polynomials
+  abstract: "Based on <a href='https://arxiv.org/abs/2402.07809'>https://arxiv.org/abs/2402.07809</a>."
+
 - day: 2024-05-21
   time: "15:00"
   room: "TBA"
