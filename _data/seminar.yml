@@ -1,6 +1,6 @@
 - day: 2024-06-04
   time: "15:00"
-  room: "TBA"
+  room: "178"
   speaker: Laurent Miclo
   affiliation: Toulouse School of Economics, CNRS
   title: Quantum walks, the discrete wave equation and Chebyshev polynomials
@@ -8,7 +8,7 @@
 
 - day: 2024-05-21
   time: "15:00"
-  room: "TBA"
+  room: "178"
   speaker: Enrique Rico Ortega
   affiliation: Bilbao, University of the Basque Country UPV/EHU
   title: TBA
@@ -16,7 +16,7 @@
 
 - day: 2024-04-30
   time: "15:00"
-  room: "TBA"
+  room: "Amphi"
   speaker: Gerard Munné
   affiliation: Jagiellonian University Kraków
   title: TBA
@@ -24,7 +24,7 @@
 
 - day: 2024-04-16
   time: "15:00"
-  room: "TBA"
+  room: "Amphi"
   speaker: Albert Rico
   affiliation: Jagiellonian University Kraków
   title: TBA
@@ -42,9 +42,9 @@
   time: "15:00"
   room: "178"
   speaker: Yanlin Chen
-  affiliation: CWI
-  title: TBA
-  abstract:
+  affiliation: CWI, U. of Amsterdam
+  title: A quantum speed-up for approximating the top eigenvectors of a matrix
+  abstract: "Finding a good approximation of the top eigenvector of a given d × d matrix A is a basic and important computational problem, with many applications. We give two different quantum algorithms that, given query access to the entries of A and assuming a constant eigenvalue gap, output a classical description of a good approximation of the top eigenvector: one algorithm with time complexity d^{1.5+o(1)} and one with time complexity \tilde{O}(d^{1.75}) that has a slightly better dependence on the precision of the approximation. Both provide a polynomial speed-up over the best-possible classical algorithm, which needs Ω(d^2) queries to entries of A (and hence Ω(d^2) time). We extend this to a quantum algorithm that outputs a classical description of the subspace spanned by the top-q eigenvectors in time qd^{1.5+o(1)}. We also prove a nearly-optimal lower bound of \tilde{Ω}(d^{1.5}) on the quantum query complexity of approximating the top eigenvector. Our quantum algorithms run a version of the classical power method that is robust to certain benign kinds of errors, where we implement each matrix-vector multiplication with small and well-behaved error on a quantum computer, in different ways for the two algorithms. <br><br> Our first algorithm used block-encoding techniques to compute the matrix-vector product as a quantum state, from which we obtain a classical description by a new time-efficient unbiased pure-state tomography algorithm that has essentially optimal sample complexity O(d log(d)/ε^2) and that comes with improved statistical properties compared to earlier pure-state tomography algorithms. Our second algorithm estimated the matrix-vector product one entry at a time, using a new “Gaussian phase estimation” procedure. We also develop a time-efficient process- tomography algorithm for reflections around bounded-rank subspaces, providing the basis for our top-eigensubspace estimation application. <br><br> This is the joint work with Ronald de Wolf and András Gilyén."
 
 - day: 2024-03-26
   time: "15:00"
@@ -154,7 +154,7 @@
   time: "15:00"
   room: 076
   speaker: Sebastian Zur
-  affiliation: CWI
+  affiliation: CWI, U. of Amsterdam
   title: Multidimensional Electrical Networks
   abstract: "Recently, Apers and Piddock [TQC '23] strengthened the natural connection between quantum walks and electrical networks by considering Kirchhoff's Law and Ohm's Law. In this talk, I will discuss the multidimensional electrical network by defining Kirchhoff's Alternative Law and Ohm's Alternative Law based on the novel multidimensional quantum walk framework by Jeffery and Zur [STOC '23]. This multidimensional electrical network allows one to sample from the electrical flow obtained via a multidimensional quantum walk algorithm and achieve exponential quantum-classical separations for certain graph problems. In analogy to the connection between the (edge-vertex) incidence matrix of a graph and Kirchhoff's Law and Ohm's Law in an electrical network, we also rebuild the connection between the alternative incidence matrix and Kirchhoff's Alternative Law and Ohm's Alternative Law."
 
