@@ -50,7 +50,7 @@ permalink: /
 
 #### We are grateful for funding from the [Université de Bordeaux](https://www.u-bordeaux.fr/en), the Naquidis center, the [CNRS](https://www.cnrs.fr/en), the [PEPR EPIQ](https://project.inria.fr/epiq/) and the [ANR QuDATA](https://anr.fr/Project-ANR-18-CE47-0010).
 
-#### **We are  looking for passionate new students and postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
+#### **We are  looking for passionate new students and postdocs to join the team** [(more info)]({% link _pages/positions.md %}) **!**
 
 <!-- <div style="text-align:center">
 <iframe src="https://webmel.u-bordeaux.fr/home/bf-labri.ca@u-bordeaux.fr/gt.info-quantique.html" style="border: 0" width="90%" height="600" frameborder="0" scrolling="no"></iframe>
