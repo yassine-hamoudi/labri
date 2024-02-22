@@ -14,7 +14,7 @@ permalink: /positions/
 We have currently multiple PhD and postdoc positions available, funded by the PEPR EPIQ grant and the ANR grant for junior professor. We seek candidates that are interested in research on quantum information, quantum algorithms and mathematical optimization. Specific topics they can expect to work on are:
 
 *Mathematical optimization in quantum information and computation::*
-  - approximation algorithms quantum for ground state problems
+  - approximation algorithms for quantum ground state problems
   - characterization of quantum communication capacities and quantum error correcting codes
   - characterization of entanglement and nonlocality
   - applications of machine learning to optimization
