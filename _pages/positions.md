@@ -33,6 +33,7 @@ Candidates can have training or experience in at least one of the following area
 PhD positions are granted for 36 months with a net income of about 1700 € (+ optional 150€/month with teaching service).
 Postdocs positions are granted for 24 months with a net income ranging between 2100 € and 2500 € depending on the candidate experience.
 The positions profit from French social security and employee benefits (health insurance, public transport expenses, paid leave, etc.).
+We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
 
 ### Applications for Undergraduate / Master students
 We can offer internships for undergraduate or master students. Applicants should have a strong mathematical or computer science background and some basic knowledge about quantum information.
