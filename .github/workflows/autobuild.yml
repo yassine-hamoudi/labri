@@ -14,11 +14,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@ec02537da5712d66d4d50a0f33b7eb52773b5ed1
+      - name: Prepare Ruby and Jekyll
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3.0'
-      - name: Build
-        uses: jerryjvl/jekyll-build-action@v1
+
+      - name: Install ruby dependencies
+        run: bundle install
+
+      - name: Build website
+        run: bundle exec jekyll build
       - name: Webdav deploy
         uses: bxb100/action-upload@main
         with:
