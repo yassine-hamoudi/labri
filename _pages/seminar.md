@@ -12,8 +12,6 @@ permalink: /seminar/
 #### The seminar takes place on Tuesdays from 15:00 to 16:00 CET. It is located at [LaBRI]({% link _pages/contact.md %}), either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are usually in english and broadcasted on [Zoom](https://u-bordeaux-fr.zoom.us/j/89861302375?pwd=UW03M05sZzZ0cWFUT3lwNC92b1Y1Zz09).
 <br>
 
-{{'now' | date:  "%H"}}h
-
 {% capture nowDay %}{{'now' | date:  "%Y%m%d"}}{% endcapture %}
 
 # Upcoming talks

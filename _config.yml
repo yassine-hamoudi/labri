@@ -9,6 +9,7 @@
 title: Quantum Information & Computation
 url: "https://quantique.labri.fr"
 baseurl: ""
+timezone: Europe/Paris
 
 include:
   - .htaccess
@@ -16,7 +17,7 @@ include:
 
 plugins:
   - jekyll-ical-tag
-  
+
 sass:
   sass_dir: _sass
 
@@ -26,8 +27,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-
 
 # Markdown Processing
 kramdown:
