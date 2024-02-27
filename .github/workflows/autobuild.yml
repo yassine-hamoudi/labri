@@ -18,10 +18,8 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3.0'
-
       - name: Install ruby dependencies
         run: bundle install
-
       - name: Build website
         run: bundle exec jekyll build
       - name: Webdav deploy
