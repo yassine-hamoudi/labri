@@ -14,6 +14,9 @@ include:
   - .htaccess
   - _pages
 
+plugins:
+  - jekyll-ical-tag
+  
 sass:
   sass_dir: _sass
 
