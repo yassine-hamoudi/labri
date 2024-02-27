@@ -3,6 +3,7 @@
   {% capture talkYear  %}{{event.start_time | date: "%Y"}}{% endcapture %}
   {% if talkDay < nowDay and talkYear == year%}
     {% include parse_ics.md %}
+{% if speaker != "No seminar"%}
 <details markdown=block>
   <summary markdown=span>
     {{ event.start_time | date_to_long_string: "ordinal" }}<br>
@@ -10,5 +11,5 @@
   </summary>
    <blockquote><p> {{ event.description }} </p></blockquote>
 </details>
-  {% endif %}
+  {% endif %}{% endif %}
 {% endical %}

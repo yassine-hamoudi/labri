@@ -20,6 +20,7 @@ permalink: /seminar/
   {% capture talkDay %}{{event.start_time | date: "%Y%m%d"}}{% endcapture %}
   {% if talkDay >= nowDay %}
     {% include parse_ics.md %}
+{% if speaker != "No seminar"%}
 <details markdown=block>
   <summary markdown=span>
     {% if event.location %}{{ event.start_time | date_to_long_string: "ordinal" }} at {{ event.start_time | date: "%H:%M" }} ({{ event.location }})<br>
@@ -30,7 +31,7 @@ permalink: /seminar/
    <blockquote><p> {{ event.description }} </p></blockquote>
 </details>
 <p></p>
-  {% endif %}
+  {% endif %}{% endif %}
 {% endical %}
 
 <br>
