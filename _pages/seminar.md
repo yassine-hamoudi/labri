@@ -6,7 +6,7 @@ permalink: /seminar/
 ---
 
 [![email]({{ site.url }}{{ site.baseurl }}/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Subscribe to the mailing list**](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique) &nbsp;&nbsp;
-[![calendar]({{ site.url }}{{ site.baseurl }}/images/logo/calendar.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Subscribe to iCalendar**]({{ site.url }}{{ site.baseurl }}/files/calendar.ics) &nbsp;&nbsp;
+[![calendar]({{ site.url }}{{ site.baseurl }}/images/logo/calendar.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Subscribe to iCalendar**](https://webmel.u-bordeaux.fr/home/bf-labri.ca@u-bordeaux.fr/gt.info-quantique.ics) &nbsp;&nbsp;
 [![zoom]({{ site.url }}{{ site.baseurl }}/images/logo/zoom.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Watch on Zoom**](https://u-bordeaux-fr.zoom.us/j/89861302375?pwd=UW03M05sZzZ0cWFUT3lwNC92b1Y1Zz09)
 
 #### The seminar takes place on Tuesdays from 15:00 to 16:00 CET. It is located at [LaBRI]({% link _pages/contact.md %}), either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are usually in english and broadcasted on [Zoom](https://u-bordeaux-fr.zoom.us/j/89861302375?pwd=UW03M05sZzZ0cWFUT3lwNC92b1Y1Zz09).
