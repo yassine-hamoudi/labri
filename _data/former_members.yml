@@ -7,6 +7,39 @@
   end_date: 2021-07-31
   number_fields: 0
 
+- name: Marwa Hajji-Laamouri
+  type: "student"
+  info: Intern from ENSEIRB - Bordeaux INP
+  affiliation: ENSEIRB - Bordeaux INP
+  level: Master M1
+  email: marwa.hajji-laamouri@bordeaux-inp.fr
+  supervisor: Adrian Tanasa
+  start_date: 2024-05-21
+  end_date: 2024-08-31
+  number_fields: 0
+
+- name: Shannon Alexa Jeffries
+  type: "student"
+  info: Intern from Simon Fraser University
+  affiliation: Simon Fraser University
+  level: Master
+  email: shannon_jeffries@sfu.ca
+  supervisor: Felix Huber, Adrian Tanasa
+  start_date: 2024-06-04
+  end_date: 2024-07-26
+  number_fields: 0
+
+- name: Rishav Gupta
+  type: "student"
+  info: Intern from Chennai Mathematical Institute
+  affiliation: Chennai Mathematical Institute
+  level: Undergraduate
+  email: rishavg@cmi.ac.in
+  supervisor: Yassine Hamoudi, Adrian Tanasa
+  start_date: 2024-05-22
+  end_date: 2024-07-26
+  number_fields: 0
+
 - name: Shrinidhi Teganahally Sridhara
   type: "student"
   info: Internship on "Speed-up via some quantum walks"
