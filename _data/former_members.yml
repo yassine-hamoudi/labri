@@ -1,10 +1,12 @@
-- name: Stéphane Dartois
-  type: "postdoc"
-  info:
-  email:
-  supervisor: Cyril Gavoille
-  start_date: 2020-07-01
-  end_date: 2021-07-31
+- name: Muhammet Taha Çakmak
+  type: "student"
+  info: Intern from Sabancı University
+  affiliation: Sabancı University
+  level: Undergraduate
+  email: tcakmak@sabanciuniv.edu
+  supervisor: Felix Huber
+  start_date: 2024-06-24
+  end_date: 2024-09-15
   number_fields: 0
 
 - name: Marwa Hajji-Laamouri
@@ -71,4 +73,13 @@
   supervisor: Yvan Le Borgne, Rémi Avriller (LOMA)
   start_date: 2023-05-15
   end_date: 2023-06-15
+  number_fields: 0
+
+- name: Stéphane Dartois
+  type: "postdoc"
+  info:
+  email:
+  supervisor: Cyril Gavoille
+  start_date: 2020-07-01
+  end_date: 2021-07-31
   number_fields: 0
