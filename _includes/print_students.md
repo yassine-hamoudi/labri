@@ -12,7 +12,7 @@
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
-  Since {{ member.start_date | date:"%B %Y" }} 
+  Starte {{ member.start_date | date:"%B %Y" }} 
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
