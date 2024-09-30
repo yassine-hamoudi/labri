@@ -24,7 +24,7 @@ permalink: /members/
 ## Local Collaborators
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3 clearfix">
 <h4>LaBRI</h4>
 {% for member in site.data.collaborators %}
 {% if member.location == "LaBRI" %}
@@ -33,7 +33,7 @@ permalink: /members/
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3 clearfix">
 <h4>Institut de Mathématiques de Bordeaux</h4>
 {% for member in site.data.collaborators %}
 {% if member.location == "IMB" %}
@@ -42,7 +42,16 @@ permalink: /members/
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3 clearfix">
+<h4>Laboratoire Ondes et Matière d'Aquitaine</h4>
+{% for member in site.data.collaborators %}
+{% if member.location == "LOMA" %}
+<a href="{{ member.website }}">{{ member.name }}</a>
+{% endif %}
+{% endfor %}
+</div>
+
+<div class="col-sm-3 clearfix">
 <h4>IBM Quantum France</h4>
 {% for member in site.data.collaborators %}
 {% if member.location == "IBM" %}

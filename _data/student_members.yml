@@ -9,3 +9,39 @@
   start_date: 2024-03-21
   end_date: ...
   number_fields: 0
+
+- name: Shrinidhi Teganahally Sridhara
+  photo: sridhara.jpg
+  type: "student"
+  info: PhD student
+  affiliation: Université de Bordeaux
+  level: PhD
+  email: shrinidhits1208@gmail.com
+  supervisor: Yassine Hamoudi, Adrian Tanasa
+  start_date: 2024-10-01
+  end_date: ...
+  number_fields: 0
+
+# - name: Tomas Crosta
+#   photo: empty.png
+#   type: "student"
+#   info: PhD student
+#   affiliation: Université de Bordeaux, LOMA
+#   level: PhD
+#   email: tomycrosta@gmail.com
+#   supervisor: Adrian Tanasa, Matthieu Saubanère
+#   start_date: 2024-11-01
+#   end_date: ...
+#   number_fields: 0
+#
+# - name: Gian Luca Spitzer
+#   photo: empty.png
+#   type: "student"
+#   info: PhD student
+#   affiliation: Université de Bordeaux, Laboratoire de Physique Théorique de Toulouse
+#   level: PhD
+#   email: gian.luca.spitzer@rwth-aachen.de
+#   supervisor: Adrian Tanasa, Ion Nechita
+#   start_date: 2024-12-01
+#   end_date: ...
+#   number_fields: 0
