@@ -9,13 +9,13 @@ permalink: /members/
 
 #### **We are  looking for new students and postdocs to join the team** [(see open positions)]({% link _pages/positions.md %}) **!**
 
-## Group Leaders
+<!-- ## Group Leaders
 {% assign typeMember = 'leader' %}
-{% include print_members.md %}
+{% include print_faculty.md %} -->
 
-## Permanent Members
-{% assign typeMember = 'member' %}
-{% include print_members.md %}
+## Faculty Members
+{% assign typeMember = "faculty" %}
+{% include print_faculty.md %}
 
 ## Students
 {% assign typeMember = 'student' %}
@@ -87,6 +87,15 @@ permalink: /members/
 {% for member in site.data.former_members %}
 {% if member.type == "postdoc" %}
   {{ member.name }}, {{ member.start_date | date:"%B %Y" }} - {{ member.end_date | date:"%B %Y" }}
+{% endif %}
+{% endfor %}
+</div>
+
+<div class="col-sm-3 clearfix">
+<h4>Faculty</h4>
+{% for member in site.data.former_members %}
+{% if member.type == "faculty" %}
+  {{ member.name }}
 {% endif %}
 {% endfor %}
 </div>

@@ -1,5 +1,5 @@
 {% assign number_printed = 0 %}
-{% for member in site.data.permanent_members %}
+{% for member in site.data.faculty_members %}
 {% if member.type == typeMember %}
 
 {% assign even_odd = number_printed | modulo: 2 %}

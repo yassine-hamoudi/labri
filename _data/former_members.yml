@@ -1,3 +1,16 @@
+- name: Felix Huber
+  type: "faculty"
+  level: Professeur junior
+  website: https://huberfe.github.io/
+  email: felix.huber@labri.fr
+  start_date: 2024-01-01
+  end_date: 2024-10-31
+  number_fields: 4
+  field1: Quantum error correction
+  field2: Quantum correlations
+  field3: Optimization in quantum information
+  field4: Mathematical physics
+
 - name: Muhammet Taha Çakmak
   type: "student"
   info: Intern from Sabancı University

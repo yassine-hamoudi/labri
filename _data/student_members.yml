@@ -22,20 +22,20 @@
   end_date: ...
   number_fields: 0
 
-# - name: Tomas Crosta
-#   photo: crosta.jpg
-#   type: "student"
-#   info: PhD student
-#   affiliation: Université de Bordeaux, LOMA
-#   level: PhD
-#   email: tomycrosta@gmail.com
-#   supervisor: Adrian Tanasa, Matthieu Saubanère
-#   start_date: 2024-11-01
-#   end_date: ...
-#   number_fields: 0
-#
+- name: Tomas Crosta
+  photo: crosta.jpg
+  type: "student"
+  info: PhD student
+  affiliation: Université de Bordeaux, LOMA
+  level: PhD
+  email: tomycrosta@gmail.com
+  supervisor: Adrian Tanasa, Matthieu Saubanère
+  start_date: 2024-11-01
+  end_date: ...
+  number_fields: 0
+
 # - name: Gian Luca Spitzer
-#   photo: empty.png
+#   photo: spitzer.jpg
 #   type: "student"
 #   info: PhD student
 #   affiliation: Université de Bordeaux, Laboratoire de Physique Théorique de Toulouse

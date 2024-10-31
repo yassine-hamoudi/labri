@@ -6,9 +6,7 @@ permalink: /contact/
 ---
 
 #### **Email addresses**
-> Head: [Felix Huber](mailto:felix.huber@labri.fr)
->
-> Deputy head: [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr)
+> Head: [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr)
 >
 > Seminar organizer: [Yvan Le Borgne](borgne@labri.fr)
 

@@ -4,31 +4,31 @@
   website: https://yassine-hamoudi.github.io/
   email: yassine.hamoudi@labri.fr
   publications: http://arxiv.org/a/hamoudi_y_1
-  type: "leader"
-  number_fields: 3
+  type: "faculty"
+  number_fields: 0 # <-------------
   field1: Quantum algorithms
   field2: Monte Carlo methods
   field3: Complexity theory
 
-- name: Felix Huber
-  photo: huber.jpg
-  info: Professeur junior
-  website: https://huberfe.github.io/
-  email: felix.huber@labri.fr
-  publications: https://arxiv.org/a/huber_f_1.html
-  type: "leader"
-  number_fields: 4
-  field1: Quantum error correction
-  field2: Quantum correlations
-  field3: Optimization in quantum information
-  field4: Mathematical physics
+# - name: Felix Huber
+#   photo: huber.jpg
+#   info: Professeur junior
+#   website: https://huberfe.github.io/
+#   email: felix.huber@labri.fr
+#   publications: https://arxiv.org/a/huber_f_1.html
+#   type: "faculty"
+#   number_fields: 4
+#   field1: Quantum error correction
+#   field2: Quantum correlations
+#   field3: Optimization in quantum information
+#   field4: Mathematical physics
 
 # - name: Arnaud Casteigts
 #   photo: casteigts.jpeg
 #   info: Professeur
 #   website: https://arnaudcasteigts.net/
 #   email: arnaud.casteigts@u-bordeaux.fr
-#   type: "member"
+#   type: "faculty"
 #   number_fields: 0
 
 - name: Cyril Gavoille
@@ -36,7 +36,15 @@
   info: Professeur
   website: https://dept-info.labri.fr/~gavoille/
   email: gavoille@labri.fr
-  type: "member"
+  type: "faculty"
+  number_fields: 0
+
+- name: Adrian Tanasa
+  photo: tanasa.jpg
+  info: Professeur
+  website: https://www.labri.fr/perso/atanasa/?lang=uk
+  email: adrian.tanasa@labri.fr
+  type: "faculty"
   number_fields: 0
 
 - name: Yvan Le Borgne
@@ -44,7 +52,7 @@
   info: Chargé de recherche CNRS
   website: https://www.labri.fr/perso/borgne/
   email: borgne@labri.fr
-  type: "member"
+  type: "faculty"
   number_fields: 0
 
 # - name: Jean-François Marckert
@@ -52,7 +60,7 @@
 #   info: Directeur de recherche CNRS
 #   website: https://www.labri.fr/perso/marckert/
 #   email: marckert@labri.fr
-#   type: "member"
+#   type: "faculty"
 #   number_fields: 0
 
 - name: Mikhail Raskin
@@ -60,16 +68,7 @@
   info: Maître de conférence
   website: https://users.mccme.ru/raskin/
   email: mikhail.raskin@u-bordeaux.fr
-  type: "member"
-  number_fields: 0
-
-
-- name: Adrian Tanasa
-  photo: tanasa.jpg
-  info: Professeur
-  website: https://www.labri.fr/perso/atanasa/?lang=uk
-  email: adrian.tanasa@labri.fr
-  type: "member"
+  type: "faculty"
   number_fields: 0
 
 - name: Géraud Sénizergues
@@ -77,5 +76,5 @@
   info: Professeur émérite
   website: https://dept-info.labri.fr/~ges/
   email: geraud.senizergues@u-bordeaux.fr
-  type: "member"
+  type: "faculty"
   number_fields: 0
