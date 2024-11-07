@@ -18,31 +18,25 @@ permalink: /
 
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
 <div style="text-align:center"><h4>Quantum Algorithms and Computational Speedups</h4></div>
  <ul>
     <li>Optimization methods</li>
     <li>Monte Carlo methods</li>
     <li>Combinatorial algorithms</li>
     <li>Distributed algorithms</li>
+    <li>Quantum simulation of fermionic systems</li>
  </ul>
 </div>
 
-<div class="col-sm-4 clearfix">
-<div style="text-align:center"><h4>Mathematical Optimization and Non-commutative Algebras</h4></div>
- <ul>
-    <li>Entanglement and nonlocality</li>
-    <li>Bounds and implementations of quantum codes</li>
-    <li>Ground state problems</li>
- </ul>
-</div>
-
-<div class="col-sm-4 clearfix">
-<div style="text-align:center"><h4>Complexity Theory</h4></div>
+<div class="col-sm-6 clearfix">
+<div style="text-align:center"><h4>Quantum Information and Complexity Theory</h4></div>
  <ul>
     <li>Limitations of near-term quantum computers</li>
     <li>Simulation of quantum circuits</li>
     <li>Classical and quantum query complexity</li>
+    <li>Quantum graphs</li>
+    <li>Holographic complexity</li>
  </ul>
 </div>
 
