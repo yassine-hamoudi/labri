@@ -26,8 +26,8 @@ Applicants should include the <ins>following information in their initial email:
 
 PhD positions are granted for 36 months with a net income of about 1700 € (+ optional 150€/month with teaching service).
 Postdocs positions are usually granted for 24 months, with a net income ranging between 2100 € and 2500 € depending on the candidate experience.
-The positions profit from French social security and employee benefits (health insurance, public transport expenses, paid leave, etc.).
-We welcome applicants from all backgrounds, and promote a friendly, safe, and supporting team work environment.
+The positions include French social security coverage and employee benefits (health insurance, public transport expenses, paid leave, etc.).
+We welcome applicants from all backgrounds and promote a friendly, safe, and supportive team environment.
 
 <!-- The following PhD subjects come with dedicated scholarships:
 <details markdown=block>
