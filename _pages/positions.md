@@ -22,7 +22,7 @@ We have various faculty job opportunities, including the following positions:
 
 We seek candidates that are interested in research on quantum information, quantum algorithms and complexity. Candidates can have training or experience in at least one of the following areas: quantum information and computation, algorithmic theory, complexity theory.
 
-Applicants should include the <ins>following information in their initial email:</ins> a CV, a transcript of records (for student applicants) or list of publications (for postdoc applicants), and the names and email addresses of one or two referees. Postdoc applicants are also strongly encouraged to submit a copy of their doctoral thesis and a research statement.
+Applicants should include the <ins>following information in their initial email:</ins> a CV, a transcript of records (for student applicants) or list of publications (for postdoc applicants), and the names and email addresses of one or two referees. Postdoc applicants are also strongly encouraged to submit a research statement.
 
 PhD positions are granted for 36 months with a net income of about 1700 € (+ optional 150€/month with teaching service).
 Postdocs positions are usually granted for 24 months, with a net income ranging between 2100 € and 2500 € depending on the candidate experience.
@@ -41,7 +41,7 @@ We welcome applicants from all backgrounds, and promote a friendly, safe, and su
   </blockquote>
 </details> -->
 
-### Undergraduate and Master students
+### Undergraduate and Master internships
 We can offer internships for undergraduate or master students. Applicants should have a strong mathematical or computer science background and some basic knowledge about quantum information.
 
 <br>
