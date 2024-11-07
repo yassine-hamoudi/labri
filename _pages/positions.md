@@ -15,7 +15,7 @@ permalink: /positions/
 
 We have various faculty job opportunities, including the following positions:
 
-- **Tenure-Track Professorship:** The Université de Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years. Contact us immediately if you are interested in applying for this position.
+- **Tenure-Track Professorship:** The Université de Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
 - **Permanent Researcher:** Each year, the CNRS (public research agency) conducts a [nationwide competition](https://carrieres.cnrs.fr/en/external-competitions-for-researchers-m-f/) to recruit permanent researchers. Applicants should seek the support of the research teams they wish to join. Contact us before November or December if you are considering applying for the following year and are interested in joining our group.
 
 ### PhD and Postdoc positions
