@@ -42,6 +42,8 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
 </details> -->
 
 ### Undergraduate and Master internships
-We can offer internships for undergraduate or master students. Applicants should have a strong mathematical or computer science background and some basic knowledge about quantum information.
+We can offer internships for undergraduate or master students who contact us well in advance. Candidates should have a strong background in mathematics or computer science, along with some basic knowledge of quantum information. The internships are on-site at the Université de Bordeaux (France). Interns may sometimes receive a stipend or financial assistance to help cover accommodation and travel expenses.
+
+Applicants should include the <ins>following information in their initial email:</ins> the preferred internship period, a CV, a transcript of records, and the names and email addresses of one or two referees.
 
 <br>
