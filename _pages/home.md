@@ -18,24 +18,31 @@ permalink: /
 
 <div class="row">
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
 <div style="text-align:center"><h4>Quantum Algorithms and Computational Speedups</h4></div>
  <ul>
-    <li>Optimization methods</li>
-    <li>Monte Carlo methods</li>
+    <li>Optimization and Monte Carlo methods</li>
     <li>Combinatorial algorithms</li>
     <li>Distributed algorithms</li>
-    <li>Quantum simulation of fermionic systems</li>
+    <li>Simulation of quantum systems</li>
  </ul>
 </div>
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
 <div style="text-align:center"><h4>Quantum Information and Complexity Theory</h4></div>
  <ul>
+    <li>Classical and quantum query complexity</li>
     <li>Limitations of near-term quantum computers</li>
     <li>Simulation of quantum circuits</li>
-    <li>Classical and quantum query complexity</li>
     <li>Quantum graphs</li>
+ </ul>
+</div>
+
+<div class="col-sm-4 clearfix">
+<div style="text-align:center"><h4>Quantum Computing and Fundamental Physics</h4></div>
+ <ul>
+    <li>Quantum simulation of strongly interacting fermionic systems</li>
+    <li>Quantum computing and quantum field theory</li>
     <li>Holographic complexity</li>
  </ul>
 </div>
