@@ -29,6 +29,27 @@ Postdocs positions are usually granted for 24 months, with a net income ranging 
 The positions include French social security coverage and employee benefits (health insurance, public transport expenses, paid leave, etc.).
 We welcome applicants from all backgrounds and promote a friendly, safe, and supportive team environment.
 
+<details markdown=block>
+  <summary>
+    Details of the current call for applications (Deadline: January 15, 2025)
+  </summary>
+  <blockquote>
+  A postdoctoral position is available in the [Quantum Information and Computation group](https://quantique.labri.fr) at the CS department of the University of Bordeaux (France). Applications should be submitted by **January 15** for full consideration.
+
+  We are seeking candidates with an interest in research on quantum information, quantum algorithms, and complexity theory. Specific topics they can expect to work on include:
+  <ul>
+    <li> Quantum Algorithms and Computational Speedups (optimization and Monte Carlo methods, combinatorial algorithms, distributed algorithms, quantum walks, quantum simulation)</li>
+    <li> Information and Complexity Theory (query complexity, limitations of near-term quantum computers, simulation of quantum circuits, quantum graphs)</li>
+    <li> Quantum Computing and Fundamental Physics (simulation of fermionic systems, quantum field theory, holographic complexity)</li>
+  </ul>
+  Candidates should have training or experience in at least one of the following areas: quantum information and computation, algorithmic theory, or complexity theory.
+
+  The recruited candidate is expected to start in Fall 2025 (or earlier). The position is for a duration of 24 months, with a net income ranging between 2100€ and 2500€, depending on the candidate's experience. The position includes French social security coverage and employee benefits (health insurance, public transport expenses, paid leave, etc.). We welcome applicants from all backgrounds and promote a friendly, safe, and supportive team environment.
+
+  Interested applicants should contact [Yassine Hamoudi](yassine.hamoudi@labri.fr) with the following materials: a CV (including a list of publications), a brief cover letter or research statement, and the names and email addresses of one or two referees.
+  </blockquote>
+</details>
+
 <!-- The following PhD subjects come with dedicated scholarships:
 <details markdown=block>
   <summary>
