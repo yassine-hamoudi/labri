@@ -13,10 +13,30 @@ permalink: /positions/
 
 ### Faculty positions
 
-We have various faculty job opportunities, including the following positions:
+**Tenure-Track Professorship:** The Université de Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
 
-- **Tenure-Track Professorship:** The Université de Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
-- **Permanent Researcher:** Each year, the CNRS (public research agency) conducts a [nationwide competition](https://carrieres.cnrs.fr/en/external-competitions-for-researchers-m-f/) to recruit permanent researchers. Applicants should seek the support of the research teams they wish to join. Contact us before November or December if you are considering applying for the following year and are interested in joining our group.
+<details markdown=block>
+  <summary>
+    ▶︎ Tenure-Track applications (Deadline: TBA)
+  </summary>
+  <blockquote>
+  - [Recrutement enseignants-chercheurs, Chaire de professeur junior (CPJ)](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_CPJ.htm)
+  - More details to come
+  </blockquote>
+</details>
+
+**Permanent Researcher:** Each year, the CNRS (public research agency) conducts a nationwide competition to recruit permanent researchers. Applicants should seek the support of the research teams they wish to join. Contact us before November or December if you are considering applying for the following year and are interested in joining our group.
+
+<details markdown=block>
+  <summary>
+    ▶︎ CNRS applications (Deadline: January 8, 2025)
+  </summary>
+  <blockquote>
+  - [External competitions for CNRS researchers](https://carrieres.cnrs.fr/en/external-competitions-for-researchers-m-f/)
+  - [Researchers competition 2025 - List of positions offered by CNRS Informatics](https://www.ins2i.cnrs.fr/en/cnrsinfo/researchers-competition-2025-list-positions-offered-cnrs-informatics)
+  - [Criteria and recommendations for the evaluation, the recruitment, the promotion of CNRS researchers](https://cn6.fr/documents/criteria.pdf)
+  </blockquote>
+</details>
 
 ### PhD and Postdoc positions
 
@@ -31,7 +51,7 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
 
 <details markdown=block>
   <summary>
-    Details of the current call for applications (Deadline: January 15, 2025)
+    ▶︎ Postdoc applications (Deadline: January 15, 2025)
   </summary>
   <blockquote>
   A postdoctoral position is available in the [Quantum Information and Computation group](https://quantique.labri.fr) at the CS department of the University of Bordeaux (France). Applications should be submitted by **January 15** for full consideration.
