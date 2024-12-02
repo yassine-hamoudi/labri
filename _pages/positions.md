@@ -38,6 +38,19 @@ permalink: /positions/
   </blockquote>
 </details>
 
+### Research Engineer
+
+We are recruiting a research engineer ("ingénieur de recherche") to contribute to research activities in the field of hybrid high-performance – quantum computing as part of the "Maisons du Quantique" project. The position is available for a maximum duration of three years, with a start date no later than mid-2025. The monthly gross salary ranges from €3,300 to €3,500.
+
+<details markdown=block>
+  <summary>
+    ▶︎ Research Engineer applications (Rolling deadline)
+  </summary>
+  <blockquote>
+  ![file]({{ site.url }}{{ site.baseurl }}/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"} [Job profile (fiche de poste)]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-ir.pdf)
+  </blockquote>
+</details>
+
 ### PhD and Postdoc positions
 
 We seek candidates that are interested in research on quantum information, quantum algorithms and complexity. Candidates can have training or experience in at least one of the following areas: quantum information and computation, algorithmic theory, complexity theory.
