@@ -57,8 +57,8 @@ We seek candidates that are interested in research on quantum information, quant
 
 Applicants should include the <ins>following information in their initial email:</ins> a CV, a transcript of records (for student applicants) or list of publications (for postdoc applicants), and the names and email addresses of one or two referees. Postdoc applicants are also strongly encouraged to submit a research statement.
 
-PhD positions are granted for 36 months with a net income of about 1700 € (+ optional 150€/month with teaching service).
-Postdocs positions are usually granted for 24 months, with a net income ranging between 2100 € and 2500 € depending on the candidate experience.
+PhD positions are granted for 36 months with a net income of about €1,700 (+ optional €150/month with teaching service).
+Postdocs positions are usually granted for 24 months, with a net income ranging between €2,100 and €2,500 depending on the candidate experience.
 The positions include French social security coverage and employee benefits (health insurance, public transport expenses, paid leave, etc.).
 We welcome applicants from all backgrounds and promote a friendly, safe, and supportive team environment.
 
@@ -77,7 +77,7 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
   </ul>
   Candidates should have training or experience in at least one of the following areas: quantum information and computation, algorithmic theory, or complexity theory.
 
-  The recruited candidate is expected to start in Fall 2025 (or earlier). The position is for a duration of 24 months, with a net income ranging between 2100€ and 2500€, depending on the candidate's experience. The position includes French social security coverage and employee benefits (health insurance, public transport expenses, paid leave, etc.). We welcome applicants from all backgrounds and promote a friendly, safe, and supportive team environment.
+  The recruited candidate is expected to start in Fall 2025 (or earlier). The position is for a duration of 24 months, with a net income ranging between €2,100 and €2,500, depending on the candidate's experience. The position includes French social security coverage and employee benefits (health insurance, public transport expenses, paid leave, etc.). We welcome applicants from all backgrounds and promote a friendly, safe, and supportive team environment.
 
   Interested applicants should contact [Yassine Hamoudi](yassine.hamoudi@labri.fr) with the following materials: a CV (including a list of publications), a brief cover letter or research statement, and the names and email addresses of one or two referees.
   </blockquote>
