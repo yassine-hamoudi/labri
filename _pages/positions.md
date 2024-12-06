@@ -13,7 +13,7 @@ permalink: /positions/
 
 ### Faculty positions
 
-**Tenure-Track Professorship:** The Université de Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
+**Tenure-Track Professorship:** The University of Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in 2025. The position includes a dedicated research grant (approx. 350k€) and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
 
 <details markdown=block>
   <summary>
@@ -25,7 +25,7 @@ permalink: /positions/
   </blockquote>
 </details>
 
-**Permanent Researcher:** Each year, the CNRS (public research agency) conducts a nationwide competition to recruit permanent researchers. Applicants should seek the support of the research teams they wish to join. Contact us before November or December if you are considering applying for the following year and are interested in joining our group.
+**Full-time Researcher:** Each year, the CNRS (public research agency) conducts a nationwide competition to recruit permanent researchers. Applicants should seek the support of the research teams they wish to join. Contact us before November or December if you are considering applying for the following year and are interested in joining our group.
 
 <details markdown=block>
   <summary>
@@ -35,6 +35,17 @@ permalink: /positions/
   - [External competitions for CNRS researchers](https://carrieres.cnrs.fr/en/external-competitions-for-researchers-m-f/)
   - [Researchers competition 2025 - List of positions offered by CNRS Informatics](https://www.ins2i.cnrs.fr/en/cnrsinfo/researchers-competition-2025-list-positions-offered-cnrs-informatics)
   - [Criteria and recommendations for the evaluation, the recruitment, the promotion of CNRS researchers](https://cn6.fr/documents/criteria.pdf)
+  </blockquote>
+</details>
+
+**Visiting Scholars:** The University of Bordeaux provides funding for visiting scholars through an annual call for applications. Positions are awarded for periods ranging from 1 to 10 months. Visiting scholars are employed by the University of Bordeaux and receive a net monthly salary of approx. €3,800. Applicants must hold a position of professor or assistant professor at their home institution and are expected to engage in both research and teaching activities at the University of Bordeaux during their stay.
+
+<details markdown=block>
+  <summary>
+    ▶︎ Visiting Scholar applications (Deadline: February 2, 2025)
+  </summary>
+  <blockquote>
+  - [Visiting Scholars - Call for applications 2025](https://www.u-bordeaux.fr/en/about-us/university-employment/teaching-and-research-staff/visiting-scholars)
   </blockquote>
 </details>
 
@@ -96,7 +107,7 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
 </details> -->
 
 ### Undergraduate and Master internships
-We can offer internships for undergraduate or master students who contact us well in advance. Candidates should have a strong background in mathematics or computer science, along with some basic knowledge of quantum information. The internships are on-site at the Université de Bordeaux (France). Interns may sometimes receive a stipend or financial assistance to help cover accommodation and travel expenses.
+We can offer internships for undergraduate or master students who contact us well in advance. Candidates should have a strong background in mathematics or computer science, along with some basic knowledge of quantum information. The internships are on-site at the University of Bordeaux (France). Interns may sometimes receive a stipend or financial assistance to help cover accommodation and travel expenses.
 
 Applicants should include the <ins>following information in their initial email:</ins> the preferred internship period, a CV, a transcript of records, and the names and email addresses of one or two referees.
 
