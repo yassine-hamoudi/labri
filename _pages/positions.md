@@ -32,6 +32,7 @@ permalink: /positions/
     ▶︎ CNRS applications (Deadline: January 8, 2025)
   </summary>
   <blockquote>
+  - The CNRS has several openings depending on the seniority of the applicants. Young researchers are most likely to apply for the position of CRCN (Chargé de Recherche de Classe Normale).
   - [External competitions for CNRS researchers](https://carrieres.cnrs.fr/en/external-competitions-for-researchers-m-f/)
   - [Researchers competition 2025 - List of positions offered by CNRS Informatics](https://www.ins2i.cnrs.fr/en/cnrsinfo/researchers-competition-2025-list-positions-offered-cnrs-informatics)
   - [Criteria and recommendations for the evaluation, the recruitment, the promotion of CNRS researchers](https://cn6.fr/documents/criteria.pdf)
