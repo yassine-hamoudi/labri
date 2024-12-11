@@ -18,37 +18,44 @@ permalink: /
 
 <div class="row">
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
 <div style="text-align:center"><h4>Quantum Algorithms and Computational Speedups</h4></div>
  <ul>
-    <li>Optimization methods</li>
-    <li>Monte Carlo methods</li>
+    <li>Optimization and Monte Carlo methods</li>
     <li>Combinatorial algorithms</li>
     <li>Distributed algorithms</li>
-    <li>Quantum sim. of quantum field theory and fermionic models</li>
+    <li>Simulation of quantum systems</li>
  </ul>
 </div>
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
 <div style="text-align:center"><h4>Quantum Information and Complexity Theory</h4></div>
  <ul>
     <li>Classical and quantum query complexity</li>
     <li>Limitations of near-term quantum computers</li>
     <li>Simulation of quantum circuits</li>
     <li>Quantum graphs</li>
+ </ul>
+</div>
+
+<div class="col-sm-4 clearfix">
+<div style="text-align:center"><h4>Quantum Computing and Fundamental Physics</h4></div>
+ <ul>
+    <li>Quantum simulation of strongly interacting fermionic systems</li>
+    <li>Quantum computing and quantum field theory</li>
     <li>Holographic complexity</li>
  </ul>
 </div>
 
 </div>
 
+#### **Our group has several [open positions]({% link _pages/positions.md %}) available.**
+
 <div style="text-align:center">
 <img src="{{ site.url }}{{ site.baseurl }}/images/people/group.jpg" class="responsive" >
 </div>
 
 #### We are grateful for funding from the [Université de Bordeaux](https://www.u-bordeaux.fr/en), the [Naquidis center](https://naquidis.com/), the [CNRS](https://www.cnrs.fr/en), the [PEPR EPiQ](https://project.inria.fr/epiq/) and the [CEA/GENCI](https://www.cea.fr/presse/Pages/actualites-communiques/ntic/france-hybrid-hqi-genci-cea-reseau-maison-quantique.aspx).
-
-#### **We are  looking for passionate new students and postdocs to join the team** [(more info)]({% link _pages/positions.md %}) **!**
 
 <!-- <div style="text-align:center">
 <iframe src="https://webmel.u-bordeaux.fr/home/bf-labri.ca@u-bordeaux.fr/gt.info-quantique.html" style="border: 0" width="90%" height="600" frameborder="0" scrolling="no"></iframe>
