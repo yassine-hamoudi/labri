@@ -9,3 +9,8 @@ What files to edit for changing the content of the site:
 Once the files are edited, it suffices to push and wait 1 min for the site to be automatically updated.
 
 For adding new seminars, edit the ics calendar directly in your Zimbra (requires edit rights).
+
+Install:
+gem install jekyll-ical-tag
+bundle install
+bundle update

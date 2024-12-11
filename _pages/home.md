@@ -25,16 +25,16 @@ permalink: /
     <li>Monte Carlo methods</li>
     <li>Combinatorial algorithms</li>
     <li>Distributed algorithms</li>
-    <li>Quantum simulation of fermionic systems</li>
+    <li>Quantum sim. of quantum field theory and fermionic models</li>
  </ul>
 </div>
 
 <div class="col-sm-6 clearfix">
 <div style="text-align:center"><h4>Quantum Information and Complexity Theory</h4></div>
  <ul>
+    <li>Classical and quantum query complexity</li>
     <li>Limitations of near-term quantum computers</li>
     <li>Simulation of quantum circuits</li>
-    <li>Classical and quantum query complexity</li>
     <li>Quantum graphs</li>
     <li>Holographic complexity</li>
  </ul>
