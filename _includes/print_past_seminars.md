@@ -7,7 +7,7 @@
 <details markdown=block>
   <summary markdown=span>
     {{ event.start_time | date_to_long_string: "ordinal" }}<br>
-    <b>{{ speaker }} </b> ({{ affiliation }}) <i>{{ title }}</i> &#9432;
+    <b>{{ speaker }} </b> {{ affiliation }} <i>{{ title }}</i> &#9432;
   </summary>
    <blockquote><p> {{ event.description }} </p></blockquote>
 </details>

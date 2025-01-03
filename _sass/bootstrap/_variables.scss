@@ -1,3 +1,5 @@
+@use "sass:color";
+
 $bootstrap-sass-asset-helper: false !default;
 // Lumen 3.3.7
 // Variables
@@ -9,11 +11,11 @@ $bootstrap-sass-asset-helper: false !default;
 //## Gray and brand colors for use across Bootstrap.
 
 $gray-base:              #000 !default;
-$gray-darker:            lighten($gray-base, 13.5%) !default; // #222
-$gray-dark:              lighten($gray-base, 20%) !default;   // #333
-$gray:                   lighten($gray-base, 33.5%) !default; // #555
-$gray-light:             lighten($gray-base, 60%) !default;   // #999
-$gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
+$gray-darker:            color.adjust($gray-base, $lightness: 13.5%, $space: hsl) !default; // #222
+$gray-dark:              color.adjust($gray-base, $lightness: 20%, $space: hsl) !default;   // #333
+$gray:                   color.adjust($gray-base, $lightness: 33.5%, $space: hsl) !default; // #555
+$gray-light:             color.adjust($gray-base, $lightness: 60%, $space: hsl) !default;   // #999
+$gray-lighter:           color.adjust($gray-base, $lightness: 93.5%, $space: hsl) !default; // #eee
 
 $brand-primary:         #158CBA !default;
 $brand-success:         #28B62C !default;
@@ -147,27 +149,27 @@ $btn-font-weight:                normal !default;
 
 $btn-default-color:              $gray !default;
 $btn-default-bg:                 $gray-lighter !default;
-$btn-default-border:             darken($btn-default-bg, 5%) !default;
+$btn-default-border:             color.adjust($btn-default-bg, $lightness: -5%, $space: hsl) !default;
 
 $btn-primary-color:              #fff !default;
 $btn-primary-bg:                 $brand-primary !default;
-$btn-primary-border:             darken($btn-primary-bg, 5%) !default;
+$btn-primary-border:             color.adjust($btn-primary-bg, $lightness: -5%, $space: hsl) !default;
 
 $btn-success-color:              #fff !default;
 $btn-success-bg:                 $brand-success !default;
-$btn-success-border:             darken($btn-success-bg, 5%) !default;
+$btn-success-border:             color.adjust($btn-success-bg, $lightness: -5%, $space: hsl) !default;
 
 $btn-info-color:                 #fff !default;
 $btn-info-bg:                    $brand-info !default;
-$btn-info-border:                darken($btn-info-bg, 5%) !default;
+$btn-info-border:                color.adjust($btn-info-bg, $lightness: -5%, $space: hsl) !default;
 
 $btn-warning-color:              #fff !default;
 $btn-warning-bg:                 $brand-warning !default;
-$btn-warning-border:             darken($btn-warning-bg, 5%) !default;
+$btn-warning-border:             color.adjust($btn-warning-bg, $lightness: -5%, $space: hsl) !default;
 
 $btn-danger-color:               #fff !default;
 $btn-danger-bg:                  $brand-danger !default;
-$btn-danger-border:              darken($btn-danger-bg, 5%) !default;
+$btn-danger-border:              color.adjust($btn-danger-bg, $lightness: -5%, $space: hsl) !default;
 
 $btn-link-disabled-color:        $gray-light !default;
 
@@ -189,7 +191,7 @@ $input-bg-disabled:              $gray-lighter !default;
 //** Text color for `<input>`s
 $input-color:                    $gray !default;
 //** `<input>` border color
-$input-border:                   darken(#f8f8f8, 6.5%) !default;
+$input-border:                   color.adjust(#f8f8f8, $lightness: -6.5%, $space: hsl) !default;
 
 // TODO: Rename `$input-border-radius` to `$input-border-radius-base` in v4
 //** Default `.form-control` border radius
@@ -393,7 +395,7 @@ $navbar-default-toggle-border-color:       $gray-lighter !default;
 // Reset inverted navbar basics
 $navbar-inverse-color:                      $gray-light !default;
 $navbar-inverse-bg:                         #fff !default;
-$navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;
+$navbar-inverse-border:                     color.adjust($navbar-inverse-bg, $lightness: -10%, $space: hsl) !default;
 
 // Inverted navbar links
 $navbar-inverse-link-color:                 $gray-light !default;
@@ -499,19 +501,19 @@ $jumbotron-heading-font-size:    ceil(($font-size-base * 4.5)) !default;
 
 $state-success-text:             #fff !default;
 $state-success-bg:               $brand-success !default;
-$state-success-border:           darken($state-success-bg, 4%) !default;
+$state-success-border:           color.adjust($state-success-bg, $lightness: -4%, $space: hsl) !default;
 
 $state-info-text:                #fff !default;
 $state-info-bg:                  $brand-info !default;
-$state-info-border:              darken($state-info-bg, 12%) !default;
+$state-info-border:              color.adjust($state-info-bg, $lightness: -12%, $space: hsl) !default;
 
 $state-warning-text:             #fff !default;
 $state-warning-bg:               $brand-warning !default;
-$state-warning-border:           darken($state-warning-bg, 5%) !default;
+$state-warning-border:           color.adjust($state-warning-bg, $lightness: -5%, $space: hsl) !default;
 
 $state-danger-text:              #fff !default;
 $state-danger-bg:                $brand-danger !default;
-$state-danger-border:            darken($state-danger-bg, 10%) !default;
+$state-danger-border:            color.adjust($state-danger-bg, $lightness: -10%, $space: hsl) !default;
 
 
 //== Tooltips
@@ -546,7 +548,7 @@ $popover-border-color:                rgba(0,0,0,.2) !default;
 $popover-fallback-border-color:       #ccc !default;
 
 //** Popover title background color
-$popover-title-bg:                    darken($popover-bg, 3%) !default;
+$popover-title-bg:                    color.adjust($popover-bg, $lightness: -3%, $space: hsl) !default;
 
 //** Popover arrow width
 $popover-arrow-width:                 10px !default;
@@ -558,7 +560,7 @@ $popover-arrow-outer-width:           ($popover-arrow-width + 1) !default;
 //** Popover outer arrow color
 $popover-arrow-outer-color:           fadein($popover-border-color, 5%) !default;
 //** Popover outer arrow fallback color
-$popover-arrow-outer-fallback-color:  darken($popover-fallback-border-color, 20%) !default;
+$popover-arrow-outer-fallback-color:  color.adjust($popover-fallback-border-color, $lightness: -20%, $space: hsl) !default;
 
 
 //== Labels
@@ -685,7 +687,7 @@ $list-group-active-bg:          $component-active-bg !default;
 //** Background color of active list items
 $list-group-active-border:      $list-group-active-bg !default;
 //** Text color for content within active list items
-$list-group-active-text-color:  lighten($list-group-active-bg, 40%) !default;
+$list-group-active-text-color:  color.adjust($list-group-active-bg, $lightness: 40%, $space: hsl) !default;
 
 //** Text color of disabled list items
 $list-group-disabled-color:      $gray-light !default;
@@ -762,7 +764,7 @@ $thumbnail-caption-padding:   9px !default;
 //##
 
 $well-bg:                     $jumbotron-bg !default;
-$well-border:                 darken($well-bg, 7%) !default;
+$well-border:                 color.adjust($well-bg, $lightness: -7%, $space: hsl) !default;
 
 
 //== Badges

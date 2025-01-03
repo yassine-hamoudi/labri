@@ -24,11 +24,11 @@ permalink: /seminar/
 <details markdown=block>
   <summary markdown=span>
     {% if event.location %}{{ event.start_time | date_to_long_string: "ordinal" }} at {{ event.start_time | date: "%H:%M" }} ({{ event.location }})<br>
-      <b>{{ speaker }} </b> ({{ affiliation }}) <i>{{ title }}</i> &#9432;
+      <b>{{ speaker }} </b> {{ affiliation }} <i>{{ title }}</i> &#9432;
     {% else %}{{ event.start_time | date_to_long_string: "ordinal" }} at {{ event.start_time | date: "%H:%M" }} <br>
       <b>{{ speaker }} </b> ({{ affiliation }}) <i>{{ title }}</i> &#9432;{% endif %}
   </summary>
-   <blockquote><p> {{ event.description }} </p></blockquote>
+   <blockquote><p> {{ abstract }} </p></blockquote>
 </details>
 <p></p>
   {% endif %}{% endif %}
