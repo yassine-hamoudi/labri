@@ -1,3 +1,5 @@
+@use "sass:color";
+
 // Lumen 3.3.7
 // Bootswatch
 // -----------------------------------------------------
@@ -348,7 +350,7 @@ label {
 }
 
 .breadcrumb {
-  border-color: darken($breadcrumb-bg, 5%);
+  border-color: color.adjust($breadcrumb-bg, $lightness: -5%, $space: hsl);
   border-style: solid;
   @include shadow();
 }
@@ -469,7 +471,7 @@ a.list-group-item {
 
     &.active:hover,
     &.active:focus {
-      background-color: darken($state-success-bg, 5%);
+      background-color: color.adjust($state-success-bg, $lightness: -5%, $space: hsl);
     }
   }
 
@@ -480,7 +482,7 @@ a.list-group-item {
     
     &.active:hover,
     &.active:focus {
-      background-color: darken($state-warning-bg, 5%);
+      background-color: color.adjust($state-warning-bg, $lightness: -5%, $space: hsl);
     }
   }
 
@@ -491,7 +493,7 @@ a.list-group-item {
     
     &.active:hover,
     &.active:focus {
-      background-color: darken($state-danger-bg, 5%);
+      background-color: color.adjust($state-danger-bg, $lightness: -5%, $space: hsl);
     }
   }
 }
