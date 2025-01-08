@@ -37,6 +37,11 @@ permalink: /seminar/
 <br>
 # Past talks
 
+### 2025
+
+{% assign year = '2025' %}
+{% include print_past_seminars.md %}
+
 ### 2024
 
 {% assign year = '2024' %}
