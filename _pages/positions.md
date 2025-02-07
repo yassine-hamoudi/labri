@@ -17,7 +17,7 @@ permalink: /positions/
 
 <details markdown=block>
   <summary>
-    ▶︎ Tenure-Track applications (Deadline: TBA)
+    ▶︎ Tenure-Track applications (Deadline: TBA, approx. March 2025)
   </summary>
   <blockquote>
   - [Recrutement enseignants-chercheurs, Chaire de professeur junior (CPJ)](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_CPJ.htm)
