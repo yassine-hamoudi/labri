@@ -21,8 +21,13 @@ Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saub
 The meeting will be held at [Hôtel Le Bayonne](https://www.hotel-le-bayonne.com/en/) in downtown Bayonne - France (1.5km from the train station). Location on [Google Maps](https://maps.app.goo.gl/pyNDGbVAEdgr7uS88).
 
 <p style="text-align:center; font-size:25px;">
-  <a href="https://evento.renater.fr/survey/invitation-to-the-basque-country-bordeaux-quantum-algorithms-meeting-april-910-2025-n8sqqjkm" target="_blank">Registration</a>
+  <a href="https://evento.renater.fr/survey/invitation-to-the-basque-country-bordeaux-quantum-algorithms-meeting-april-910-2025-n8sqqjkm" 
+     target="_blank" 
+     style="color:#D50032; text-decoration: none;">
+     Registration
+  </a>
 </p>
+
 
 Participation and accomodation are <b>free of charge</b> (upon registration), including one night's stay at the hotel, breakfast on the 10th, and lunch breaks on the 9th and 10th.
 
