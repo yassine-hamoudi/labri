@@ -104,14 +104,19 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="http://localhost:4000/js/bootstrap.min.js"></script>
 <script>
-  function adjustContentSpacing() {
-    var navbarHeight = document.querySelector(".navbar").offsetHeight;
-    document.querySelector(".container-event").style.marginTop = navbarHeight + "px";
+  function adjustBodyPadding() {
+    var navbar = document.querySelector(".navbar");
+
+    if (navbar) {
+      var navbarHeight = navbar.offsetHeight;
+      document.body.style.paddingTop = navbarHeight + "px"; // Set padding dynamically
+    }
   }
 
-  window.addEventListener("load", adjustContentSpacing);
-  window.addEventListener("resize", adjustContentSpacing);
+  window.addEventListener("load", adjustBodyPadding);
+  window.addEventListener("resize", adjustBodyPadding);
 </script>
+
 
   </body>
 
