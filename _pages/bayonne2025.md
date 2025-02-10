@@ -10,10 +10,12 @@ The meeting aims to foster collaboration between the research communities in the
 
 Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saubanère](https://www.loma.cnrs.fr/en/matthieu-saubanere/), [Yassine Hamoudi](https://yassine-hamoudi.github.io/)
 
-<figure class="two" align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/bordeaux.jpg" style="width: 310px" >
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/bilbao.jpg" style="width: 300px" >
-</figure>
+{::nomarkdown}
+<div class="picture-container">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/bordeaux.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/bilbao.jpg">
+</div>
+{:/nomarkdown}
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Venue</p>
 
