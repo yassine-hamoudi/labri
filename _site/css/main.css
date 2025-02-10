@@ -7621,11 +7621,39 @@ pubtit {
 }
 
 /* Event */
+.navbar-brand {
+  height: auto; /* Allows the navbar to expand */
+  white-space: normal; /* Ensures wrapping */
+  display: block; /* Makes it behave like a block element */
+  line-height: 1.4; /* Adjust spacing */
+}
+
 .container-event {
   margin-right: auto;
   margin-left: auto;
-  width: 20cm;
+  max-width: 900px; /* or 950px */
   font-size: large;
+}
+
+.logo-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Always 3 columns */
+  gap: 2px; /* Adjust space between logos */
+  padding: 20px; /* Optional: Reduce outer padding */
+  justify-items: center;
+  align-items: center;
+}
+
+.logo-container a {
+  display: flex;
+  justify-content: center;
+}
+
+.logo-container img {
+  height: 50px; /* Set a fixed height for uniformity */
+  width: auto; /* Automatically adjust width while maintaining aspect ratio */
+  max-width: 100%; /* Prevents images from overflowing their container */
+  object-fit: contain; /* Ensures images are fully visible without cropping */
 }
 
 /* Grid overrides */
