@@ -17,7 +17,7 @@ permalink: /positions/
 
 <details markdown=block>
   <summary>
-    ▶︎ Tenure-Track applications (Deadline: TBA)
+    ▶︎ Tenure-Track applications (Deadline: TBA, approx. March 2025)
   </summary>
   <blockquote>
   - [Recrutement enseignants-chercheurs, Chaire de professeur junior (CPJ)](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_CPJ.htm)
@@ -52,7 +52,7 @@ permalink: /positions/
 
 ### Research Engineer
 
-We are recruiting a research engineer ("ingénieur de recherche") to contribute to research activities in the field of hybrid high-performance – quantum computing as part of the "Maisons du Quantique" project. The position is available for a maximum duration of three years, with a start date no later than mid-2025. The monthly gross salary ranges from €3,300 to €3,500.
+We are recruiting a research engineer ("ingénieur de recherche") to contribute to research activities in the field of hybrid high-performance – quantum computing as part of the "Maisons du Quantique" project. The position is available for a maximum duration of three years, with a start date no later than mid-2025.
 
 <details markdown=block>
   <summary>
