@@ -7629,6 +7629,7 @@ pubtit {
 }
 
 .container-event {
+  margin-top: 100px; /* Fallback value */
   margin-right: auto;
   margin-left: auto;
   padding-left: 10px;

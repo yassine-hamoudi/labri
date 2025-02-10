@@ -5,7 +5,6 @@ sitemap: false
 permalink: /bayonne2025/
 ---
 
-<br>
 The meeting aims to foster collaboration between the research communities in the Basque Country and Bordeaux around the topic of quantum algorithms. It will feature a range of specialists from both sides of the border, with diverse backgrounds in physics, chemistry, computer science, and mathematics.
 
 Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saubanère](https://www.loma.cnrs.fr/en/matthieu-saubanere/), [Yassine Hamoudi](https://yassine-hamoudi.github.io/)

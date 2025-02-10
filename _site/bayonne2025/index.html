@@ -24,8 +24,7 @@
 
     <div class="container-event">
       <div class="row">
-        <p><br />
-The meeting aims to foster collaboration between the research communities in the Basque Country and Bordeaux around the topic of quantum algorithms. It will feature a range of specialists from both sides of the border, with diverse backgrounds in physics, chemistry, computer science, and mathematics.</p>
+        <p>The meeting aims to foster collaboration between the research communities in the Basque Country and Bordeaux around the topic of quantum algorithms. It will feature a range of specialists from both sides of the border, with diverse backgrounds in physics, chemistry, computer science, and mathematics.</p>
 
 <p>Organisers: <a href="https://cfm.ehu.es/nanophotonics/">Javier Aizpurua</a>, <a href="https://www.loma.cnrs.fr/en/matthieu-saubanere/">Matthieu Saubanère</a>, <a href="https://yassine-hamoudi.github.io/">Yassine Hamoudi</a></p>
 
@@ -104,6 +103,15 @@ The meeting aims to foster collaboration between the research communities in the
     
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="http://localhost:4000/js/bootstrap.min.js"></script>
+<script>
+  function adjustContentSpacing() {
+    var navbarHeight = document.querySelector(".navbar").offsetHeight;
+    document.querySelector(".container-event").style.marginTop = navbarHeight + "px";
+  }
+
+  window.addEventListener("load", adjustContentSpacing);
+  window.addEventListener("resize", adjustContentSpacing);
+</script>
 
   </body>
 

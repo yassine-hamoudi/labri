@@ -1,3 +1,12 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+<script>
+  function adjustContentSpacing() {
+    var navbarHeight = document.querySelector(".navbar").offsetHeight;
+    document.querySelector(".container-event").style.marginTop = navbarHeight + "px";
+  }
+
+  window.addEventListener("load", adjustContentSpacing);
+  window.addEventListener("resize", adjustContentSpacing);
+</script>

@@ -78,6 +78,15 @@ Template based on <a href="https://github.com/mpa139/allanlab">Allan Lab</a></p>
     
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="http://localhost:4000/js/bootstrap.min.js"></script>
+<script>
+  function adjustContentSpacing() {
+    var navbarHeight = document.querySelector(".navbar").offsetHeight;
+    document.querySelector(".container-event").style.marginTop = navbarHeight + "px";
+  }
+
+  window.addEventListener("load", adjustContentSpacing);
+  window.addEventListener("resize", adjustContentSpacing);
+</script>
 
   </body>
 
