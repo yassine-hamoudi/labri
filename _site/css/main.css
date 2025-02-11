@@ -7565,6 +7565,13 @@ figcaption {
 }
 
 /* Top navigation bar */
+.navbar-brand {
+  height: auto; /* Allows the navbar to expand */
+  white-space: normal; /* Ensures wrapping */
+  display: block; /* Makes it behave like a block element */
+  line-height: 1.4; /* Adjust spacing */
+}
+
 p.byline {
   text-align: center;
   font-size: 18px;
@@ -7620,15 +7627,8 @@ pubtit {
   margin-bottom: 24px;
 }
 
-/* Event */
-.navbar-brand {
-  height: auto; /* Allows the navbar to expand */
-  white-space: normal; /* Ensures wrapping */
-  display: block; /* Makes it behave like a block element */
-  line-height: 1.4; /* Adjust spacing */
-}
-
-.container-event {
+/* Autonomous */
+.container-autonomous {
   margin-right: auto;
   margin-left: auto;
   padding-left: 10px;
@@ -7639,7 +7639,7 @@ pubtit {
 
 .picture-container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Always 3 columns */
+  grid-template-columns: repeat(2, 1fr); /* Always 2 columns */
   gap: 2px; /* Adjust space between logos */
   padding: 20px; /* Optional: Reduce outer padding */
   justify-items: center;

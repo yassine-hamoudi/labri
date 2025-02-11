@@ -1,11 +1,14 @@
 ---
 title: "Basque Country - Bordeaux Quantum Algorithms Meeting"
-layout: event
+description: "<b>Basque Country - Bordeaux <span style='color:#D50032;'>Quantum Algorithms</span> Meeting</b> <br> April 9 & 10, 2025"
+layout: autonomous
 sitemap: false
 permalink: /bayonne2025/
 ---
 
 The meeting aims to foster collaboration between the research communities of the Basque Country and Bordeaux on the topic of quantum algorithms. It will bring together specialists from both sides of the border, with diverse backgrounds in physics, chemistry, computer science, and mathematics.
+
+The meeting will feature short and long talks, as well as poster presentations.
 
 Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saubanère](https://www.loma.cnrs.fr/en/matthieu-saubanere/), [Yassine Hamoudi](https://yassine-hamoudi.github.io/)
 
@@ -18,7 +21,7 @@ Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saub
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Venue</p>
 
-The meeting will be held at [Hôtel Le Bayonne](https://www.hotel-le-bayonne.com/en/) in downtown Bayonne - France (1.5km from the train station). Location on [Google Maps](https://maps.app.goo.gl/pyNDGbVAEdgr7uS88).
+The meeting will be held at [Hôtel Le Bayonne](https://www.hotel-le-bayonne.com/en/) in downtown Bayonne, France (1.5km from the train station). Location on [Google Maps](https://maps.app.goo.gl/pyNDGbVAEdgr7uS88).
 
 <p style="text-align:center; font-size:25px;">
   <a href="https://evento.renater.fr/survey/invitation-to-the-basque-country-bordeaux-quantum-algorithms-meeting-april-910-2025-n8sqqjkm" 
@@ -29,7 +32,7 @@ The meeting will be held at [Hôtel Le Bayonne](https://www.hotel-le-bayonne.com
 </p>
 
 
-Participation and accomodation are <b>free of charge</b> (upon registration), including one night's stay at the hotel, breakfast on the 10th, and lunch breaks on the 9th and 10th.
+Registration is required to participate in the event. If you are not affiliated with one of the sponsors below, please contact us before registering. Participation and accommodation are <b>free of charge</b>, including one night's stay at the hotel, breakfast on the 10th, and lunch breaks on the 9th and 10th. Transportation costs are the responsibility of the participants.
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Program</p>
 
