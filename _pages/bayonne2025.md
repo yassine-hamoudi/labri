@@ -24,27 +24,36 @@ Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saub
 The meeting will be held at [Hôtel Le Bayonne](https://www.hotel-le-bayonne.com/en/) in downtown Bayonne, France (1.5km from the train station). Location on [Google Maps](https://maps.app.goo.gl/pyNDGbVAEdgr7uS88).
 
 <p style="text-align:center; font-size:25px;">
-  <a href="https://evento.renater.fr/survey/invitation-to-the-basque-country-bordeaux-quantum-algorithms-meeting-april-910-2025-n8sqqjkm" 
-     target="_blank" 
+  <a href="https://evento.renater.fr/survey/invitation-to-the-basque-country-bordeaux-quantum-algorithms-meeting-april-910-2025-n8sqqjkm"
+     target="_blank"
      style="color:#D50032; text-decoration: none;">
      Registration
   </a>
 </p>
 
+Registration is required to participate in the event. If you are not affiliated with one of the sponsors below, please contact us before registering. Participation and accommodation are <b>free of charge</b>, including one night's stay at the hotel, breakfast on the 10th, lunch breaks on the 9th and 10th, and dinner on the 9th. Transportation costs are the responsibility of the participants.
 
-Registration is required to participate in the event. If you are not affiliated with one of the sponsors below, please contact us before registering. Participation and accommodation are <b>free of charge</b>, including one night's stay at the hotel, breakfast on the 10th, and lunch breaks on the 9th and 10th. Transportation costs are the responsibility of the participants.
-
-<p style="text-align:center; font-size:30px; font-weight:bold;">Program</p>
+<p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
 
 <!-- round table with a representative from IBM Quantum and Loïc Henriet, CEO of Pasqal -->
 
-<b>Wednesday, 9 April</b>
+All events (except dinner) will be held at Hôtel Le Bayonne.
 
-To be announced
+**Wednesday, 9 April**
 
-<b>Thursday, 10 April</b>
+- **09:30 - 10:00**: Welcome Coffee  
+- **10:00 - 12:30**: Scientific Meeting  
+- **12:30 - 14:00**: Lunch Break  
+- **14:00 - 17:30**: Scientific Meeting  
+- **20:00**: Dinner (Location to be announced)  
 
-To be announced
+---
+
+**Thursday, 10 April**
+
+- **07:00 - 09:30**: Breakfast  
+- **09:30 - 13:30**: Scientific Meeting  
+- **13:30 - 15:00**: Lunch Break
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Participants</p>
 
@@ -54,14 +63,14 @@ To be announced
 
 {::nomarkdown}
 <div class="logo-container">
-  <a href="https://www.nouvelle-aquitaine.fr/">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/nouvelleaquitaine.png">
-  </a>
   <a href="https://www.cnrs.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cnrs.png">
   </a>
   <a href="https://anr.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/anr.jpg">
+  </a>
+  <a href="https://www.info.gouv.fr/grand-dossier/france-2030">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/france2030.jpg">
   </a>
   <a href="https://www.ehu.eus/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/ubasque.jpg">
@@ -72,8 +81,17 @@ To be announced
   <a href="https://www.basquequantum.eus/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/basq.jpg">
   </a>
-    <a href="https://www.naquidis.com/">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/naquidis.png">
+  <a href="https://www.u-bordeaux.fr/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/bordeaux.jpeg">
+  </a>
+  <a href="https://www.euskampus.eus/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/euskampus.png">
+  </a>
+  <a href="https://www.ltcsarea.eu/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/LTC.png">
+  </a>
+  <a href="https://www.nouvelle-aquitaine.fr/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/nouvelleaquitaine.png">
   </a>
   <a href="https://www.labri.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/labri2.png">
@@ -81,11 +99,11 @@ To be announced
   <a href="https://www.loma.cnrs.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/LOMA.png">
   </a>
-  <a href="https://www.u-bordeaux.fr/">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/bordeaux.jpeg">
+  <div>&nbsp;</div>
+    <a href="https://www.naquidis.com/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/naquidis.png">
   </a>
 </div>
 {:/nomarkdown}
 
 <br>
-
