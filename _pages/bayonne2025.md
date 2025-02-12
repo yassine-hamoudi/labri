@@ -15,7 +15,7 @@ Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saub
 {::nomarkdown}
 <div class="picture-container">
   <img src="{{ site.url }}{{ site.baseurl }}/images/picture/bordeaux.jpg">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/bilbao.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/sansebastian.jpg">
 </div>
 {:/nomarkdown}
 
