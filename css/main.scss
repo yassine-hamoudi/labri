@@ -31,7 +31,7 @@ figcaption {
 
 .navbar-brand {
   height: auto; /* Allows the navbar to expand */
-  white-space: normal; /* Ensures wrapping */
+  white-space: nowrap; /* Ensures wrapping */
   display: block; /* Makes it behave like a block element */
   line-height: 1.4; /* Adjust spacing */
 }
@@ -122,7 +122,7 @@ firstp {
 }
 .logo-container img {
   height: 50px; /* Set a fixed height for uniformity */
-  width: auto; /* Automatically adjust width while maintaining aspect ratio */
+  width: 100%; /* Automatically adjust width while maintaining aspect ratio */
   max-width: 100%; /* Prevents images from overflowing their container */
   object-fit: contain; /* Ensures images are fully visible without cropping */
 }
