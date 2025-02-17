@@ -35,7 +35,7 @@ Registration is required to participate in the event. If you are not affiliated 
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
 
-<!-- round table with a representative from IBM Quantum and Loïc Henriet, CEO of Pasqal -->
+<!-- round table with Antonio Córcoles (IBM Quantum) and Loïc Henriet (CEO of Pasqal) -->
 
 All events (except dinner) will be held at Hôtel Le Bayonne.
 
