@@ -44,7 +44,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 - **10:00 - 10:30**: Welcome Coffee  
 - **10:30 - 12:30**: Scientific Meeting  
 - **12:30 - 14:00**: Lunch Break  
-- **14:00 - 17:30**: Scientific Meeting  
+- **14:00 - 18:00**: Scientific Meeting  
 - **20:00**: Dinner (Location to be announced)  
 
 ---
