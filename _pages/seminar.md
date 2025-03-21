@@ -37,6 +37,14 @@ permalink: /seminar/
 <br>
 # Past talks
 
+### Hosted or Co-Organized Events
+
+9th-10th April 2025<br>
+<i>Basque Country - Bordeaux Quantum Algorithms Meeting.</i> [Program &#9432;]({% link _pages/bayonne2025.md %})
+
+24th-26th January 2024<br>
+<i>ANR QuDATA Workshop, Quantum Algorithms for Massive Data.</i> [Program &#9432;](https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html)
+
 ### 2025
 
 {% assign year = '2025' %}
