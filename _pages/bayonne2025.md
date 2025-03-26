@@ -73,7 +73,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   - 11:40 – 12:10 : Ruben Esteban, *Simulation of nanophotonic systems with quantum computers*
   - 12:10 – 12:30 : Benjamín Tirado Heras, *Simulating open quantum systems with NISQ-efficient dynamical circuits*
   - 12:30 – 13:00 : Reza Dastbasteh, *Asymptotically good quantum codes supporting transversal T gate*
-  - 13:00 – 13:20 : Gerard Valentí-Rojas
+  - 13:00 – 13:20 : Gerard Valentí-Rojas, *Low-Overhead Robust Quantum Memories --- A Many-Body Physics Approach*
   - 13:20 – 13:30 : Concluding remark 
 - **13:30 - 15:00**: Lunch Break
 
