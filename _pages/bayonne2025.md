@@ -96,21 +96,21 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 
 <div align="center">
 
-|        Andoni Agirre        |        Josu Etxezarreta Martinez        |        Mateo Uldemolins        |
-|        Javier Aizpurua        |        Reza Dastbasteh        |        Gerard Valentí-Rojas        |
-|        Bárbara Andrade        |        Raúl Guerrero-Avilés        |        Guillermo Valverde        |
-|        Gaétan Eliott Bardy        |        Marta Gili Esteva        |        Adrian Tanasa        |
-|        Sourav Biswas        |        Tobias Grass        |        Shrinidhi Teganahally Sridhara        |
-|        Ameeya Busan Sahoo        |        Yassine Hamoudi        |        Benjamin Tirado        |
-|        Abel Carreras        |        Loic Henriet        |        Gilles Zemor        |
-|        David Casanova        |        Juan Felipe Huan Lew Yee        |        Ludovic Jaubert        |
-|        Antonio Corcoles        |        Yvan Le Borgne        |        Nico Leumer        |
-|        Adolfo Del Campo        |        Nicolas Lorente        |        Arun John Moncy        |
-|        Javier Oliva Del Moral &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;      |        Rubén M. Otxoa de Zuazola  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;      |        Alexandre Perrin        |
-|        Clément Dutreix        |        Yann Pouillon        |        Enrique Rico Ortega        |
-|        Thomas Frederiksen        |        Kelvin Salou-Smith        |        Paul San Sebastian        |
-|        Shayan Edalatmanesh        |        Matthieu Saubanere        |        Olatz Sanz        |
-|        Ruben Esteban        |        Gian Luca Spitzer        |                                  |
+| Andoni Agirre             | Josu Etxezarreta Martinez | Mateo Uldemolins             |
+| Javier Aizpurua          | Reza Dastbasteh           | Gerard Valentí-Rojas        |
+| Bárbara Andrade         | Raúl Guerrero-Avilés     | Gaétan Eliott Bardy         |
+| Marta Gili Esteva        | Adrian Tanasa             | Sourav Biswas               |
+| Tobias Grass             | Shrinidhi Teganahally Sridhara &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; | Ameeya Busan Sahoo |
+| Yassine Hamoudi        | Benjamin Tirado           | Abel Carreras               |
+| Loic Henriet             | Gilles Zemor              | David Casanova              |
+| Juan Felipe Huan Lew Yee | Ludovic Jaubert           | Antonio Corcoles            |
+| Yvan Le Borgne           | Nico Leumer               | Adolfo Del Campo            |
+| Nicolas Lorente         | Arun John Moncy           | Javier Oliva Del Moral      |
+| Rubén M. Otxoa de Zuazola &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; | Alexandre Perrin         | Clément Dutreix             |
+| Yann Pouillon           | Enrique Rico Ortega       | Thomas Frederiksen          |
+| Kelvin Salou-Smith      | Paul San Sebastian        | Shayan Edalatmanesh         |
+| Matthieu Saubanere     | Olatz Sanz                | Ruben Esteban               |
+| Gian Luca Spitzer      |                            |                             |
 
 </div>
 
