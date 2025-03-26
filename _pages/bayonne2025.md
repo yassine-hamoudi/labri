@@ -85,7 +85,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 - Marta Gili Estava, *Distributed Architectures for Quantum Extreme Learning Machines*
 - Thomas Fredericksen, *Crossed graphene nanoribbons for electron quantum optics and spintronics*
 - Raul Guerrero, *Sample-based Quantum Diagonalization on small organic molecules*
-- Nico Leumer
+- Nico Leumer, *Dynamical current as tool to distinguish degenerate spin states in open-shell graphene nanoribbons*
 - Arun John Moncy, *Mapping rotated surface code to 3xN railway*
 - Javier Oliva Del Moral, *Schwinger effect in spin qubits in quantum dots*
 - Alexandre Perrin, *Variational Quantum Subspace Construction*
