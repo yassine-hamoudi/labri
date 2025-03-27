@@ -44,7 +44,9 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 **Wednesday, 9 April**
 
 - **10:00 - 10:30**: Welcome Coffee  
-- **10:30 - 12:30**: Roundtable with IBM & Pasqal
+- **10:30 - 12:30**: Keynote Talks
+  - 10:30 - 11:30: Antonio Corcoles (Principal Research Scientist, IBM Quantum)
+  - 11:30 - 12:30: Loïc Henriet (CEO, PASQAL)
 - **12:30 - 14:00**: Lunch Break  
 - **14:00 - 15:40**: Scientific Talks, Session 1
   - 14:00 - 14:30: Adolfo Del Campo
@@ -81,7 +83,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 
 **Posters**
 
-- Andoni Agirre
+- Andoni Agirre, *Learning QAOA Landscapes: Parameter optimization via Iterative Search-Space Restricted Monte Carlo Tree Search*
 - Marta Gili Estava, *Distributed Architectures for Quantum Extreme Learning Machines*
 - Thomas Fredericksen, *Crossed graphene nanoribbons for electron quantum optics and spintronics*
 - Raul Guerrero, *Sample-based Quantum Diagonalization on small organic molecules*
