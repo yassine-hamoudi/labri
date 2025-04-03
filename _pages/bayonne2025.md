@@ -96,21 +96,21 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 
 <div align="center">
 
-| Andoni Agirre             | Josu Etxezarreta Martinez | Mateo Uldemolins             |
-| Javier Aizpurua          | Reza Dastbasteh           | Gerard Valentí-Rojas        |
-| Bárbara Andrade         | Raúl Guerrero-Avilés     | Gaétan Eliott Bardy         |
-| Marta Gili Esteva        | Adrian Tanasa             | Sourav Biswas               |
-| Tobias Grass             | Shrinidhi Teganahally Sridhara &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; | Ameeya Busan Sahoo |
-| Yassine Hamoudi        | Benjamin Tirado           | Abel Carreras               |
-| Louis-Paul Henry             | Gilles Zemor              | David Casanova              |
-| Juan Felipe Huan Lew Yee | Ludovic Jaubert           | Antonio Corcoles            |
-| Yvan Le Borgne           | Nico Leumer               | Adolfo Del Campo            |
-| Nicolas Lorente         | Arun John Moncy           | Javier Oliva Del Moral      |
-| Rubén M. Otxoa de Zuazola &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; | Alexandre Perrin         | Clément Dutreix             |
-| Yann Pouillon           | Enrique Rico Ortega       | Thomas Frederiksen          |
-| Kelvin Salou-Smith      | Paul San Sebastian        | Shayan Edalatmanesh         |
-| Matthieu Saubanere     | Olatz Sanz                | Ruben Esteban               |
-| Gian Luca Spitzer      |                            |                             |
+| Andoni Agirre             | Josu Etxezarreta Martinez &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; | Alexandre Perrin          |
+| Javier Aizpurua           | Reza Dastbasteh             | Yann Pouillon             |
+| Bárbara Andrade           | Raúl Guerrero-Avilés       | Enrique Rico Ortega       |
+| Gaétan Eliott Bardy        | Marta Gili Esteva           | Kelvin Salou-Smith        |
+| Sourav Biswas             | Tobias Grass                | Paul San Sebastian        |
+| Fajardo Carlos            | Yassine Hamoudi             | Matthieu Saubanere        |
+| Abel Carreras             | Louis-Paul Henry            | Olatz Sanz                |
+| David Casanova            | Juan Felipe Huan Lew Yee    | Gian Luca Spitzer         |
+| Antonio Corcoles          | Ludovic Jaubert             | Mateo Uldemolins          |
+| Adolfo Del Campo          | Yvan Le Borgne              | Gerard Valentí-Rojas      |
+| Javier Oliva Del Moral  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  | Nico Leumer                 | Adrian Tanasa             |
+| Clément Dutreix           | Nicolas Lorente             | Shrinidhi Teganahally Sridhara |
+| Thomas Frederiksen        | Arun John Moncy             | Benjamin Tirado           |
+| Shayan Edalatmanesh       | Rubén M. Otxoa de Zuazola   | Gilles Zemor              |
+| Ruben Esteban             |                             |                           |
 
 </div>
 
@@ -125,8 +125,8 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   <a href="https://anr.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/anr.jpg">
   </a>
-  <a href="https://www.info.gouv.fr/grand-dossier/france-2030">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/france2030.jpg">
+  <a href="https://anr.fr/fr/france-2030/programmes-et-equipements-prioritaires-de-recherche-pepr/quantique/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/pepr.jpg">
   </a>
   <a href="https://www.ehu.eus/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/ubasque.jpg">
@@ -149,14 +149,19 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   <a href="https://www.nouvelle-aquitaine.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/nouvelleaquitaine.png">
   </a>
+  <a href="https://www.cea.fr/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cea.png">
+  </a>
+  <a href="https://www.inria.fr">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/inria.jpg">
+  </a>
   <a href="https://www.labri.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/labri2.png">
   </a>
   <a href="https://www.loma.cnrs.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/LOMA.png">
   </a>
-  <div>&nbsp;</div>
-    <a href="https://www.naquidis.com/">
+  <a href="https://www.naquidis.com/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/naquidis.png">
   </a>
 </div>
