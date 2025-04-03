@@ -37,8 +37,6 @@ Registration is required to participate in the event. If you are not affiliated 
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
 
-<!-- round table with Antonio Córcoles (IBM Quantum) and Loïc Henriet (CEO of Pasqal) -->
-
 All events (except dinner) will be held at Hôtel Le Bayonne.
 
 **Wednesday, 9 April**
@@ -46,7 +44,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 - **10:00 - 10:30**: Welcome Coffee  
 - **10:30 - 12:30**: Keynote Talks
   - 10:30 - 11:30: Antonio Corcoles (Principal Research Scientist, IBM Quantum)
-  - 11:30 - 12:30: Loïc Henriet (CEO, PASQAL)
+  - 11:30 - 12:30: Louis-Paul Henry (VP Quantum Applications, PASQAL)
 - **12:30 - 14:00**: Lunch Break  
 - **14:00 - 15:40**: Scientific Talks, Session 1
   - 14:00 - 14:30: Adolfo Del Campo

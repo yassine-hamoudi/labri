@@ -45,3 +45,15 @@
   start_date: 2024-12-01
   end_date: ...
   number_fields: 0
+
+- name: Gaétan Bardy
+  photo: bardy.jpg
+  type: "student"
+  info: PhD student
+  affiliation: Université de Bordeaux
+  level: PhD
+  email: gaetan.bardy@u-bordeaux.fr
+  supervisor: Adrian Tanasa
+  start_date: 2025-04-01
+  end_date: ...
+  number_fields: 0
