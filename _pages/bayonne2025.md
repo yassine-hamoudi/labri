@@ -102,7 +102,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 | Marta Gili Esteva        | Adrian Tanasa             | Sourav Biswas               |
 | Tobias Grass             | Shrinidhi Teganahally Sridhara &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; | Ameeya Busan Sahoo |
 | Yassine Hamoudi        | Benjamin Tirado           | Abel Carreras               |
-| Loic Henriet             | Gilles Zemor              | David Casanova              |
+| Louis-Paul Henry             | Gilles Zemor              | David Casanova              |
 | Juan Felipe Huan Lew Yee | Ludovic Jaubert           | Antonio Corcoles            |
 | Yvan Le Borgne           | Nico Leumer               | Adolfo Del Campo            |
 | Nicolas Lorente         | Arun John Moncy           | Javier Oliva Del Moral      |
