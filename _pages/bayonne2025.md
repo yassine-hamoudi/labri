@@ -43,12 +43,12 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 
 - **10:00 - 10:30**: Welcome Coffee  
 - **10:30 - 12:30**: Keynote Talks
-  - 10:30 - 11:30: Antonio Corcoles (Principal Research Scientist, IBM Quantum)
-  - 11:30 - 12:30: Louis-Paul Henry (VP Quantum Applications, PASQAL)
+  - 10:30 - 11:30: Antonio Córcoles (Principal Research Scientist, IBM Quantum), *Quantum-centric computing*
+  - 11:30 - 12:30: Louis-Paul Henry (VP Quantum Applications, PASQAL), *Providing quantum computing solutions with neutral atoms*
 - **12:30 - 14:00**: Lunch Break  
 - **14:00 - 15:40**: Scientific Talks, Session 1
   - 14:00 - 14:30: Adolfo Del Campo
-  - 14:30 - 14:50: Bárbara Andrande, *Gauge invariance as a tool for quantum error detection in digital quantum simulations*
+  - 14:30 - 14:50: Bárbara Andrade, *Gauge invariance as a tool for quantum error detection in digital quantum simulations*
   - 14:50 - 15:20 : Yassine Hamoudi, *Quantum algorithms for multilevel Monte Carlo methods*
   - 15:20 – 15:40 : Juan-Felipe Huan Lew, *NOF-VQE for efficient sampling*
 - **15:40 - 16:10**: Coffee Break
