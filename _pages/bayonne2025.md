@@ -66,7 +66,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 - **09:30 - 11:10**: Scientific Talks, Session 3
   - <del> 09:30 – 10:00 : Gille Zemor, *Quantum LDPC codes from square complexes*</del>
   - 10:00 – 10:20 : Tobias Grass, *Quantum annealing strategies using bias fields*
-  - 10:20 – 10:50 : Enrique Rico Ortega
+  - 10:20 – 10:50 : Enrique Rico Ortega, *Exploring the quantum frontier: HEP with quantum computing*
   - 10:50 – 11:10 : Yann Pouillon, *Beyond DFT with SIESTA and Qiskit*
 - **11:10 – 11h40**: Coffee Break
 - **11:40 - 13:30**: Scientific Talks, Session 4
