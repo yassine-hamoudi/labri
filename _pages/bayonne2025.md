@@ -45,9 +45,9 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 - **10:30 - 12:30**: Keynote Talks
   - 10:30 - 11:30: Antonio Córcoles (Principal Research Scientist, IBM Quantum), *Quantum-centric computing*
   - 11:30 - 12:30: Louis-Paul Henry (VP Quantum Applications, PASQAL), *Providing quantum computing solutions with neutral atoms*
-- **12:30 - 14:00**: Lunch Break  
+- **12:30 - 14:30**: Lunch Break  
 - **14:00 - 15:40**: Scientific Talks, Session 1
-  - 14:00 - 14:30: Adolfo Del Campo
+  - <del> 14:00 - 14:30: Adolfo Del Campo</del> 
   - 14:30 - 14:50: Bárbara Andrade, *Gauge invariance as a tool for quantum error detection in digital quantum simulations*
   - 14:50 - 15:20 : Yassine Hamoudi, *Quantum algorithms for multilevel Monte Carlo methods*
   - 15:20 – 15:40 : Juan-Felipe Huan Lew, *NOF-VQE for efficient sampling*
@@ -64,7 +64,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 
 - **07:00 - 09:30**: Breakfast  
 - **09:30 - 11:10**: Scientific Talks, Session 3
-  - 09:30 – 10:00 : Gille Zemor, *Quantum LDPC codes from square complexes*
+  - <del> 09:30 – 10:00 : Gille Zemor, *Quantum LDPC codes from square complexes*</del>
   - 10:00 – 10:20 : Tobias Grass, *Quantum annealing strategies using bias fields*
   - 10:20 – 10:50 : Enrique Rico Ortega
   - 10:50 – 11:10 : Yann Pouillon, *Beyond DFT with SIESTA and Qiskit*
@@ -92,7 +92,11 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 - Kelvin Salou-Smith
 - Olatz Sanz
 
-<p style="text-align:center; font-size:30px; font-weight:bold;">Participants</p>
+<p style="text-align:center; font-size:30px; font-weight:bold;">Registered Participants</p>
+
+<div style="text-align:center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/Workshop_Bordeaux_Basque_April_9_2025.jpg" class="responsive" >
+</div>
 
 <div align="center">
 
