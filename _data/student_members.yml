@@ -57,3 +57,15 @@
   start_date: 2025-04-01
   end_date: ...
   number_fields: 0
+
+- name: Ananya Ranade
+  photo: empty.png
+  type: "student"
+  info: Intern from Chennai Mathematical Institute
+  affiliation: Chennai Mathematical Institute
+  level: Undergraduate
+  email: ananyarranade@gmail.com
+  supervisor: Yassine Hamoudi
+  start_date: 2025-05-12
+  end_date: 2025-07-18
+  number_fields: 0

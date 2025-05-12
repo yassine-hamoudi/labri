@@ -13,7 +13,7 @@ permalink: /positions/
 
 ### Faculty positions
 
-**Tenure-Track Professorship:** The University of Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in 2025. The position includes a dedicated research grant (approx. 350k€) and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
+<!-- **Tenure-Track Professorship:** The University of Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in 2025. The position includes a dedicated research grant (approx. 350k€) and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
 
 <details markdown=block>
   <summary>
@@ -23,7 +23,7 @@ permalink: /positions/
   - [Recrutement enseignants-chercheurs, Chaire de professeur junior (CPJ)](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_CPJ.htm)
   - More details to come
   </blockquote>
-</details>
+</details> -->
 
 **Full-time Researcher:** Each year, the CNRS (public research agency) conducts a nationwide competition to recruit permanent researchers. Applicants should seek the support of the research teams they wish to join. Contact us before November or December if you are considering applying for the following year and are interested in joining our group.
 
