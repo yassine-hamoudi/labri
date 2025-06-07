@@ -8,10 +8,11 @@ permalink: /hybquant/
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Événements soutenus</p>
 
-- Journée Quantique en Nouvelle-Aquitaine (4 juillet 2025) : [Informations](https://evenements.alpha-rlh.com/fr/evenement/journee-quantique-en-nouvelle-aquitaine-2/presentation)
 - Ecole d'été du CEMRACS (15 juillet - 22 août 2025) : [Informations](https://cemracs2025.math.cnrs.fr/en/)
-- Formation professionnelle Houko : [Informations](https://www.houko-formation.com/) 
+- Journée Quantique en Nouvelle-Aquitaine (4 juillet 2025) : [Informations](https://evenements.alpha-rlh.com/fr/evenement/journee-quantique-en-nouvelle-aquitaine-2/presentation)
 - Séminaires de recherche : [Informations](https://quantique.labri.fr/seminar/)
+- Formation professionnelle Houko : [Informations](https://www.houko-formation.com/) 
+- Réunion Bordeaux - Pays basque sur les algorithmes quantiques: [Informations](https://quantique.labri.fr/bayonne2025/)
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Offres d'emplois</p>
 
