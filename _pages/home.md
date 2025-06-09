@@ -20,7 +20,7 @@ permalink: /
 </figure>
 <br>
 
-#### We are a research group in quantum computing, formally created in 2024 and located in Bordeaux (France). Our members are hosted at [LaBRI](https://www.labri.fr/en/) in [Université de Bordeaux](https://www.u-bordeaux.fr/en). We are also part of the CNRS research networks in quantum information ([GT IQ](https://members.loria.fr/SPerdrix/gt-iq/)) and in quantum technologies ([GDR TeQ](https://gdr-teq.cnrs.fr/)).
+#### We are a research group in quantum computing, formally created in 2024 and located in Bordeaux (France). Our members are hosted at [LaBRI](https://www.labri.fr/en/) in [Université de Bordeaux](https://www.u-bordeaux.fr/en). We are also part of the CNRS research networks in quantum information ([GT IQ](https://members.loria.fr/SPerdrix/gt-iq/)) and in quantum technologies ([GDR TeQ](https://gdr-teq.cnrs.fr/)), and the HQI initiative [Maisons du Quantique]({% link _pages/hybquant.md %}).
 
 #### Our areas of research and interest include:
 

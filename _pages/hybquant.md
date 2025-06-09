@@ -6,6 +6,10 @@ sitemap: false
 permalink: /hybquant/
 ---
 
+<div style="text-align:center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo/hybquant.jpg" class="responsive" style="width: 240px">
+</div>
+
 <p style="text-align:center; font-size:30px; font-weight:bold;">Événements soutenus</p>
 
 - Ecole d'été du CEMRACS (15 juillet - 22 août 2025) : [Informations](https://cemracs2025.math.cnrs.fr/en/)
