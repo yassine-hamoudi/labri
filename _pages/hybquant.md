@@ -16,7 +16,7 @@ permalink: /hybquant/
 - Journée Quantique en Nouvelle-Aquitaine (4 juillet 2025) : [Informations](https://evenements.alpha-rlh.com/fr/evenement/journee-quantique-en-nouvelle-aquitaine-2/presentation)
 - Séminaires de recherche : [Informations](https://quantique.labri.fr/seminar/)
 - Formation professionnelle Houko : [Informations](https://www.houko-formation.com/) 
-- Réunion Bordeaux - Pays basque sur les algorithmes quantiques: [Informations](https://quantique.labri.fr/bayonne2025/)
+- Réunion Bordeaux - Pays basque sur les algorithmes quantiques : [Informations](https://quantique.labri.fr/bayonne2025/)
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Offres d'emplois</p>
 
