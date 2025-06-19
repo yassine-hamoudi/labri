@@ -1,3 +1,15 @@
+- name: Tomas Crosta
+  photo: crosta.jpg
+  type: "student"
+  info: PhD student
+  affiliation: Université de Bordeaux, LOMA
+  level: PhD
+  email: tomycrosta@gmail.com
+  supervisor: Adrian Tanasa, Matthieu Saubanère
+  start_date: 2024-11-01
+  end_date: 2025-05-31
+  number_fields: 0
+  
 - name: Felix Huber
   type: "faculty"
   level: Professeur junior
