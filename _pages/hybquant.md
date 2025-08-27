@@ -10,6 +10,12 @@ permalink: /hybquant/
 <img src="{{ site.url }}{{ site.baseurl }}/images/logo/hybquant.jpg" class="responsive" style="width: 240px">
 </div>
 
+La Maison du Quantique de Nouvelle-Aquitaine ("HybQuant") promeut les activités de recherche associant calcul quantique, calcul haute performance et applications industrielles. Elle propose l'accompagnement de thèses et de postdoctorats, le soutien à des projets industriels exploratoires, la mise en place de formations au calcul quantique et l'organisation de manifestations scientifiques.
+
+Elle s'appuie sur l'initiative régionale Naquidis Center ainsi que sur des partenaires académiques locaux issus du CNRS, Inria, de l'Université de Bordeaux et de l'Université de Limoges. Les domaines d'expertise mobilisés couvrent les algorithmes pour la physique et la chimie quantiques, les méthodes quantiques pour les problèmes d'optimisation, la cryptographie post-quantique, les codes correcteurs, ainsi que le calcul haute performance.
+
+Elle entretient des partenariats privilégiés avec des entreprises néo-aquitaines des secteurs pharmaceutique, du transport et de l'énergie. Elle participe également au développement d'initiatives transfrontalières avec les acteurs du Pays basque espagnol dans le domaine du calcul quantique.
+
 <p style="text-align:center; font-size:30px; font-weight:bold;">Événements soutenus</p>
 
 - Ecole d'été du CEMRACS (15 juillet - 22 août 2025) : [Informations](https://cemracs2025.math.cnrs.fr/en/)
@@ -26,7 +32,7 @@ permalink: /hybquant/
 
 - **Coordinateur du projet :** Yassine Hamoudi ([yassine.hamoudi@labri.fr](mailto:yassine.hamoudi@labri.fr))
 - **Coordinateur adjoint :** Adrian Tanasa ([adrian.tanasa@labri.fr](mailto:adrian.tanasa@labri.fr))
-- **Coordinatrice initiative régionale :** Audrey Durand ([audrey.durand@institutoptique.fr](mailto:audrey.durand@institutoptique.fr))
+- **Coordinatrice initiative régionale - Naquidis :** Audrey Durand ([audrey.durand@institutoptique.fr](mailto:audrey.durand@institutoptique.fr))
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Partenaires</p>
 
