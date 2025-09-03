@@ -13,7 +13,7 @@ permalink: /positions/
 
 ### Faculty positions
 
-**Tenure-Track Professorship:** The University of Bordeaux is expected to open a "Chaire de professeur junior" in Quantum Information in 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
+**Tenure-Track Professorship:** The University of Bordeaux is expected to open a "Chaire de professeur junior" in Quantum Information in late 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
 
 <details markdown=block>
   <summary>
@@ -29,7 +29,7 @@ permalink: /positions/
 
 <details markdown=block>
   <summary>
-    ▶︎ CNRS applications (Deadline: January 10, 2025)
+    ▶︎ CNRS applications (Deadline: Approx. January 2026)
   </summary>
   <blockquote>
   - The CNRS has several openings depending on the seniority of the applicants. Young researchers are most likely to apply for the position of CRCN (Chargé de Recherche de Classe Normale).
@@ -76,10 +76,10 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
 
 <details markdown=block>
   <summary>
-    ▶︎ Postdoc applications (Deadline: January 15, 2025)
+    ▶︎ Postdoc applications (Rolling deadline)
   </summary>
   <blockquote>
-  A postdoctoral position is available in the [Quantum Information and Computation group](https://quantique.labri.fr) at the CS department of the University of Bordeaux (France). Applications should be submitted by **January 15** for full consideration.
+  <!-- A postdoctoral position is available in the [Quantum Information and Computation group](https://quantique.labri.fr) at the CS department of the University of Bordeaux (France). Applications should be submitted by **January 15** for full consideration. -->
 
   We are seeking candidates with an interest in research on quantum information, quantum algorithms, and complexity theory. Specific topics they can expect to work on include:
   <ul>
@@ -89,7 +89,7 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
   </ul>
   Candidates should have training or experience in at least one of the following areas: quantum information and computation, algorithmic theory, or complexity theory.
 
-  The recruited candidate is expected to start in Fall 2025 (or earlier). The position is for a duration of 24 months, with a net income ranging between €2,100 and €2,500, depending on the candidate's experience. The position includes French social security coverage and employee benefits (health insurance, public transport expenses, paid leave, etc.). We welcome applicants from all backgrounds and promote a friendly, safe, and supportive team environment.
+  <!-- The recruited candidate is expected to start in Fall 2025 (or earlier). The position is for a duration of 24 months, with a net income ranging between €2,100 and €2,500, depending on the candidate's experience. The position includes French social security coverage and employee benefits (health insurance, public transport expenses, paid leave, etc.). We welcome applicants from all backgrounds and promote a friendly, safe, and supportive team environment. -->
 
   Interested applicants should contact [Yassine Hamoudi](yassine.hamoudi@labri.fr) with the following materials: a CV (including a list of publications), a brief cover letter or research statement, and the names and email addresses of one or two referees.
   </blockquote>
