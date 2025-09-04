@@ -13,7 +13,7 @@ permalink: /positions/
 
 ### Faculty positions
 
-**Tenure-Track Professorship:** The University of Bordeaux is expected to open a "Chaire de professeur junior" in Quantum Information in late 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
+**Tenure-Track Professorship:** The University of Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in late 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
 
 <details markdown=block>
   <summary>
