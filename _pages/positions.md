@@ -13,15 +13,16 @@ permalink: /positions/
 
 ### Faculty positions
 
-**Tenure-Track Professorship:** The University of Bordeaux is opening a "Chaire de professeur junior" in Quantum Information in late 2025. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
+**Tenure-Track Professorship:** The University of Bordeaux is opening a "Chaire de professeur junior" in Quantum Information. The position includes a dedicated research grant and a reduced teaching load. The selected candidate will be eligible for promotion to Full Professor after four years.
 
 <details markdown=block>
   <summary>
-    ▶︎ Tenure-Track applications (Deadline: October 7, 2025)
+    ▶︎ Tenure-Track applications (Deadline: October 9, 2025)
   </summary>
   <blockquote>
-  - [Recrutement enseignants-chercheurs, Chaire de professeur junior (CPJ)](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_CPJ.htm)
-  - More details to come
+  - [Application website (registration required)](https://odyssee.enseignementsup-recherche.gouv.fr/procedures/recrutement-ec/offres-poste/fiche-offre-poste/253208)
+  - [Application process](https://www.u-bordeaux.fr/universite/travailler-a-l-universite/personnels-enseignants-enseignants-chercheurs-et-chercheurs/enseignants-et-enseignants-chercheurs-contractuels/chaires-de-professeurs-juniors-1)
+  -  [Job profile (fiche de poste)]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-cpj.pdf)
   </blockquote>
 </details>
 
