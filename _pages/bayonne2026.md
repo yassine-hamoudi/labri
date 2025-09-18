@@ -6,7 +6,7 @@ sitemap: false
 permalink: /bayonne2026/
 ---
 
-The meeting aims to foster collaboration between the research communities of the Basque Country and Bordeaux on the topic of quantum algorithms. It will bring together specialists from both sides of the border, with diverse backgrounds in physics, chemistry, computer science, and mathematics.
+The meeting aims to foster collaboration between the research communities of the Basque Country and Bordeaux on the topic of quantum algorithms. It will bring together specialists from both sides of the border, with diverse backgrounds in physics, chemistry, computer science, and mathematics. The [first edition]({{ site.url }}{{ site.baseurl }}/bayonne2025) of the meeting was held in 2025.
 
 The meeting will feature short and long talks, as well as poster presentations.
 
@@ -14,8 +14,8 @@ Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saub
 
 {::nomarkdown}
 <div class="picture-container">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/bordeaux.jpg">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/sansebastian.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/bilbao.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picture/bordeaux2.jpg">
 </div>
 {:/nomarkdown}
 
@@ -25,22 +25,31 @@ The meeting will be held at [Hôtel Le Bayonne](https://www.hotel-le-bayonne.com
 
 The dinner will be held at [Bistrot Le Guernika](https://www.bistrotguernika.fr/) (850m from the meeting venue). Location on [Google Maps](https://maps.app.goo.gl/wvfz2rvb2TCN6ayo9).
 
-<p style="text-align:center; font-size:25px;">
+{% comment %}
+ <p style="text-align:center; font-size:25px;">
   <a href="https://evento.renater.fr/survey/invitation-to-the-basque-country-bordeaux-quantum-algorithms-meeting-april-910-2025-n8sqqjkm"
      target="_blank"
      style="color:#D50032; text-decoration: none;">
      Registration (closed)
   </a>
 </p>
+{% endcomment %}
+
+<p style="text-align:center; font-size:25px;">
+  <a
+     target="_blank"
+     style="color:#D50032; text-decoration: none;">
+     Registration (TBA)
+  </a>
+</p>
 
 Registration is required to participate in the event. If you are not affiliated with one of the sponsors below, please contact us before registering. Participation and accommodation are <b>free of charge</b>, including one night's stay at the hotel, breakfast on the 25th, lunch breaks on the 24th and 25th, and dinner on the 24th. Transportation costs are the responsibility of the participants.
 
+{% comment %}
 <p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
 
 All events (except dinner) will be held at Hôtel Le Bayonne.
 
-TBA
-<!--
 **Wednesday, 9 April**
 
 - **10:00 - 10:30**: Welcome Coffee  
@@ -77,14 +86,13 @@ TBA
   - 12:30 – 13:00 : Reza Dastbasteh, *Asymptotically good quantum codes supporting transversal T gate*
   - 13:00 – 13:20 : Gerard Valentí-Rojas, *Low-Overhead Robust Quantum Memories --- A Many-Body Physics Approach*
   - 13:20 – 13:30 : Concluding remark
-- **13:30 - 15:00**: Lunch Break -->
+- **13:30 - 15:00**: Lunch Break
 
 ---
 
 **Posters**
 
-TBA
-<!-- - Andoni Agirre, *Learning QAOA Landscapes: Parameter optimization via Iterative Search-Space Restricted Monte Carlo Tree Search*
+- Andoni Agirre, *Learning QAOA Landscapes: Parameter optimization via Iterative Search-Space Restricted Monte Carlo Tree Search*
 - Marta Gili Estava, *Distributed Architectures for Quantum Extreme Learning Machines*
 - Thomas Fredericksen, *Crossed graphene nanoribbons for electron quantum optics and spintronics*
 - Raul Guerrero, *Sample-based Quantum Diagonalization on small organic molecules*
@@ -93,7 +101,7 @@ TBA
 - Javier Oliva Del Moral, *Schwinger effect in spin qubits in quantum dots*
 - Alexandre Perrin, *Variational Quantum Subspace Construction*
 - Kelvin Salou-Smith
-- Olatz Sanz -->
+- Olatz Sanz
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Registered Participants</p>
 
@@ -103,8 +111,7 @@ TBA
 
 <div align="center">
 
-TBA
-<!-- | Andoni Agirre             | Josu Etxezarreta Martinez &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; | Alexandre Perrin          |
+| Andoni Agirre             | Josu Etxezarreta Martinez &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; | Alexandre Perrin          |
 | Javier Aizpurua           | Reza Dastbasteh             | Yann Pouillon             |
 | Bárbara Andrade           | Raúl Guerrero-Avilés       | Enrique Rico Ortega       |
 | Gaétan Eliott Bardy        | Marta Gili Esteva           | Kelvin Salou-Smith        |
@@ -121,6 +128,7 @@ TBA
 | Ruben Esteban             |                             |                           | -->
 
 </div>
+{% endcomment %}
 
 <br>
 <p style="text-align:center; font-size:30px; font-weight:bold;">Sponsors</p>
