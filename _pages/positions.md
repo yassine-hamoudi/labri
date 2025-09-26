@@ -22,7 +22,8 @@ permalink: /positions/
   <blockquote>
   - [Application website (registration required)](https://odyssee.enseignementsup-recherche.gouv.fr/procedures/recrutement-ec/offres-poste/fiche-offre-poste/253208)
   - [Application process](https://www.u-bordeaux.fr/universite/travailler-a-l-universite/personnels-enseignants-enseignants-chercheurs-et-chercheurs/enseignants-et-enseignants-chercheurs-contractuels/chaires-de-professeurs-juniors-1)
-  -  [Job profile (fiche de poste)]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-cpj.pdf)
+  - [Job profile (fiche de poste)]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-cpj.pdf)
+  - Important dates: October 9 (application deadline), October 21 (selection of candidates for interviews), November 14 (interviews).
   </blockquote>
 </details>
 
