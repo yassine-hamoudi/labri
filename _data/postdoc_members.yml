@@ -1,0 +1,35 @@
+- name: Vishvajeet N
+  photo: empty.png
+  type: "postdoc"
+  affiliation: Université de Bordeaux
+  funding: PEPR EPIQ
+  website: https://nvishvajeet.github.io/
+  email: nvishvajeet@gmail.com
+  supervisor: Yassine Hamoudi
+  start_date: 2025-10-15
+  end_date: 2027-08-31
+  number_fields: 0
+
+# - name: Joseph Cunningham
+#   photo: empty.png
+#   type: "postdoc"
+#   affiliation: Université de Bordeaux
+#   website: 
+#   funding: Maison du quantique
+#   email: jat.cunningham@gmail.com
+#   supervisor: Yassine Hamoudi
+#   start_date: 2025-11-01
+#   end_date: 2026-10-31
+#   number_fields: 0
+
+# - name: Barbara Andrade
+#   photo: empty.png
+#   type: "postdoc"
+#   affiliation: Université de Bordeaux
+#   website: https://www.researchgate.net/profile/Barbara-Andrade-18
+#   funding: Maison du quantique
+#   email: andradesantosb@gmail.com
+#   supervisor: Yassine Hamoudi
+#   start_date: 2026-01-01
+#   end_date: 2026-06-30
+#   number_fields: 0
