@@ -17,9 +17,13 @@ permalink: /members/
 {% assign typeMember = "faculty" %}
 {% include print_faculty.md %}
 
+## Postdocs
+{% assign typeMember = 'postdoc' %}
+{% include print_postdoc.md %}
+
 ## Students
 {% assign typeMember = 'student' %}
-{% include print_students.md %}
+{% include print_student.md %}
 
 ## Local Collaborators
 <div class="row">
