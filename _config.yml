@@ -17,7 +17,8 @@ include:
 
 plugins:
   - jekyll-ical-tag
-
+  - jekyll-redirect-from
+  
 sass:
   sass_dir: _sass
 
