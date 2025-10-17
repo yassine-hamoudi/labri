@@ -58,7 +58,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
   <a href="https://www.unilim.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/limoges.png">
   </a>
-
+  <a href="https://www.naquidis.com/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/naquidis.png">
   </a>
   <a href="https://www.cnrs.fr/">
@@ -70,8 +70,6 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
   <a href="https://www.xlim.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/xlim.png">
   </a>
-
-
   <a href="https://www.labri.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/labri2.png">
   </a>
@@ -87,7 +85,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
   </a>
   <a href="https://www.institutoptique.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/iogs.svg">
-  <a href="https://www.naquidis.com/">
+  </a>
 </div>
 {:/nomarkdown}
 

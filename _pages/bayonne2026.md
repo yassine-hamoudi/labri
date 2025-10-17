@@ -180,6 +180,10 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   <a href="https://www.naquidis.com/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/naquidis.png">
   </a>
+  <a></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/hybquant">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/hybquant.jpg">
+  </a>
 </div>
 {:/nomarkdown}
 
