@@ -35,7 +35,7 @@ The dinner will be held at [Bistrot Le Guernika](https://www.bistrotguernika.fr/
 
 Registration is required to participate in the event. If you are not affiliated with one of the sponsors below, please contact us before registering. Participation and accommodation are <b>free of charge</b>, including one night's stay at the hotel, breakfast on the 10th, lunch breaks on the 9th and 10th, and dinner on the 9th. Transportation costs are the responsibility of the participants.
 
-<p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
+<p style="text-align:center; font-size:30px; font-weight:bold;">Program</p>
 
 All events (except dinner) will be held at Hôtel Le Bayonne.
 
