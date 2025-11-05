@@ -10,17 +10,17 @@
   end_date: 2027-08-31
   number_fields: 0
 
-# - name: Joseph Cunningham
-#   photo: empty.png
-#   type: "postdoc"
-#   affiliation: Université de Bordeaux
-#   website: 
-#   funding: Maison du quantique
-#   email: jat.cunningham@gmail.com
-#   supervisor: Yassine Hamoudi
-#   start_date: 2025-11-01
-#   end_date: 2026-10-31
-#   number_fields: 0
+- name: Joseph Cunningham
+  photo: empty.png
+  type: "postdoc"
+  affiliation: Université de Bordeaux
+  website: https://www.labri.fr/profil/Cunningham_ID1762246795
+  funding: Maison du quantique
+  email: jat.cunningham@gmail.com
+  supervisor: Yassine Hamoudi
+  start_date: 2025-11-01
+  end_date: 2026-10-31
+  number_fields: 0
 
 # - name: Barbara Andrade
 #   photo: empty.png
