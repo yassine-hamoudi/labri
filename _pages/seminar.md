@@ -10,7 +10,8 @@ permalink: /seminar/
 [![zoom]({{ site.url }}{{ site.baseurl }}/images/logo/zoom.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Watch on Zoom**](https://u-bordeaux-fr.zoom.us/j/83456804700?pwd=pEubGbpEOsgGnB3azdmLKMdAGfmLCT.1)
 
 #### The seminar takes place on Tuesdays from 10:45 to 11:45 CET. It is located at [LaBRI]({% link _pages/contact.md %}), either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are usually in english and broadcast on [Zoom](https://u-bordeaux-fr.zoom.us/j/83456804700?pwd=pEubGbpEOsgGnB3azdmLKMdAGfmLCT.1).
-<br>
+
+#### We acknowledge the support of the [Maison du Quantique de Nouvelle-Aquitaine]({% link _pages/hybquant.md %}) in funding and promoting the activities of the seminar.
 
 {% capture nowDay %}{{'now' | date:  "%Y%m%d"}}{% endcapture %}
 
