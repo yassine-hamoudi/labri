@@ -22,7 +22,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 - Journées Informatique Quantique (15 - 16 janvier 2026) : [Informations]({% link _pages/jiq2026.md %})
 - Ecole d'été du CEMRACS (15 juillet - 22 août 2025) : [Informations](https://cemracs2025.math.cnrs.fr/en/)
 - Journée Quantique en Nouvelle-Aquitaine (4 juillet 2025) : [Informations](https://evenements.alpha-rlh.com/fr/evenement/journee-quantique-en-nouvelle-aquitaine-2/presentation)
-- Séminaires de recherche : [Informations]({% link _pages/seminar.md %})
+- Séminaires de recherche sur l'informatique quantique au LaBRI : [Informations]({% link _pages/seminar.md %})
 - Formation professionnelle Houko : [Informations](https://www.houko-formation.com/) 
 - Réunion Bordeaux - Pays basque sur les algorithmes quantiques (9 - 10 avril 2025) : [Informations]({% link _pages/bayonne2025.md %})
 

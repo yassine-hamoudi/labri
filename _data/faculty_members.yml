@@ -10,6 +10,17 @@
   field2: Monte Carlo methods
   field3: Complexity theory
 
+- name: Stéphane Dartois
+  photo: empty.png
+  info: Professeur junior <br> Starting March 2026
+  website: https://stephanedartois.com/
+  email: stephane.dartois@polytechnique.edu
+  publications: https://arxiv.org/a/0000-0003-1651-3727.html
+  type: "faculty"
+  number_fields: 0 # <-------------
+  field1: Error-correction and mitigation
+  field2: Entanglement measures
+
 # - name: Felix Huber
 #   photo: huber.jpg
 #   info: Professeur junior
@@ -31,19 +42,19 @@
 #   type: "faculty"
 #   number_fields: 0
 
-- name: Cyril Gavoille
-  photo: gavoille.jpeg
-  info: Professeur
-  website: https://dept-info.labri.fr/~gavoille/
-  email: gavoille@labri.fr
-  type: "faculty"
-  number_fields: 0
-
 - name: Adrian Tanasa
   photo: tanasa.jpg
   info: Professeur
   website: https://www.labri.fr/perso/atanasa/?lang=uk
   email: adrian.tanasa@labri.fr
+  type: "faculty"
+  number_fields: 0
+  
+- name: Cyril Gavoille
+  photo: gavoille.jpeg
+  info: Professeur
+  website: https://dept-info.labri.fr/~gavoille/
+  email: gavoille@labri.fr
   type: "faculty"
   number_fields: 0
 
