@@ -80,7 +80,7 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
 
 <details markdown=block>
   <summary>
-    ▶︎ Postdoc applications (Rolling deadline)
+    ▶︎ Postdoc applications (Deadline: January 23, 2026)
   </summary>
   <blockquote>
   <!-- A postdoctoral position is available in the [Quantum Information and Computation group](https://quantique.labri.fr) at the CS department of the University of Bordeaux (France). Applications should be submitted by **January 15** for full consideration. -->
@@ -88,7 +88,8 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
   We are seeking candidates with an interest in research on quantum information, quantum algorithms, and complexity theory. Specific topics they can expect to work on include:
   <ul>
     <li> Quantum Algorithms and Computational Speedups (optimization and Monte Carlo methods, combinatorial algorithms, distributed algorithms, quantum walks, quantum simulation)</li>
-    <li> Information and Complexity Theory (query complexity, limitations of near-term quantum computers, simulation of quantum circuits, quantum graphs)</li>
+    <li> Information and Complexity Theory (query complexity, entanglement measures, limitations of near-term quantum computers, simulation of quantum circuits, quantum graphs)</li>
+    <li> Error-Correction and Mitigation (properties of QECC, theoretically and practically good quantum codes, error mitigation strategies)</li>
     <li> Quantum Computing and Fundamental Physics (simulation of fermionic systems, quantum field theory, holographic complexity)</li>
   </ul>
   Candidates should have training or experience in at least one of the following areas: quantum information and computation, algorithmic theory, or complexity theory.

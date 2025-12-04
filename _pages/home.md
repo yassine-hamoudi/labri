@@ -26,7 +26,7 @@ permalink: /
 
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3 clearfix">
 <div style="text-align:center"><h4>Quantum Algorithms and Computational Speedups</h4></div>
  <ul>
     <li>Optimization and Monte Carlo methods</li>
@@ -36,17 +36,26 @@ permalink: /
  </ul>
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3 clearfix">
 <div style="text-align:center"><h4>Quantum Information and Complexity Theory</h4></div>
  <ul>
     <li>Classical and quantum query complexity</li>
-    <li>Limitations of near-term quantum computers</li>
+    <li>Entanglement measures</li>
     <li>Simulation of quantum circuits</li>
     <li>Quantum graphs</li>
  </ul>
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3 clearfix">
+<div style="text-align:center"><h4>Error-Correction and Mitigation</h4></div>
+ <ul>
+    <li>Properties of QECC</li>
+    <li>Theoretically and practically good quantum codes</li>
+    <li>Error mitigation strategies</li>
+ </ul>
+</div>
+
+<div class="col-sm-3 clearfix">
 <div style="text-align:center"><h4>Quantum Computing and Fundamental Physics</h4></div>
  <ul>
     <li>Quantum simulation of strongly interacting fermionic systems</li>
