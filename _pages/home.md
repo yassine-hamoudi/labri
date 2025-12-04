@@ -61,6 +61,7 @@ permalink: /
     <li>Quantum simulation of strongly interacting fermionic systems</li>
     <li>Quantum computing and quantum field theory</li>
     <li>Holographic complexity</li>
+    <li>Krylov complexity</li>
  </ul>
 </div>
 
