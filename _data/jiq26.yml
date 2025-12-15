@@ -1,0 +1,149 @@
+- id: 1
+  name: Matthieu Saubanère
+  affiliation: CNRS & LOMA
+  title: Quantum Krylov algorithms for the many electrons problem
+  abstract:
+
+- id: 2
+  name: Sacha Cerf
+  affiliation: ENS
+  title: Introducing differential geometric tools to study quantum correlations
+  abstract:
+
+- id: 3
+  name: Shashaank Khanna
+  affiliation: LIS
+  title: Closing the problem of which causal structures of up to six total nodes have a classical–quantum gap
+  abstract: "The discovery of Bell that there exist quantum correlations that cannot be reproduced classically is one of the most important in the foundations of quantum mechanics, as well as having practical implications. Bell's result was originally proven in a simple bipartite causal structure, but analogous results have also been shown in further causal structures. Here we study the only causal structure with six or fewer nodes in which the question of whether or not there exist quantum correlations that cannot be achieved classically was open. In this causal structure we show that such quantum correlations exist using a method that involves imposing additional restrictions on the correlations. This hence completes the picture of which causal structures of up to six nodes support non-classical quantum correlations. We also provide further illustrations of our method using other causal structures."
+
+- id: 4
+  name: Idris Delsol
+  affiliation: ENS & Inria Lyon
+  title: Computational aspects of the trace norm contraction coefficient
+  abstract: "We show that approximating the trace norm contraction coefficient of a quantum channel within a constant factor is NP-hard. Equivalently, this shows that determining the optimal success probability for encoding a bit in a quantum system undergoing noise is NP-hard. This contrasts with the classical analogue of this problem that can clearly be solved efficiently. We also establish the NP-hardness of deciding if the contraction coefficient is equal to 1, i.e., the channel can perfectly preserve a bit.  As a consequence, deciding if a non-commutative graph has an independence number of at least 2 is NP-hard. In addition, we establish a converging hierarchy of semidefinite programming upper bounds on the contraction coefficient."
+
+- id: 5
+  name: Rémi Di Guardia
+  affiliation: IRIF
+  title: Semantics and types for quantum Bayesian networks
+  abstract:
+
+- id: 6
+  name: Thomas Perez
+  affiliation: Inria Saclay
+  title: Categorical aspects of fermionic systems and application to fermionic computation rewrites
+  abstract:
+
+- id: 7
+  name: Thomas Vinet
+  affiliation: Inria Nancy
+  title: Resource-aware hybrid quantum programming with general recursion and quantum control
+  abstract:
+
+- id: 8
+  name: Kathleen Barsse
+  affiliation: LORIA
+  title: A quantum programming language for coherent control
+  abstract:
+
+- id: 9
+  name: Mathias Boucher
+  affiliation: Inria Rennes
+  title: Almost improving quantum lattice sieving
+  abstract:
+
+- id: 10
+  name: Aurel Pichollet-Mugnier
+  affiliation: Inria Rennes
+  title: Quantum truncated differential attacks using convolutions
+  abstract:
+
+- id: 11
+  name: Agathe Blanvillain
+  affiliation: Inria Paris
+  title: "The quantum decoding problem: tight achievability bounds and application to Regev's reduction"
+  abstract:
+
+- id: 12
+  name: Bruno Costa Alves Freire
+  affiliation: Inria Paris
+  title: Quantum Maxwell decoder for CSS codes
+  abstract: "Quantum error correction is essential for reliable quantum computation. A simplified noise model is the erasure channel, where qubits are randomly erased and the decoder knows the erased positions. Despite its simplicity, it offers valuable insight and is relevant for platforms that can convert native errors into erasures. Maximum-likelihood erasure decoding via Gaussian elimination is optimal but has cubic time complexity, motivating fast, iterative decoders such as belief propagation and, for erasures, the peeling decoder. In qLDPC codes, peeling struggles due to small stopping sets caused by low-weight stabilizers. Variants like pruning, guided decimation, and cluster peeling address this issue. Here we adapt the Maxwell decoder to CSS codes by adding controlled guessing to peeling and pruned peeling. The resulting decoder reaches maximum-likelihood performance with complexity no worse than Gaussian elimination, and can be restricted to linear time at some cost in decoding quality."
+
+- id: 13
+  name: Marc Baboulin
+  affiliation: Inria & Université Paris-Saclay
+  title: Toward quantum-accelerated high-performance computing
+  abstract: Quantum computing (QC) aims at addressing computations that are currently intractable by conventional supercomputers. However, to be attractive for sustainable research and industrial investments, QC must not be limited to specific computations but also be seen as potential accelerator for general purpose simulations in high-performance scientific computing. In this talk we explain how core tasks in scientific computing can be addressed by quantum algorithms, possibly combined with classical ones. In particular we describe recent advances in algorithms for decomposing and handling matrices (generic, or coming from PDEs) in quantum computers. We also present promising methods for the solution of linear systems of equations with improvement in terms of accuracy and cost for the solution.
+
+- id: 14
+  name: Silvina Caino Lores
+  affiliation: Inria Rennes
+  title: TBA
+  abstract:
+
+- id: 15
+  name: Océane Koska
+  affiliation: Eviden & Université Paris-Saclay
+  title: From NISQ to hybrid computing
+  abstract: "Most of NISQ (Noisy Intermediate-Scale Quantum) programming frameworks have been developed to minimise noise and enhance execution on QPUs (Quantum Processing Units). However, it should be noted that this type of programming does not allow for hybrid computing as known from HPC. Nevertheless, the evolution of QPUs towards the integration of error correction promises to revolutionize the use of quantum devices. This technological advance will overcome the current limitations of NISQ systems, paving the way for a new era of quantum programming. In this context, quantum programming is set to evolve, to take advantage of the new capabilities offered by QPUs. To explore these changes, we will use the Q-Pragma quantum programming framework as a practical example."
+
+- id: 16
+  name: Rafael Ferreira da Silva
+  affiliation: Oak Ridge National Laboratory
+  title: Enabling quantum-HPC convergence for future scientific workflows
+  abstract: "As quantum computing capabilities continue to mature, integrating them effectively into HPC ecosystems will require more than hardware progress alone. This talk explores how workflow-driven approaches can accelerate meaningful Quantum-HPC convergence by enabling hybrid execution models, flexible orchestration, shared abstractions, and scalable software stacks. Rather than centering on quantum hardware details, the discussion focuses on workflow patterns, resource management strategies, interoperability challenges, and emerging software frameworks that support hybrid computation as a first-class model. The goal is to highlight how workflow systems can bridge paradigms, support user adoption, and pave the way for future scientific discovery powered by heterogeneous quantum and classical resources."
+
+- id: 17
+  name: Elise Frassard
+  affiliation: Thalès & Ecole Polytechnique
+  title: Adaptive mesh refinement quantum algorithm for Maxwell's equations
+  abstract: "Quantum computers hold promise for solving partial differential equations discretized into linear systems using for example the finite element method. However, this method is usually incorporated into a high-level numerical scheme which allows the adaptive refinement of the mesh where it most improves the accuracy of the solution. In this work, we propose to extend adaptive mesh refinement to the quantum formalism. We address the solution of time-harmonic Maxwell’s equations. An important step in the procedure is the computation of error estimators, which guide the refinement. By using block-encoding, we propose a way to compute these estimators with quantum circuits."
+
+- id: 18
+  name: Jules Duhamel
+  affiliation: EPFL & SNCF
+  title: Quantum algorithms for train crew scheduling optimization
+  abstract: "Train crew scheduling is a large-scale NP-hard combinatorial optimization problem subject to strict operational and human constraints. The objective is to reduce the use of taxis and hotels by the crews and to minimize unnecessary waiting times between successive jobs. At SNCF, this problem is still mostly solved manually, leading to suboptimal solutions. This work investigates the potential of quantum computing to obtain near-optimal schedules. We study a QUBO-based variational approach and an alternative method that restricts the quantum search space to feasible schedules only, combined with a Grover-based minimum search. Resource scaling and theoretical complexity are analyzed, highlighting current limitations and long-term potential."
+
+- id: 19
+  name: Bo Yang
+  affiliation: LIP6
+  title: Verifiable blind observable estimation
+  abstract: "Cryptographic verification protocols enable composably secure delegated quantum computation for tasks that no longer admit efficient classical validation and are executed on untrusted remote quantum servers. However, efficient protocols with low space overhead are limited to tasks whose correctness can be amplified by majority voting, and no cryptographic resource effectively captures the security of observable estimation tasks that appear in various near-term applications. We introduce a protocol that implements a newly defined cryptographic resource that characterises secure delegated observable estimation, returning an estimate within ε>0 of the true expectation value or otherwise aborts. The required cost consists solely of test rounds that are no more complex than the target computation and the security error is negligible in the total rounds. These guarantees establish the only known path to efficiently verifying pre-fault-tolerant applications driving potential quantum advantage."
+
+- id: 20
+  name: Pierre Botteron
+  affiliation: ENS & Inria Lyon
+  title: "Quantum unclonable cryptography: does the unclonable bit exist?"
+  abstract:
+
+- id: 21
+  name: Denis Rochette
+  affiliation: Inria Saclay
+  title: Optimal untelegraphable encryption and implications for uncloneable encryption
+  abstract: "We study untelegraphable encryption (UTE), a quantum encryption primitive that refines uncloneable encryption (UE) by restricting adversaries to output only classical information. We give an unconditionally secure construction achieving untelegraphable-indistinguishability, along with natural multi-ciphertext and bounded collusion-resistant extensions, without additional assumptions. Assuming pseudo-random unitaries, we further obtain an unbounded variant with everlasting security. We then leverage UTE techniques to advance UE by deriving new lower bounds that also apply to UE and by proving an asymptotic equivalence between UTE and UE as the number of UE adversaries grows."
+
+- id: 22
+  name: Joseph Cunningham
+  affiliation: LaBRI
+  title: Poisson-distributed discrete adiabatic dynamics
+  abstract: "We propose a general framework for analysing the performance of quantum algorithms that consist of performing discrete operations controlled by a Poisson process. This extends our previous work [TQC 2024]. In particular, we are interested in emulating certain features of adiabatic quantum computation without having to simulate time-dependent Hamiltonian evolution, since this typically causes a significant discretisation cost. The resulting error bounds share many key features with the error bounds in adiabatic quantum computation. And many results are directly applicable. As applications, we show how our framework yields six distinct approaches to both the Grover search problem and the quantum linear systems problem that all achieve optimal asymptotic complexity. We can also apply our framework to Trotterisation. In this way we are able to show that discretisation in the context of adiabatic quantum computing is less costly than the general bounds on the Trotterisation error would imply. In this way we are able to reproduce key results from [arXiv: 2509.00171]."
+
+- id: 23
+  name: Rachel Roux
+  affiliation: MBDA
+  title: Investigating the use of the discrete quantum walk to solve combinatorial optimization problems
+  abstract:
+
+- id: 24
+  name: Xiaoyu Sun
+  affiliation: LIS
+  title: On quantum perceptron learning via quantum search
+  abstract:
+
+- id: 25
+  name: Benjamin Mathieu-Bloise
+  affiliation: IRIF
+  title: Complexity of computations on simplicial complexes in quantum logspace
+  abstract:
