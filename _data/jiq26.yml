@@ -62,7 +62,7 @@
   name: Agathe Blanvillain
   affiliation: Inria Paris
   title: "The quantum decoding problem: tight achievability bounds and application to Regev's reduction"
-  abstract:
+  abstract: "We study the quantum decoding problem (QDP), which consists in recovering a codeword from a superposition of its noisy versions. By measuring the superposition, we get back to classical decoding. Introduced by Chen, Liu and Zhandry to show a quantum advantage for the Short Integer Solution problem in the l∞ norm, the QDP was recently shown by Chailloux and Tillich to be solvable in polynomial time for Bernoulli noise in certain regimes of parameters for which classical decoding remains exponential. They also give an information theoretic limit on the achievable code rate, exceeding the Shannon limit. We generalize this result to all memoryless noise models and extend it to the rank metric, corresponding to non memoryless noise. We analyze the Pretty Good Measurement to derive an information theoretic limit for QDP. Combined with Regev’s reduction, this yields a quantum algorithm sampling dual codewords according to the dual noise distribution. At the information theoretic limit, we get the most likely nonzero codeword of the dual code, which is not achievable using classical decoding in Regev’s reduction."
 
 - id: 12
   name: Bruno Costa Alves Freire
@@ -74,7 +74,7 @@
   name: Marc Baboulin
   affiliation: Inria & Université Paris-Saclay
   title: Toward quantum-accelerated high-performance computing
-  abstract: Quantum computing (QC) aims at addressing computations that are currently intractable by conventional supercomputers. However, to be attractive for sustainable research and industrial investments, QC must not be limited to specific computations but also be seen as potential accelerator for general purpose simulations in high-performance scientific computing. In this talk we explain how core tasks in scientific computing can be addressed by quantum algorithms, possibly combined with classical ones. In particular we describe recent advances in algorithms for decomposing and handling matrices (generic, or coming from PDEs) in quantum computers. We also present promising methods for the solution of linear systems of equations with improvement in terms of accuracy and cost for the solution.
+  abstract: "Quantum computing (QC) aims at addressing computations that are currently intractable by conventional supercomputers. However, to be attractive for sustainable research and industrial investments, QC must not be limited to specific computations but also be seen as potential accelerator for general purpose simulations in high-performance scientific computing. In this talk we explain how core tasks in scientific computing can be addressed by quantum algorithms, possibly combined with classical ones. In particular we describe recent advances in algorithms for decomposing and handling matrices (generic, or coming from PDEs) in quantum computers. We also present promising methods for the solution of linear systems of equations with improvement in terms of accuracy and cost for the solution."
 
 - id: 14
   name: Silvina Caino Lores
@@ -95,7 +95,7 @@
   abstract: "As quantum computing capabilities continue to mature, integrating them effectively into HPC ecosystems will require more than hardware progress alone. This talk explores how workflow-driven approaches can accelerate meaningful Quantum-HPC convergence by enabling hybrid execution models, flexible orchestration, shared abstractions, and scalable software stacks. Rather than centering on quantum hardware details, the discussion focuses on workflow patterns, resource management strategies, interoperability challenges, and emerging software frameworks that support hybrid computation as a first-class model. The goal is to highlight how workflow systems can bridge paradigms, support user adoption, and pave the way for future scientific discovery powered by heterogeneous quantum and classical resources."
 
 - id: 17
-  name: Elise Frassard
+  name: Elise Fressart
   affiliation: Thalès & Ecole Polytechnique
   title: Adaptive mesh refinement quantum algorithm for Maxwell's equations
   abstract: "Quantum computers hold promise for solving partial differential equations discretized into linear systems using for example the finite element method. However, this method is usually incorporated into a high-level numerical scheme which allows the adaptive refinement of the mesh where it most improves the accuracy of the solution. In this work, we propose to extend adaptive mesh refinement to the quantum formalism. We address the solution of time-harmonic Maxwell’s equations. An important step in the procedure is the computation of error estimators, which guide the refinement. By using block-encoding, we propose a way to compute these estimators with quantum circuits."
@@ -116,7 +116,7 @@
   name: Pierre Botteron
   affiliation: ENS & Inria Lyon
   title: "Quantum unclonable cryptography: does the unclonable bit exist?"
-  abstract:
+  abstract: "Unclonable encryption is a cryptographic primitive that encrypts a classical message into a quantum ciphertext, such that two quantum adversaries are limited in their capacity of being able to simultaneously decrypt, given the key and quantum side-information produced from the ciphertext. Since its initial proposal and scheme in the random oracle model by Broadbent and Lord [TQC 2020], unclonable encryption has developed into an important primitive at the foundation of quantum unclonability for cryptographic primitives. Despite sustained efforts, however, the question of unconditional unclonable encryption (and in particular of the simplest case, called an unclonable bit) has remained elusive. Here, we propose a candidate for the unconditional unclonable bit problem, and provide strong evidence that the adversary's success probability in the related security game converges quadratically as 1/2+1/(2√K), where K represents the number of keys and 1/2 is trivially achievable. We prove this bound's validity for K ranging from 2 to 7 and demonstrate the validity up to K=17 using computations based on the NPA hierarchy. We furthermore provide compelling heuristic evidence towards the general case. In addition, we prove an asymptotic upper bound of 5/8 and give a numerical upper bound of ∼0.5980, which to our knowledge is the best-known value in the unconditional model. This is a joint work with Anne Broadbent, Eric Culf, Ion Nechita, Clément Pellegrini, and Denis Rochette. [Reference: https://arxiv.org/abs/2410.23064]"
 
 - id: 21
   name: Denis Rochette
@@ -134,7 +134,7 @@
   name: Rachel Roux
   affiliation: MBDA
   title: Investigating the use of the discrete quantum walk to solve combinatorial optimization problems
-  abstract:
+  abstract: "Our work targets the optimization problems usually encountered by MBDA when designing missile systems : multi-objective optimal path and optimal assignment. These problems usually become NP-hard as soon as they integrate several constraints. Our investigations led us to quantum walk algorithms which can take advantage of graph-structured problems. One of the challenges is to account for the constraints that make one solution feasible or not, i.e., to reduce the Hilbert Space to only solutions that satisfy these constraints. We thus developed a graph who’s each edge represents a valid solution and two solutions are connected thanks to only their local differences. The next challenge is to find a quantum operator which will lead to the desired stationary distribution. We performed a few classical tests to ensure the validity of this approach and currently study whether this approach can scale on a Quantum Computer."
 
 - id: 24
   name: Xiaoyu Sun
@@ -146,4 +146,4 @@
   name: Benjamin Mathieu-Bloise
   affiliation: IRIF
   title: Complexity of computations on simplicial complexes in quantum logspace
-  abstract:
+  abstract: "Quantum computing seems to have a significant advantage when it comes to topology-related problems. Although the most usual topology problems in computer science are proven to be very hard, the LGZ algorithm seems to achieve an exponential speed-up over classical algorithms on an extensive amount of hard instances of classical computing of Betti numbers. Conversely, it was recently shown that solving a linear system can be reduced to solving a linear system in the Laplacian of a simplicial complex. In fact, we show how this reduction is achievable in classical log-space. Since it is known that solving a dense well-conditioned linear system is complete for quantum log-space, the above result this, in fact, implies completeness for quantum log-space of solving well-conditioned Laplacian systems. We discuss it, as well as other homology related problems, bringing us to a landscape of space-restricted classes of complexity."
