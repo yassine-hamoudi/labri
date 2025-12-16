@@ -140,7 +140,7 @@
   name: Xiaoyu Sun
   affiliation: LIS
   title: On quantum perceptron learning via quantum search
-  abstract:
+  abstract: "With the growing interest in quantum machine learning, the perceptron, a fundamental building block in traditional machine learning, has emerged as a valuable model for exploring quantum advantages. In this work, we make two principal contributions. First, we revisit the quantum version space perceptron algorithm proposed by Kapoor et al. (2016), identifying and correcting a flawed complexity assumption. We prove that the complexity of the algorithm is dimension-dependent, which has significant implications for the feasibility of the sampling-based quantum perceptron algorithm in high-dimensional regimes. Second, we propose and analyse two quantum-enhanced cutting-plane algorithms for perceptron learning. Specifically, we leverage established quantum tools, such as Grover’s search and quantum walk search, in these algorithms. We provide detailed algorithmic constructions, complexity analysis, and comparison to their classical counterparts. Our results demonstrate how quantum resources can yield provable improvements in query complexity and arithmetic operations, providing constructive insights into the statistical efficiency of different perceptron models and offering new perspectives on quantum perceptron learning."
 
 - id: 25
   name: Benjamin Mathieu-Bloise
