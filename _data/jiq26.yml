@@ -8,7 +8,7 @@
   name: Sacha Cerf
   affiliation: ENS
   title: Introducing differential geometric tools to study quantum correlations
-  abstract:
+  abstract: "The set of quantum correlations, often denoted Q, is the collection of all probability distributions on measurement outcomes achievable by space-like separated parties sharing a quantum state. It is well established that this set is larger than what can be explained by classical physics. In his seminal work, Tsirelson initiated the systematic study of the set of quantum correlations as a mathematical construct, which has so far mainly been conducted using algebraic and convex geometry techniques. In this work, we explore a more analytical approach to Q. We endow the set of state–measurement combinations with its canonical homogeneous Riemannian manifold structure, allowing us to consider infinitesimal perturbations of quantum strategies and the induced response on the associated correlation. Using these tools in the n2d scenario (n players, two measurements with d outcomes), we uncover a structural result: a quantum correlation point that achieves the maximal violation of some Bell inequality cannot arise from pure qu-d-its with projective measurements, provided it lies sufficiently close to a local deterministic point. More precisely, if a correlation point attains a strictly maximal classical value of a Bell functional ^g, then it is a local optimum for ^g in the set of correlation points realizable by pure qu-d-it states and projective measurements. In the n22 setting, this implies, by Masanes’ theorem, that Q has no extremal point in a neighborhood of local deterministic points, i.e. the faces of Q surrounding these points are flat. Our result also suggests intrinsic limitations on gradient-based search for Bell inequality violations. We conjecture that the analysis generalizes to pure qu-D-its in the n2d scenario with D > d, which would imply that certain maximal violations cannot be obtained without POVMs."
 
 - id: 3
   name: Shashaank Khanna
@@ -26,37 +26,37 @@
   name: Rémi Di Guardia
   affiliation: IRIF
   title: Semantics and types for quantum Bayesian networks
-  abstract:
+  abstract: "A general task of quantum theory is to predict the probabilities of measurement outcomes for a given system. In this sense, it can be framed as a problem of probabilistic inference over models involving both classical and quantum data. In the classical setting, Pearl's Bayesian networks are a prominent graphical model to describe probability distributions in a compact way. They capture classical causality and enable efficient inference algorithms. The generalization of Bayesian networks to include quantum causes is an active line of research. We revisit some works in this line, specifically [Wood and Spekkens 2012, Leifer and Spekkens 2013, Henson Lal Pusey 2014], by bringing methods and concepts from proof-theory and the semantics of programming languages, which allows for typing and compositional reasoning. We propose a model which neatly encompasses both classical and quantum causal scenarios, while enabling the graphical methods typical of Bayesian networks. This allows in particular to study conditional independence (no-signaling) between random variables in a probability distribution, regardless of the fact that some of the causes are quantum. Our semantics adapts the one of [Selinger 2004] in order to obtain the following feature: when all causes are classical, the mathematical structure is the standard factors-based semantics of Bayesian networks, whereas in the fully quantum case it yields standard tensor-networks. Our graphical syntax, that is based on Linear Logic, is typed which allows for the composition of systems to be well-behaved."
 
 - id: 6
   name: Thomas Perez
   affiliation: Inria Saclay
   title: Categorical aspects of fermionic systems and application to fermionic computation rewrites
-  abstract:
+  abstract: "Fermionic systems pose a distinctive challenge from the perspective of compositionality. They are traditionally described using non-compositional frameworks, most notably operator algebras, where the global structure of the system must be fixed in advance, such as the total number of Fermionic modes. In this setting, operators are expressed as polynomials in Fermionic creation and annihilation operators, and their non-commutativity obstructs standard compositional approaches. By contrast, Categorical Quantum Mechanics relies on symmetric monoidal categories, which provide a natural compositional semantics for distinguishable or Bosonic systems. In this work, we investigate which axioms of symmetric monoidal categories must be relaxed or modified to capture Fermionic behaviour. Building on the Bravyi–Kitaev's early Fermionic computational model, and the Fermionic ZW-calculus, we introduce complete equational theories for fragments relevant to Fermionic computation."
 
 - id: 7
   name: Thomas Vinet
   affiliation: Inria Nancy
   title: Resource-aware hybrid quantum programming with general recursion and quantum control
-  abstract:
+  abstract: "This paper introduces the hybrid quantum language with general recursion Hyrql}, driven towards resource-analysis. By design, Hyrql does not require the specification of an initial set of quantum gates and, hence, is well amenable towards a generic cost analysis. Indeed, languages using different sets of quantum gates lead to representations of quantum circuits whose complexity varies. Towards resource-analysis, a semantics-preserving compilation algorithm to simply-typed term rewrite systems is described; allowing a generic reuse of all known techniques for analyzing the complexity of term rewrite systems. We prove the versatility of this approach through many examples. An online version may be found here: https://arxiv.org/abs/2510.20452"
 
 - id: 8
   name: Kathleen Barsse
   affiliation: LORIA
   title: A quantum programming language for coherent control
-  abstract:
+  abstract: "We introduce a programming language that allows for the coherent control of quantum operations beyond the unitary case. The problem of defining a quantum conditional in the presence of recursion or iteration has long been known to be a major difficulty. We resolve this problem by defining an operational semantics based on appropriate Kraus decompositions and a denotational semantics based on vacuum extensions. We show that the language is universal for vacuum extensions and that the two semantics are adequate. Moreover, we define a notion of observational equivalence: two programs are equivalent if their probability of termination is the same in any context. The denotational semantics is shown to be fully abstract for observational equivalence."
 
 - id: 9
   name: Mathias Boucher
   affiliation: Inria Rennes
   title: Almost improving quantum lattice sieving
-  abstract:
+  abstract: "The asymptotically fastest known algorithms for the Shortest Vector Problem (SVP) rely on lattice sieving combined with quantum random walks to detect vector collisions. The current best quantum time complexity, due to Bonnetain and al. [Bon+22], is 2^{0.2563d+o(d)}. Chailloux and Loyer [CL21] showed that an effective strategy for implementing the quantum walk is to solve a SVP instance of smaller dimension during the update phase. In parallel, Heiser [Hei21] proposed an improved quantum sieving algorithm achieving a running time of 2^{0.2571d+o(d)}, which notably avoids the use of a quantum random walk. In this work, we integrate the algorithm of [Hei21] into the update phase of the quantum walk sieve of [CL21] and analyze its impact on the overall quantum complexity. We obtain a modest improvement for the first algorithm of [CL21], reducing its complexity from 2^{0.2605d+o(d)} to 2^{0.2594d+o(d)}. However, our results indicate that no further asymptotic gains can be achieved through this approach."
 
 - id: 10
   name: Aurel Pichollet-Mugnier
   affiliation: Inria Rennes
   title: Quantum truncated differential attacks using convolutions
-  abstract:
+  abstract: "Quantum computing is good for some problems, however it provides only a limited acceleration for problems arising in symmetric cryptanalysis. Indeed, Grover’s algorithm has been proven to be optimal for black-box searching and “only” provides a quadratic speedup over (classical) exhaustive search, i.e., offering a complexity of O(2^n/2) instead of O(2^n). However, a dedicated analysis is still needed in order to have an accurate measure of the security of symmetric ciphers. In this presentation, we will introduce a new quantum attack that can, in theory attain a super-quadratic speedup (although not on practical ciphers so far) over classical attacks. This attack is inspired by works previously done on linear cryptanalysis [Sch23], and is adapted to the case of differential cryptanalysis. Differential cryptanalysis leverages the fact that some differences between plaintexts can lead to target differences in the resulting ciphertexts with non-negligible probability. By using this property, one can design key-recovery attacks, which is the topic of our work. The idea of our attack is to use the quantum convolution algorithm [CNDP+22] in order to write the probability of the differential as a convolution of functions. Such convolutions can be computed using Quantum Fourier Transform which can be very efficiently be computed in the quantum setting. We then construct a quantum state whose amplitudes encode the probability of the differential for different key guesses, and use this as the starting point of a quantum search, yielding a key-recovery attack."
 
 - id: 11
   name: Agathe Blanvillain
