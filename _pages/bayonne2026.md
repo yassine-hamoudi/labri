@@ -8,7 +8,7 @@ permalink: /bayonne2026/
 
 The meeting aims to foster collaboration between the research communities of the Basque Country and Bordeaux on the topic of quantum algorithms. It will bring together specialists from both sides of the border, with diverse backgrounds in physics, chemistry, computer science, and mathematics. The [first edition]({{ site.url }}{{ site.baseurl }}/bayonne2025) of the meeting was held in 2025.
 
-The meeting will feature short and long talks, as well as poster presentations.
+The meeting will feature short and long talks, as well as poster presentations. Submissions should be made via the <a href="https://framaforms.org/2nd-basque-country-bordeaux-quantum-algorithms-meeting-march-24-25-2026-1765536438" target="_blank" style="color:#D50032; text-decoration: none;">registration form.</a>
 
 Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saubanère](https://www.loma.cnrs.fr/en/matthieu-saubanere/), [Yassine Hamoudi](https://yassine-hamoudi.github.io/)
 
@@ -26,29 +26,25 @@ The meeting will be held at [Hôtel Le Bayonne](https://www.hotel-le-bayonne.com
 
 The dinner will be held at [Bistrot Le Guernika](https://www.bistrotguernika.fr/) (850m from the meeting venue). Location on [Google Maps](https://maps.app.goo.gl/wvfz2rvb2TCN6ayo9).
 
-{% comment %}
  <p style="text-align:center; font-size:25px;">
-  <a href="https://evento.renater.fr/survey/invitation-to-the-basque-country-bordeaux-quantum-algorithms-meeting-april-910-2025-n8sqqjkm"
+  <a href="https://framaforms.org/2nd-basque-country-bordeaux-quantum-algorithms-meeting-march-24-25-2026-1765536438"
      target="_blank"
      style="color:#D50032; text-decoration: none;">
-     Registration (closed)
-  </a>
-</p>
-{% endcomment %}
-
-<p style="text-align:center; font-size:25px;">
-  <a
-     target="_blank"
-     style="color:#D50032; text-decoration: none;">
-     Registration (TBA)
+     Registration
   </a>
 </p>
 
 Registration is required to participate in the event. If you are not affiliated with one of the sponsors below, please contact us before registering. Participation and accommodation are <b>free of charge</b>, including one night's stay at the hotel, breakfast on the 25th, lunch breaks on the 24th and 25th, and dinner on the 24th. Transportation costs are the responsibility of the participants.
 
-{% comment %}
+
 <p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
 
+**Invited speakers:**
+  - ...
+
+**Contributed speakers:** TBA
+
+{% comment %}
 All events (except dinner) will be held at Hôtel Le Bayonne.
 
 **Wednesday, 9 April**
