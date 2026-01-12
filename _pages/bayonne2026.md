@@ -40,7 +40,7 @@ Registration is required to participate in the event. If you are not affiliated 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
 
 **Invited speakers:**
-  - ...
+  - TBA
 
 **Contributed speakers:** TBA
 

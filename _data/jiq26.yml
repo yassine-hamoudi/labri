@@ -2,7 +2,7 @@
   name: Matthieu Saubanère
   affiliation: CNRS & LOMA
   title: Quantum Krylov algorithms for the many electrons problem
-  abstract:
+  abstract: 
 
 - id: 2
   name: Sacha Cerf
@@ -32,7 +32,18 @@
   name: Thomas Perez
   affiliation: Inria Saclay
   title: Categorical aspects of fermionic systems and application to fermionic computation rewrites
-  abstract: "Fermionic systems pose a distinctive challenge from the perspective of compositionality. They are traditionally described using non-compositional frameworks, most notably operator algebras, where the global structure of the system must be fixed in advance, such as the total number of Fermionic modes. In this setting, operators are expressed as polynomials in Fermionic creation and annihilation operators, and their non-commutativity obstructs standard compositional approaches. By contrast, Categorical Quantum Mechanics relies on symmetric monoidal categories, which provide a natural compositional semantics for distinguishable or Bosonic systems. In this work, we investigate which axioms of symmetric monoidal categories must be relaxed or modified to capture Fermionic behaviour. Building on the Bravyi–Kitaev's early Fermionic computational model, and the Fermionic ZW-calculus, we introduce complete equational theories for fragments relevant to Fermionic computation."
+  abstract: "Fermionic systems pose a distinctive challenge from the perspective of compositionality. They are traditionally described using non-compositional frameworks, most notably operator algebras, where the global structure of the system must be fixed in advance, such as the total number of Fermionic modes. In this setting, operators are expressed as polynomials in Fermionic creation and annihilation operators, and their non-commutativity obstructs standard compositional approaches. By contrast, Categorical Quantum Mechanics relies on symmetric monoidal categories, which provide a natural compositional semantics for distinguishable or Bosonic systems. In this work, we investigate which axioms of symmetric monoidal categories must be relaxed or modified to capture Fermionic behaviour. Building on the Bravyi–Kitaev's early Fermionic computational model, and the Fermionic ZW-calculus, we introduce complete equational theories for fragments relevant to Fermionic computation.Determining low-energy eigenstates in electronic many-body quantum 
+systems is a central challenge in computational chemistry and condensed 
+matter physics. Hybrid quantum-classical approaches, such as Quantum 
+Subspace Methods (QSM), offer promising solutions but face practical 
+limitations related to circuit depth and measurement overhead. In this 
+presentation, we discuss strategies based on variational principles to 
+iteratively construct a reduced subspace for extracting low-lying energy 
+states. This iterative process provides a tunable balance between 
+circuit depth, the number of variational parameters, and the measurement 
+cost, making it well-suited for near-term quantum hardware. We compare 
+our approaches with classical and quantum versions of the Lanczos 
+algorithm, as well as other Krylov subspace-based methods."
 
 - id: 7
   name: Thomas Vinet
