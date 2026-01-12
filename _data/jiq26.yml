@@ -2,7 +2,7 @@
   name: Matthieu Saubanère
   affiliation: CNRS & LOMA
   title: Quantum Krylov algorithms for the many electrons problem
-  abstract: 
+  abstract: "Determining low-energy eigenstates in electronic many-body quantum systems is a central challenge in computational chemistry and condensed matter physics. Hybrid quantum-classical approaches, such as Quantum Subspace Methods (QSM), offer promising solutions but face practical limitations related to circuit depth and measurement overhead. In this presentation, we discuss strategies based on variational principles to iteratively construct a reduced subspace for extracting low-lying energy states. This iterative process provides a tunable balance between circuit depth, the number of variational parameters, and the measurement cost, making it well-suited for near-term quantum hardware. We compare our approaches with classical and quantum versions of the Lanczos  algorithm, as well as other Krylov subspace-based methods."
 
 - id: 2
   name: Sacha Cerf
