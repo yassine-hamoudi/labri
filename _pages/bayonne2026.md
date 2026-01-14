@@ -142,7 +142,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/pepr.jpg">
   </a>
   <a href="https://www.ehu.eus/">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/ubasque.jpg">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/ubasque2.png">
   </a>
   <a href="https://dipc.ehu.eus/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/dipc.png">
