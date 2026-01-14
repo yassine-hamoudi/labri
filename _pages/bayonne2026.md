@@ -36,11 +36,11 @@ The dinner will be held at [Bistrot Le Guernika](https://www.bistrotguernika.fr/
 
 Registration is required to participate in the event. If you are not affiliated with one of the sponsors below, please contact us before registering. Participation and accommodation are <b>free of charge</b>, including one night's stay at the hotel, breakfast on the 25th, lunch breaks on the 24th and 25th, and dinner on the 24th. Transportation costs are the responsibility of the participants.
 
-
 <p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
 
 **Invited speakers:**
-  - TBA
+  - Román Orús (Multiverse Computing - Scientific Director)
+  - Joseph Mikael (Quobly - VP Quantum Solutions)
 
 **Contributed speakers:** TBA
 
