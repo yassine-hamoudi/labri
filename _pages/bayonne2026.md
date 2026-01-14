@@ -141,8 +141,8 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   <a href="https://anr.fr/fr/france-2030/programmes-et-equipements-prioritaires-de-recherche-pepr/quantique/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/pepr.jpg">
   </a>
-  <a href="https://www.ehu.eus/">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/ubasque2.png">
+  <a href="https://www.u-bordeaux.fr/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/bordeaux.jpeg">
   </a>
   <a href="https://dipc.ehu.eus/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/dipc.png">
@@ -150,8 +150,8 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   <a href="https://www.basquequantum.eus/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/basq.jpg">
   </a>
-  <a href="https://www.u-bordeaux.fr/">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/bordeaux.jpeg">
+  <a href="https://www.ehu.eus/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/ubasque2.png">
   </a>
   <a href="https://www.euskampus.eus/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/euskampus.png">
