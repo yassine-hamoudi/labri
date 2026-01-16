@@ -40,6 +40,9 @@ permalink: /seminar/
 
 ### Hosted or Co-Organized Events
 
+15-16 January 2026<br>
+<i>Journées Informatique Quantique du GT IQ.</i> [Program &#9432;]({% link _pages/jiq2026.md %})
+
 10-12 June 2025<br>
 <i>Random Tensors, from Quantum Field Theory to Quantum Information.</i> [Program &#9432;](https://qgb-2025.vercel.app/)
 
@@ -48,6 +51,11 @@ permalink: /seminar/
 
 24-26 January 2024<br>
 <i>ANR QuDATA Workshop, Quantum Algorithms for Massive Data.</i> [Program &#9432;](https://dept-info.labri.fr/~gavoille/qudata/meeting_bordeaux_jan2024.html)
+
+### 2026
+
+{% assign year = '2026' %}
+{% include print_past_seminars.md %}
 
 ### 2025
 
