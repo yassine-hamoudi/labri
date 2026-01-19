@@ -15,53 +15,48 @@
   affiliation: LIS
   title: Closing the problem of which causal structures of up to six total nodes have a classical–quantum gap
   abstract: "The discovery of Bell that there exist quantum correlations that cannot be reproduced classically is one of the most important in the foundations of quantum mechanics, as well as having practical implications. Bell's result was originally proven in a simple bipartite causal structure, but analogous results have also been shown in further causal structures. Here we study the only causal structure with six or fewer nodes in which the question of whether or not there exist quantum correlations that cannot be achieved classically was open. In this causal structure we show that such quantum correlations exist using a method that involves imposing additional restrictions on the correlations. This hence completes the picture of which causal structures of up to six nodes support non-classical quantum correlations. We also provide further illustrations of our method using other causal structures."
+  slides: files/jiq26/JIQ26-Khanna.pdf
 
 - id: 4
   name: Idris Delsol
   affiliation: ENS & Inria Lyon
   title: Computational aspects of the trace norm contraction coefficient
   abstract: "We show that approximating the trace norm contraction coefficient of a quantum channel within a constant factor is NP-hard. Equivalently, this shows that determining the optimal success probability for encoding a bit in a quantum system undergoing noise is NP-hard. This contrasts with the classical analogue of this problem that can clearly be solved efficiently. We also establish the NP-hardness of deciding if the contraction coefficient is equal to 1, i.e., the channel can perfectly preserve a bit.  As a consequence, deciding if a non-commutative graph has an independence number of at least 2 is NP-hard. In addition, we establish a converging hierarchy of semidefinite programming upper bounds on the contraction coefficient."
+  slides: files/jiq26/JIQ26-Delsol.pdf
 
 - id: 5
   name: Rémi Di Guardia
   affiliation: IRIF
   title: Semantics and types for quantum Bayesian networks
   abstract: "A general task of quantum theory is to predict the probabilities of measurement outcomes for a given system. In this sense, it can be framed as a problem of probabilistic inference over models involving both classical and quantum data. In the classical setting, Pearl's Bayesian networks are a prominent graphical model to describe probability distributions in a compact way. They capture classical causality and enable efficient inference algorithms. The generalization of Bayesian networks to include quantum causes is an active line of research. We revisit some works in this line, specifically [Wood and Spekkens 2012, Leifer and Spekkens 2013, Henson Lal Pusey 2014], by bringing methods and concepts from proof-theory and the semantics of programming languages, which allows for typing and compositional reasoning. We propose a model which neatly encompasses both classical and quantum causal scenarios, while enabling the graphical methods typical of Bayesian networks. This allows in particular to study conditional independence (no-signaling) between random variables in a probability distribution, regardless of the fact that some of the causes are quantum. Our semantics adapts the one of [Selinger 2004] in order to obtain the following feature: when all causes are classical, the mathematical structure is the standard factors-based semantics of Bayesian networks, whereas in the fully quantum case it yields standard tensor-networks. Our graphical syntax, that is based on Linear Logic, is typed which allows for the composition of systems to be well-behaved."
+  slides: files/jiq26/JIQ26-DiGuardia.pdf
 
 - id: 6
   name: Thomas Perez
   affiliation: Inria Saclay
   title: Categorical aspects of fermionic systems and application to fermionic computation rewrites
-  abstract: "Fermionic systems pose a distinctive challenge from the perspective of compositionality. They are traditionally described using non-compositional frameworks, most notably operator algebras, where the global structure of the system must be fixed in advance, such as the total number of Fermionic modes. In this setting, operators are expressed as polynomials in Fermionic creation and annihilation operators, and their non-commutativity obstructs standard compositional approaches. By contrast, Categorical Quantum Mechanics relies on symmetric monoidal categories, which provide a natural compositional semantics for distinguishable or Bosonic systems. In this work, we investigate which axioms of symmetric monoidal categories must be relaxed or modified to capture Fermionic behaviour. Building on the Bravyi–Kitaev's early Fermionic computational model, and the Fermionic ZW-calculus, we introduce complete equational theories for fragments relevant to Fermionic computation.Determining low-energy eigenstates in electronic many-body quantum 
-systems is a central challenge in computational chemistry and condensed 
-matter physics. Hybrid quantum-classical approaches, such as Quantum 
-Subspace Methods (QSM), offer promising solutions but face practical 
-limitations related to circuit depth and measurement overhead. In this 
-presentation, we discuss strategies based on variational principles to 
-iteratively construct a reduced subspace for extracting low-lying energy 
-states. This iterative process provides a tunable balance between 
-circuit depth, the number of variational parameters, and the measurement 
-cost, making it well-suited for near-term quantum hardware. We compare 
-our approaches with classical and quantum versions of the Lanczos 
-algorithm, as well as other Krylov subspace-based methods."
+  abstract: "Fermionic systems pose a distinctive challenge from the perspective of compositionality. They are traditionally described using non-compositional frameworks, most notably operator algebras, where the global structure of the system must be fixed in advance, such as the total number of Fermionic modes. In this setting, operators are expressed as polynomials in Fermionic creation and annihilation operators, and their non-commutativity obstructs standard compositional approaches. By contrast, Categorical Quantum Mechanics relies on symmetric monoidal categories, which provide a natural compositional semantics for distinguishable or Bosonic systems. In this work, we investigate which axioms of symmetric monoidal categories must be relaxed or modified to capture Fermionic behaviour. Building on the Bravyi–Kitaev's early Fermionic computational model, and the Fermionic ZW-calculus, we introduce complete equational theories for fragments relevant to Fermionic computation.Determining low-energy eigenstates in electronic many-body quantum systems is a central challenge in computational chemistry and condensed matter physics. Hybrid quantum-classical approaches, such as Quantum Subspace Methods (QSM), offer promising solutions but face practical limitations related to circuit depth and measurement overhead. In this presentation, we discuss strategies based on variational principles to iteratively construct a reduced subspace for extracting low-lying energy states. This iterative process provides a tunable balance between circuit depth, the number of variational parameters, and the measurement cost, making it well-suited for near-term quantum hardware. We compare our approaches with classical and quantum versions of the Lanczos algorithm, as well as other Krylov subspace-based methods."
 
 - id: 7
   name: Thomas Vinet
   affiliation: Inria Nancy
   title: Resource-aware hybrid quantum programming with general recursion and quantum control
   abstract: "This paper introduces the hybrid quantum language with general recursion Hyrql}, driven towards resource-analysis. By design, Hyrql does not require the specification of an initial set of quantum gates and, hence, is well amenable towards a generic cost analysis. Indeed, languages using different sets of quantum gates lead to representations of quantum circuits whose complexity varies. Towards resource-analysis, a semantics-preserving compilation algorithm to simply-typed term rewrite systems is described; allowing a generic reuse of all known techniques for analyzing the complexity of term rewrite systems. We prove the versatility of this approach through many examples. An online version may be found here: https://arxiv.org/abs/2510.20452"
+  slides: files/jiq26/JIQ26-Vinet.pdf
 
 - id: 8
   name: Kathleen Barsse
   affiliation: LORIA
   title: A quantum programming language for coherent control
   abstract: "We introduce a programming language that allows for the coherent control of quantum operations beyond the unitary case. The problem of defining a quantum conditional in the presence of recursion or iteration has long been known to be a major difficulty. We resolve this problem by defining an operational semantics based on appropriate Kraus decompositions and a denotational semantics based on vacuum extensions. We show that the language is universal for vacuum extensions and that the two semantics are adequate. Moreover, we define a notion of observational equivalence: two programs are equivalent if their probability of termination is the same in any context. The denotational semantics is shown to be fully abstract for observational equivalence."
+  slides: files/jiq26/JIQ26-Barsse.pdf
 
 - id: 9
   name: Mathias Boucher
   affiliation: Inria Rennes
   title: Almost improving quantum lattice sieving
   abstract: "The asymptotically fastest known algorithms for the Shortest Vector Problem (SVP) rely on lattice sieving combined with quantum random walks to detect vector collisions. The current best quantum time complexity, due to Bonnetain and al. [Bon+22], is 2^{0.2563d+o(d)}. Chailloux and Loyer [CL21] showed that an effective strategy for implementing the quantum walk is to solve a SVP instance of smaller dimension during the update phase. In parallel, Heiser [Hei21] proposed an improved quantum sieving algorithm achieving a running time of 2^{0.2571d+o(d)}, which notably avoids the use of a quantum random walk. In this work, we integrate the algorithm of [Hei21] into the update phase of the quantum walk sieve of [CL21] and analyze its impact on the overall quantum complexity. We obtain a modest improvement for the first algorithm of [CL21], reducing its complexity from 2^{0.2605d+o(d)} to 2^{0.2594d+o(d)}. However, our results indicate that no further asymptotic gains can be achieved through this approach."
+  slides: files/jiq26/JIQ26-Boucher.pdf
 
 - id: 10
   name: Aurel Pichollet-Mugnier
@@ -80,6 +75,7 @@ algorithm, as well as other Krylov subspace-based methods."
   affiliation: Inria Paris
   title: Quantum Maxwell decoder for CSS codes
   abstract: "Quantum error correction is essential for reliable quantum computation. A simplified noise model is the erasure channel, where qubits are randomly erased and the decoder knows the erased positions. Despite its simplicity, it offers valuable insight and is relevant for platforms that can convert native errors into erasures. Maximum-likelihood erasure decoding via Gaussian elimination is optimal but has cubic time complexity, motivating fast, iterative decoders such as belief propagation and, for erasures, the peeling decoder. In qLDPC codes, peeling struggles due to small stopping sets caused by low-weight stabilizers. Variants like pruning, guided decimation, and cluster peeling address this issue. Here we adapt the Maxwell decoder to CSS codes by adding controlled guessing to peeling and pruned peeling. The resulting decoder reaches maximum-likelihood performance with complexity no worse than Gaussian elimination, and can be restricted to linear time at some cost in decoding quality."
+  slides: files/jiq26/JIQ26-Costa.pptx
 
 - id: 13
   name: Marc Baboulin
@@ -104,6 +100,7 @@ algorithm, as well as other Krylov subspace-based methods."
   affiliation: Oak Ridge National Laboratory
   title: Enabling quantum-HPC convergence for future scientific workflows
   abstract: "As quantum computing capabilities continue to mature, integrating them effectively into HPC ecosystems will require more than hardware progress alone. This talk explores how workflow-driven approaches can accelerate meaningful Quantum-HPC convergence by enabling hybrid execution models, flexible orchestration, shared abstractions, and scalable software stacks. Rather than centering on quantum hardware details, the discussion focuses on workflow patterns, resource management strategies, interoperability challenges, and emerging software frameworks that support hybrid computation as a first-class model. The goal is to highlight how workflow systems can bridge paradigms, support user adoption, and pave the way for future scientific discovery powered by heterogeneous quantum and classical resources."
+  slides: files/jiq26/JIQ26-FerreiradaSilva.pdf
 
 - id: 17
   name: Elise Fressart
@@ -122,6 +119,7 @@ algorithm, as well as other Krylov subspace-based methods."
   affiliation: LIP6
   title: Verifiable blind observable estimation
   abstract: "Cryptographic verification protocols enable composably secure delegated quantum computation for tasks that no longer admit efficient classical validation and are executed on untrusted remote quantum servers. However, efficient protocols with low space overhead are limited to tasks whose correctness can be amplified by majority voting, and no cryptographic resource effectively captures the security of observable estimation tasks that appear in various near-term applications. We introduce a protocol that implements a newly defined cryptographic resource that characterises secure delegated observable estimation, returning an estimate within ε>0 of the true expectation value or otherwise aborts. The required cost consists solely of test rounds that are no more complex than the target computation and the security error is negligible in the total rounds. These guarantees establish the only known path to efficiently verifying pre-fault-tolerant applications driving potential quantum advantage."
+  slides: files/jiq26/JIQ26-Yang.pdf
 
 - id: 20
   name: Pierre Botteron
@@ -134,24 +132,28 @@ algorithm, as well as other Krylov subspace-based methods."
   affiliation: Inria Saclay
   title: Optimal untelegraphable encryption and implications for uncloneable encryption
   abstract: "We study untelegraphable encryption (UTE), a quantum encryption primitive that refines uncloneable encryption (UE) by restricting adversaries to output only classical information. We give an unconditionally secure construction achieving untelegraphable-indistinguishability, along with natural multi-ciphertext and bounded collusion-resistant extensions, without additional assumptions. Assuming pseudo-random unitaries, we further obtain an unbounded variant with everlasting security. We then leverage UTE techniques to advance UE by deriving new lower bounds that also apply to UE and by proving an asymptotic equivalence between UTE and UE as the number of UE adversaries grows."
+  slides: files/jiq26/JIQ26-Rochette.pdf
 
 - id: 22
   name: Joseph Cunningham
   affiliation: LaBRI
   title: Poisson-distributed discrete adiabatic dynamics
   abstract: "We propose a general framework for analysing the performance of quantum algorithms that consist of performing discrete operations controlled by a Poisson process. This extends our previous work [TQC 2024]. In particular, we are interested in emulating certain features of adiabatic quantum computation without having to simulate time-dependent Hamiltonian evolution, since this typically causes a significant discretisation cost. The resulting error bounds share many key features with the error bounds in adiabatic quantum computation. And many results are directly applicable. As applications, we show how our framework yields six distinct approaches to both the Grover search problem and the quantum linear systems problem that all achieve optimal asymptotic complexity. We can also apply our framework to Trotterisation. In this way we are able to show that discretisation in the context of adiabatic quantum computing is less costly than the general bounds on the Trotterisation error would imply. In this way we are able to reproduce key results from [arXiv: 2509.00171]."
+  slides: files/jiq26/JIQ26-Cunningham.pdf
 
 - id: 23
   name: Rachel Roux
   affiliation: MBDA
   title: Investigating the use of the discrete quantum walk to solve combinatorial optimization problems
   abstract: "Our work targets the optimization problems usually encountered by MBDA when designing missile systems : multi-objective optimal path and optimal assignment. These problems usually become NP-hard as soon as they integrate several constraints. Our investigations led us to quantum walk algorithms which can take advantage of graph-structured problems. One of the challenges is to account for the constraints that make one solution feasible or not, i.e., to reduce the Hilbert Space to only solutions that satisfy these constraints. We thus developed a graph who’s each edge represents a valid solution and two solutions are connected thanks to only their local differences. The next challenge is to find a quantum operator which will lead to the desired stationary distribution. We performed a few classical tests to ensure the validity of this approach and currently study whether this approach can scale on a Quantum Computer."
+  slides: files/jiq26/JIQ26-Roux.pdf
 
 - id: 24
   name: Xiaoyu Sun
   affiliation: LIS
   title: On quantum perceptron learning via quantum search
   abstract: "With the growing interest in quantum machine learning, the perceptron, a fundamental building block in traditional machine learning, has emerged as a valuable model for exploring quantum advantages. In this work, we make two principal contributions. First, we revisit the quantum version space perceptron algorithm proposed by Kapoor et al. (2016), identifying and correcting a flawed complexity assumption. We prove that the complexity of the algorithm is dimension-dependent, which has significant implications for the feasibility of the sampling-based quantum perceptron algorithm in high-dimensional regimes. Second, we propose and analyse two quantum-enhanced cutting-plane algorithms for perceptron learning. Specifically, we leverage established quantum tools, such as Grover’s search and quantum walk search, in these algorithms. We provide detailed algorithmic constructions, complexity analysis, and comparison to their classical counterparts. Our results demonstrate how quantum resources can yield provable improvements in query complexity and arithmetic operations, providing constructive insights into the statistical efficiency of different perceptron models and offering new perspectives on quantum perceptron learning."
+  slides: files/jiq26/JIQ26-Sun.pdf
 
 - id: 25
   name: Benjamin Mathieu-Bloise
