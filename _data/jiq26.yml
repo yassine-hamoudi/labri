@@ -94,6 +94,7 @@
   affiliation: Eviden & Université Paris-Saclay
   title: From NISQ to hybrid computing
   abstract: "Most of NISQ (Noisy Intermediate-Scale Quantum) programming frameworks have been developed to minimise noise and enhance execution on QPUs (Quantum Processing Units). However, it should be noted that this type of programming does not allow for hybrid computing as known from HPC. Nevertheless, the evolution of QPUs towards the integration of error correction promises to revolutionize the use of quantum devices. This technological advance will overcome the current limitations of NISQ systems, paving the way for a new era of quantum programming. In this context, quantum programming is set to evolve, to take advantage of the new capabilities offered by QPUs. To explore these changes, we will use the Q-Pragma quantum programming framework as a practical example."
+  slides: files/jiq26/JIQ26-Koska.pdf
 
 - id: 16
   name: Rafael Ferreira da Silva
