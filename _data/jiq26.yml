@@ -69,6 +69,7 @@
   affiliation: Inria Paris
   title: "The quantum decoding problem: tight achievability bounds and application to Regev's reduction"
   abstract: "We study the quantum decoding problem (QDP), which consists in recovering a codeword from a superposition of its noisy versions. By measuring the superposition, we get back to classical decoding. Introduced by Chen, Liu and Zhandry to show a quantum advantage for the Short Integer Solution problem in the l∞ norm, the QDP was recently shown by Chailloux and Tillich to be solvable in polynomial time for Bernoulli noise in certain regimes of parameters for which classical decoding remains exponential. They also give an information theoretic limit on the achievable code rate, exceeding the Shannon limit. We generalize this result to all memoryless noise models and extend it to the rank metric, corresponding to non memoryless noise. We analyze the Pretty Good Measurement to derive an information theoretic limit for QDP. Combined with Regev’s reduction, this yields a quantum algorithm sampling dual codewords according to the dual noise distribution. At the information theoretic limit, we get the most likely nonzero codeword of the dual code, which is not achievable using classical decoding in Regev’s reduction."
+  slides: files/jiq26/JIQ26-Blanvillain.pdf
 
 - id: 12
   name: Bruno Costa Alves Freire
