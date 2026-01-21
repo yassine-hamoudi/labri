@@ -114,6 +114,7 @@
   affiliation: EPFL & SNCF
   title: Quantum algorithms for train crew scheduling optimization
   abstract: "Train crew scheduling is a large-scale NP-hard combinatorial optimization problem subject to strict operational and human constraints. The objective is to reduce the use of taxis and hotels by the crews and to minimize unnecessary waiting times between successive jobs. At SNCF, this problem is still mostly solved manually, leading to suboptimal solutions. This work investigates the potential of quantum computing to obtain near-optimal schedules. We study a QUBO-based variational approach and an alternative method that restricts the quantum search space to feasible schedules only, combined with a Grover-based minimum search. Resource scaling and theoretical complexity are analyzed, highlighting current limitations and long-term potential."
+  slides: files/jiq26/JIQ26-Duhamel.pdf
 
 - id: 19
   name: Bo Yang
