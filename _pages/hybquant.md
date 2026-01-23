@@ -29,6 +29,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 <p style="text-align:center; font-size:30px; font-weight:bold;">Offres d'emplois</p>
 
 - **Ingénieur de recherche :** [Fiche de poste]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-ir.pdf)
+- **Chercheur postdoctoral :** [Informations]({{ site.url }}{{ site.baseurl }}/positions/)
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Contacts</p>
 
