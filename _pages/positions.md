@@ -54,7 +54,7 @@ permalink: /positions/
   </blockquote>
 </details>
 
-### Research Engineer
+<!-- ### Research Engineer
 
 We are recruiting a research engineer ("ingénieur de recherche") to contribute to research activities in the field of hybrid high-performance – quantum computing as part of the "Maisons du Quantique" project. The position is available for a maximum duration of three years.
 
@@ -65,7 +65,7 @@ We are recruiting a research engineer ("ingénieur de recherche") to contribute 
   <blockquote>
   ![file]({{ site.url }}{{ site.baseurl }}/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"} [Job profile (fiche de poste)]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-ir.pdf)
   </blockquote>
-</details>
+</details> -->
 
 ### PhD and Postdoc positions
 
