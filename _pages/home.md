@@ -29,7 +29,7 @@ permalink: /
 <div class="col-sm-3 clearfix">
 <div style="text-align:center"><h4>Quantum Algorithms and Computational Speedups</h4></div>
  <ul>
-    <li>Optimization and Monte Carlo methods</li>
+    <li>Optimization, sampling, and estimation methods</li>
     <li>Combinatorial algorithms</li>
     <li>Distributed algorithms</li>
     <li>Simulation of quantum systems</li>
