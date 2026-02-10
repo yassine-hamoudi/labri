@@ -110,8 +110,8 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   - Lucia	Royo (CFM) *A Single-Qubit Classifier with Nitrogen Vacancy Centers in Diamond*
   - Edison Xavier Salazar quezada (DIPC) *Ab Initio Molecular Dynamics using NOF-VQE on a Real Quantum Computer*
   - Ameeya Bhusan	Sahoo (LOMA, Université de Bordeaux) *DFT Optimized Orthogonal and Local Basis Sets for Quantum Simulation of Many-Body Systems*
-  - Kelvin Salou-Smith (LOMA, Université de Bordeaux)
-  - Olatz Sanz Larrarte (Tecnun, Universidad de Navarra)
+  - Kelvin Salou-Smith (LOMA, Université de Bordeaux) *NQS and Exact Results for the Ground States of the 3D Shastry–Sutherland Model*
+  - Olatz Sanz Larrarte (Tecnun, Universidad de Navarra) *Quantum Synthetic Data Generation for in Silico Clinical Trials*
   - Benjamin Tirado Heras (CSIC, UPV/EHU) *Hardware-Aware Quantum Simulation of Collective Dissipative Processes*
   - Xabier Telleria Allika (Mondragon Unibertsitatea) *Training Kernels for QSVMs for Thermodynamic Phase Classification: Assessing Advantages in Scarce Data Regimes*
   - Nonia Vaquero Sabater (DIPC) *Effect of Noise and Configuration Recovery on SQD*
