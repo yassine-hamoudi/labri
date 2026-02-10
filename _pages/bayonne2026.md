@@ -200,7 +200,9 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   <a href="https://www.naquidis.com/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/naquidis.png">
   </a>
-  <a></a>
+  <a href="https://quantum-matter-bordeaux.cnrs.fr/">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/qmbx.png">
+  </a>
   <a href="{{ site.url }}{{ site.baseurl }}/hybquant">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/hybquant.jpg">
   </a>
