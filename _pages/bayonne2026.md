@@ -24,13 +24,13 @@ Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saub
 
 The meeting will be held at [Hôtel Le Bayonne](https://www.hotel-le-bayonne.com/en/) in downtown Bayonne, France (1.5km from the train station). Location on [Google Maps](https://maps.app.goo.gl/pyNDGbVAEdgr7uS88).
 
-The dinner will be held at [Bistrot Le Guernika](https://www.bistrotguernika.fr/) (850m from the meeting venue). Location on [Google Maps](https://maps.app.goo.gl/wvfz2rvb2TCN6ayo9).
+<!-- The dinner will be held at [Bistrot Le Guernika](https://www.bistrotguernika.fr/) (850m from the meeting venue). Location on [Google Maps](https://maps.app.goo.gl/wvfz2rvb2TCN6ayo9). -->
 
  <p style="text-align:center; font-size:25px;">
   <a href="https://framaforms.org/2nd-basque-country-bordeaux-quantum-algorithms-meeting-march-24-25-2026-1765536438"
      target="_blank"
      style="color:#D50032; text-decoration: none;">
-     Registration
+     Registration (closed)
   </a>
 </p>
 
@@ -38,94 +38,117 @@ Registration is required to participate in the event. If you are not affiliated 
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
 
-**Invited speakers:**
-  - Román Orús (Multiverse Computing - Scientific Director)
-  - Joseph Mikael (Quobly - VP Quantum Solutions)
-
-**Contributed speakers:** TBA
-
-{% comment %}
 All events (except dinner) will be held at Hôtel Le Bayonne.
 
-**Wednesday, 9 April**
+**Tuesday, 24 March**
 
-- **10:00 - 10:30**: Welcome Coffee  
-- **10:30 - 12:30**: Keynote Talks
-  - 10:30 - 11:30: Antonio Córcoles (Principal Research Scientist, IBM Quantum), *Quantum-centric computing*
-  - 11:30 - 12:30: Louis-Paul Henry (VP Quantum Applications, PASQAL), *Providing quantum computing solutions with neutral atoms*
-- **12:30 - 14:30**: Lunch Break  
-- **14:00 - 15:40**: Scientific Talks, Session 1
-  - <del> 14:00 - 14:30: Adolfo Del Campo</del>
-  - 14:30 - 14:50: Bárbara Andrade, *Gauge invariance as a tool for quantum error detection in digital quantum simulations*
-  - 14:50 - 15:20 : Yassine Hamoudi, *Quantum algorithms for multilevel Monte Carlo methods*
-  - 15:20 – 15:40 : Juan-Felipe Huan Lew, *NOF-VQE for efficient sampling*
-- **15:40 - 16:10**: Coffee Break
-- **16:10 - 18:00**: Scientific Talks, Session 2  
-  - 16:10 - 16:40 : Nicolás Lorente, *Using quantum Fisher information to characterize phase transitions in Floquet matter*
-  - 16:40 – 17:10 : Abel Carreras, *Assessing the Limitations of Quantum Hardware for Molecular Energy Computation Using VQE*
-  - 17:10 – 17:40 : Josu Etxezarreta Martinez, *Advances in low-overhead quantum error correction*
-- **20:00**: Dinner (at [Bistrot Le Guernika](https://maps.app.goo.gl/wvfz2rvb2TCN6ayo9))  
+- **10:00 - 10:30**: <span style="color: #D50032;">Welcome Coffee</span>
+- **10:30 - 12:30**: Session 1
+  <!-- - 10:30 - 11:30: Antonio Córcoles (Principal Research Scientist, IBM Quantum), *Quantum-centric computing* -->
+- **12:30 - 14:00**: <span style="color: #D50032;">Lunch Break</span>
+- **14:00 - 15:30**: Session 2
+- **15:30 - 16:00**: <span style="color: #D50032;">Coffee Break</span>
+- **16:00 - 17:30**: Session 3
+- **17:30 - 19:00**: Poster session
+- **20:00**: <span style="color: #D50032;">Dinner</span>
 
 ---
 
-**Thursday, 10 April**
+**Wednesday, 25 March**
 
-- **07:00 - 09:30**: Breakfast  
-- **09:30 - 11:10**: Scientific Talks, Session 3
-  - <del> 09:30 – 10:00 : Gille Zemor, *Quantum LDPC codes from square complexes*</del>
-  - 10:00 – 10:20 : Tobias Grass, *Quantum annealing strategies using bias fields*
-  - 10:20 – 10:50 : Enrique Rico Ortega, *Exploring the quantum frontier: HEP with quantum computing*
-  - 10:50 – 11:10 : Yann Pouillon, *Beyond DFT with SIESTA and Qiskit*
-- **11:10 – 11h40**: Coffee Break
-- **11:40 - 13:30**: Scientific Talks, Session 4
-  - 11:40 – 12:10 : Ruben Esteban, *Simulation of nanophotonic systems with quantum computers*
-  - 12:10 – 12:30 : Benjamín Tirado Heras, *Simulating open quantum systems with NISQ-efficient dynamical circuits*
-  - 12:30 – 13:00 : Reza Dastbasteh, *Asymptotically good quantum codes supporting transversal T gate*
-  - 13:00 – 13:20 : Gerard Valentí-Rojas, *Low-Overhead Robust Quantum Memories --- A Many-Body Physics Approach*
-  - 13:20 – 13:30 : Concluding remark
-- **13:30 - 15:00**: Lunch Break
+- **09:00 - 10:30**: Session 4  
+- **10:30 - 11:00**: <span style="color: #D50032;">Coffee Break</span>
+- **11:00 - 12:30**: Session 5
+- **12:30 - 14:00**: <span style="color: #D50032;">Lunch Break</span>
+- **14:00 - 16:00**: Session 6
+
+---
+
+**Keynote talks:**
+  - Román Orús (Multiverse Computing - Scientific Director)
+  - Joseph Mikael (Quobly - VP Quantum Solutions) *Silicon Spin Qubits and the Need for Industry*
+
+**Contributed speakers:**
+  - Bárbara Andrade (LaBRI, Université de Bordeaux) *Scalar Field Theory on Quantum Computers*
+  - Gaétan Bardy (LaBRI, Université de Bordeaux) *Quantum Krylov Methods for Scalar Field Theory*
+  - Juan Borge (EHU/UPV) *Fractional Quantum Hall States with Quantum Computing*
+  - Tristan Cam (LaBRI, Université de Bordeaux, IBM) *On the Rank-Width of the Hypercube and Its Application to Quantum State Preparation*
+  - Eduardo Camps (IMB, Université de Bordeaux) *Transversal Gates of CSS Codes*
+  - Abel Carreras (DIPC) *Practical Implementation of Subspace Quantum Diagonalization for Quantum Chemistry*
+  - Reza Dastbasteh (Tecnun, Universidad de Navarra) *From Doubling to Fault-Tolerant Code Switching: Implementing Logical Z-Rotations in Quantum Error-Correcting Codes*
+  - Ruben Esteban (UPV/EHU) *Quantum Experiments of Collective Rabi Oscillations*
+  - Josu Etxezarreta Martinez (Tecnun, Universidad de Navarra) *Decoding with Alternating Weighted Graph Sparsification for Quantum Low-Density Parity-Check Codes*
+  - Daniel Isla (University of the Basque Country) *Quantum Algorithms for PDEs*
+  - Andrei Kardashin (DIPC) *On Measurement-Dependent Variance in Quantum Neural Networks*
+  - Oumaya Ladhari (LOMA, Université de Bordeaux) *Adaptive Variational Quantum Algorithms for Molecular Ground States*
+  - Nicolás Lorente (CFM) *Quantum Batteries Based on Time Crystals*
+  - Simon Martiel (IBM Quantum) *Large-Scale Rotated Graph State Sampling*
+  - Javier Oliva del Moral (Tecnun, DIPC) *Noise mitigation of quantum observables via learning from Hamiltonian symmetry decays*
+  - Nina O’Neill (Basque Center for Applied Mathematics) *Quantum Algorithms for Nonlinear PDEs: Carleman vs. Kolmogorov Embedding*
+  - Rubén M. Otxoa de Zuazola (Hitachi–Cambridge Laboratory, DIPC) *Mapping of QEC Codes in Restricted Geometries for Spin-Qubit-Based Technologies*
+  - Alexandre Perrin (LOMA, Université de Bordeaux) *Variational Construction of Quantum Subspace*
+  - Yann Pouillon (CIC nanoGUNE)
+  - Enrique Rico Ortega (CERN, Ikerbasque, EHU, DIPC) *Quantum Simulation of Lattice Gauge Theories Using Superconducting Circuits*
+  - Ángel Rodríguez Alcaraz (MPC) *Discrete Time Crystals with Anisotropic Heisenberg Coupling*
+  - Shrinidhi Teganahally Sridhara (LaBRI, Université de Bordeaux) *Dequantization Barriers for Guided Stoquastic Hamiltonians*
+  - Huy Binh Tran (LOMA, Université de Bordeaux) *Alternative Mapping for Density-Functional Theory on a Quantum Computer*
+  - Gilles Zémor (IMB, Université de Bordeaux) *Recent Progress on Quantum Error Correction*
 
 ---
 
 **Posters**
+  - Unai Aseguinolaza Aguirreche (Mondragon Goi Eskola Politeknikoa) *Ground-State Estimation via Iterative Krylov Quantum Diagonalization*
+  - Aitor Calvo Fernández (University of the Basque Country EHU) *From Wilson's Renormalization Approach to Correlated Impurities on Quantum Circuits*
+  - Sergio Fernández Expósito (DIPC) *Symmetry-Constrained Variational Quantum Algorithms for Fractional Quantum Hall Effect Models*
+  - Mario García Cornejo (UPV/EHU) *Fast Separation of Two Trapped Ions: Protocol Design with a Quantum Algorithm*
+  - Tobias Grass (DIPC) *Synthetic Quantum Systems in Exotic Lattices*
+  - Raúl Guerrero Avilés (Tecnalia) *Hyperbolic Partial Differential Equations on Quantum Computers*
+  - Joaquim Jornet-Somoza (UPV/EHU) *Refining Noise Mitigation in NISQ Hardware Through Qubit Error Probability*
+  - Cyrille Kesiku (Universidad de Deusto) *Beyond Quantum Advantage: Toward Aligned Machine Learning Models*
+  - Jon Lasa Alonso (Mondragon Unibertsitatea)
+  - Arun John Moncy (DIPC, TECNUN) *Mapping Rotated Surface Codes to 3 × N railway*
+  - Lucia	Royo (CFM) *A Single-Qubit Classifier with Nitrogen Vacancy Centers in Diamond*
+  - Edison Xavier Salazar quezada (DIPC) *Ab Initio Molecular Dynamics using NOF-VQE on a Real Quantum Computer*
+  - Ameeya Bhusan	Sahoo (LOMA, Université de Bordeaux) *DFT Optimized Orthogonal and Local Basis Sets for Quantum Simulation of Many-Body Systems*
+  - Kelvin Salou-Smith (LOMA, Université de Bordeaux)
+  - Olatz Sanz Larrarte (Tecnun, Universidad de Navarra)
+  - Benjamin Tirado Heras (CSIC, UPV/EHU) *Hardware-Aware Quantum Simulation of Collective Dissipative Processes*
+  - Xabier Telleria Allika (Mondragon Unibertsitatea) *Training Kernels for QSVMs for Thermodynamic Phase Classification: Assessing Advantages in Scarce Data Regimes*
+  - Nonia Vaquero Sabater (DIPC) *Effect of Noise and Configuration Recovery on SQD*
 
-- Andoni Agirre, *Learning QAOA Landscapes: Parameter optimization via Iterative Search-Space Restricted Monte Carlo Tree Search*
-- Marta Gili Estava, *Distributed Architectures for Quantum Extreme Learning Machines*
-- Thomas Fredericksen, *Crossed graphene nanoribbons for electron quantum optics and spintronics*
-- Raul Guerrero, *Sample-based Quantum Diagonalization on small organic molecules*
-- Nico Leumer, *Dynamical current as tool to distinguish degenerate spin states in open-shell graphene nanoribbons*
-- Arun John Moncy, *Mapping rotated surface code to 3xN railway*
-- Javier Oliva Del Moral, *Schwinger effect in spin qubits in quantum dots*
-- Alexandre Perrin, *Variational Quantum Subspace Construction*
-- Kelvin Salou-Smith
-- Olatz Sanz
+---
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Registered Participants</p>
 
-<div style="text-align:center">
+<!-- <div style="text-align:center">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/Workshop_Bordeaux_Basque_April_9_2025.jpg" class="responsive" >
-</div>
+</div> -->
 
 <div align="center">
 
-| Andoni Agirre             | Josu Etxezarreta Martinez &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; | Alexandre Perrin          |
-| Javier Aizpurua           | Reza Dastbasteh             | Yann Pouillon             |
-| Bárbara Andrade           | Raúl Guerrero-Avilés       | Enrique Rico Ortega       |
-| Gaétan Eliott Bardy        | Marta Gili Esteva           | Kelvin Salou-Smith        |
-| Sourav Biswas             | Tobias Grass                | Paul San Sebastian        |
-| Fajardo Carlos            | Yassine Hamoudi             | Matthieu Saubanere        |
-| Abel Carreras             | Louis-Paul Henry            | Olatz Sanz                |
-| David Casanova            | Juan Felipe Huan Lew Yee    | Gian Luca Spitzer         |
-| Antonio Corcoles          | Ludovic Jaubert             | Mateo Uldemolins          |
-| Adolfo Del Campo          | Yvan Le Borgne              | Gerard Valentí-Rojas      |
-| Javier Oliva Del Moral  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  | Nico Leumer                 | Adrian Tanasa             |
-| Clément Dutreix           | Nicolas Lorente             | Shrinidhi Teganahally Sridhara |
-| Thomas Frederiksen        | Arun John Moncy             | Benjamin Tirado           |
-| Shayan Edalatmanesh       | Rubén M. Otxoa de Zuazola   | Gilles Zemor              |
-| Ruben Esteban             |                             |                           | -->
+| Matthieu Saubanere        | Yassine Hamoudi           | Javier Aizpurua           |
+| Yvan Le Borgne            | Adrian Tanasa             | Elena Berardini           |
+| Ricardo Díez Muiño        | Emilio Artacho            | María Blanco-Rey          |
+| Louis Simon               | David Casanova            | Jean-Baptiste Latre       |
+| Oumaya Ladhari            | Huy Binh Tran             | Lucia Royo                |
+| Javier Oliva del Moral    | Benjamin Tirado Heras     | Ruben Esteban             |
+| Nicolás Lorente           | Alexandre Perrin          | Ameeya Bhusan Sahoo       |
+| Yann Pouillon             | Bárbara Andrade           | Juan Borge                |
+| Josu Etxezarreta Martinez | Joseph Mikael             | Reza Dastbasteh           |
+| Ángel Rodríguez Alcaraz   | Gaétan Bardy              | Gilles Zémor              |
+| Nina O'Neill              | Abel Carreras             | Enrique Rico Ortega       |
+| Andrei Kardashin          | Tristan Cam               | Simon Martiel             |
+| Rubén M. Otxoa de Zuazola | Daniel Isla               | Eduardo Camps             |
+| Shrinidhi Teganahally Sridhara &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Roman Orus           | Tobias Grass              |
+| Cyrille Kesiku            | Mario García Cornejo      | Arun John Moncy           |
+| Xabier Telleria Allika    | Olatz Sanz Larrarte       | Nonia Vaquero Sabater     |
+| Raúl Guerrero Avilés      | Jon Lasa Alonso           | Aitor Calvo Fernández     |
+| Sergio Fernández Expósito | Unai Aseguinolaza Aguirreche | Kelvin Salou-Smith    |
+| Joaquim Jornet-Somoza     | Edison Xavier Salazar Quezada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Santiago Villodre Martinez |
+| Beñat Barcina Ruiz        | Pedro Brandimarte         | Hadi Rammal               |
+| Gabriele Taurasi          | Imanol Ortega Garrues     |                           |
 
 </div>
-{% endcomment %}
 
 <br>
 <p style="text-align:center; font-size:30px; font-weight:bold;">Sponsors</p>
