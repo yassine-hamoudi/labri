@@ -87,7 +87,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   - Nina O’Neill (Basque Center for Applied Mathematics) *Quantum Algorithms for Nonlinear PDEs: Carleman vs. Kolmogorov Embedding*
   - Rubén M. Otxoa de Zuazola (Hitachi–Cambridge Laboratory, DIPC) *Mapping of QEC Codes in Restricted Geometries for Spin-Qubit-Based Technologies*
   - Alexandre Perrin (LOMA, Université de Bordeaux) *Variational Construction of Quantum Subspace*
-  - Yann Pouillon (CIC nanoGUNE)
+  - Yann Pouillon (CIC nanoGUNE) *QCOMP4DFT: From VQE to FTQC in Hybrid Electronic Structure Calculations*
   - Enrique Rico Ortega (CERN, Ikerbasque, EHU, DIPC) *Quantum Simulation of Lattice Gauge Theories Using Superconducting Circuits*
   - Ángel Rodríguez Alcaraz (MPC) *Discrete Time Crystals with Anisotropic Heisenberg Coupling*
   - Shrinidhi Teganahally Sridhara (LaBRI, Université de Bordeaux) *Dequantization Barriers for Guided Stoquastic Hamiltonians*

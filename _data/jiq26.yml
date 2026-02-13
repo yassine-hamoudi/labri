@@ -109,6 +109,7 @@
   affiliation: Thalès & Ecole Polytechnique
   title: Adaptive mesh refinement quantum algorithm for Maxwell's equations
   abstract: "Quantum computers hold promise for solving partial differential equations discretized into linear systems using for example the finite element method. However, this method is usually incorporated into a high-level numerical scheme which allows the adaptive refinement of the mesh where it most improves the accuracy of the solution. In this work, we propose to extend adaptive mesh refinement to the quantum formalism. We address the solution of time-harmonic Maxwell’s equations. An important step in the procedure is the computation of error estimators, which guide the refinement. By using block-encoding, we propose a way to compute these estimators with quantum circuits."
+  slides: files/jiq26/JIQ26-Fressart.pdf
 
 - id: 18
   name: Jules Duhamel
