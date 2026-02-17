@@ -94,8 +94,6 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   - Huy Binh Tran (LOMA, Université de Bordeaux) *Alternative Mapping for Density-Functional Theory on a Quantum Computer*
   - Gilles Zémor (IMB, Université de Bordeaux) *Recent Progress on Quantum Error Correction*
 
----
-
 **Posters**
   - Unai Aseguinolaza Aguirreche (Mondragon Goi Eskola Politeknikoa) *Ground-State Estimation via Iterative Krylov Quantum Diagonalization*
   - Aitor Calvo Fernández (University of the Basque Country EHU) *From Wilson's Renormalization Approach to Correlated Impurities on Quantum Circuits*
@@ -115,6 +113,10 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   - Benjamin Tirado Heras (CSIC, UPV/EHU) *Hardware-Aware Quantum Simulation of Collective Dissipative Processes*
   - Xabier Telleria Allika (Mondragon Unibertsitatea) *Training Kernels for QSVMs for Thermodynamic Phase Classification: Assessing Advantages in Scarce Data Regimes*
   - Nonia Vaquero Sabater (DIPC) *Effect of Noise and Configuration Recovery on SQD*
+  - Gabriele Taurasi (IMB, Université de Bordeaux) *Quantum Codes over the Group Algebra of F_2^r*
+  - Santiago Villodre Martinez (DIPC) *Characterizing Mott Insulators in the Interacting One-Body Picture*
+  - Hadi Rammal (LOMA, Université de Bordeaux) *From Classical to Quantum Krylov Approaches at Finite Temperature*
+  - Beñat	Barcina Ruiz (University of the Basque Country) *Describing the Coupling of Quantum Emitters to Nanoresonators through Quantum Computation*
 
 ---
 
