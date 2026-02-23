@@ -117,6 +117,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   - Santiago Villodre Martinez (DIPC) *Characterizing Mott Insulators in the Interacting One-Body Picture*
   - Hadi Rammal (LOMA, Université de Bordeaux) *From Classical to Quantum Krylov Approaches at Finite Temperature*
   - Beñat	Barcina Ruiz (University of the Basque Country) *Describing the Coupling of Quantum Emitters to Nanoresonators through Quantum Computation*
+  - Imanol Ortega Garrues (EHU, DIPC) *Rational Design of Organometallic Fluorescent Complexes*
 
 ---
 
