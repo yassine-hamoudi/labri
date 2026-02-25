@@ -24,7 +24,7 @@ Organisers: [Javier Aizpurua](https://cfm.ehu.es/nanophotonics/), [Matthieu Saub
 
 The meeting will be held at [Hôtel Le Bayonne](https://www.hotel-le-bayonne.com/en/) in downtown Bayonne, France (1.5km from the train station). Location on [Google Maps](https://maps.app.goo.gl/pyNDGbVAEdgr7uS88).
 
-<!-- The dinner will be held at [Bistrot Le Guernika](https://www.bistrotguernika.fr/) (850m from the meeting venue). Location on [Google Maps](https://maps.app.goo.gl/wvfz2rvb2TCN6ayo9). -->
+The dinner will be held at [Kapito Café](https://kapitocafe.fr/) (600m from the meeting venue). Location on [Google Maps](https://maps.app.goo.gl/dSXiMtJQCgtgWjrv7).
 
  <p style="text-align:center; font-size:25px;">
   <a href="https://framaforms.org/2nd-basque-country-bordeaux-quantum-algorithms-meeting-march-24-25-2026-1765536438"
@@ -103,7 +103,6 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   - Raúl Guerrero Avilés (Tecnalia) *Hyperbolic Partial Differential Equations on Quantum Computers*
   - Joaquim Jornet-Somoza (UPV/EHU) *Refining Noise Mitigation in NISQ Hardware Through Qubit Error Probability*
   - Cyrille Kesiku (Universidad de Deusto) *Beyond Quantum Advantage: Toward Aligned Machine Learning Models*
-  - Jon Lasa Alonso (Mondragon Unibertsitatea)
   - Arun John Moncy (DIPC, TECNUN) *Mapping Rotated Surface Codes to 3 × N railway*
   - Lucia	Royo (CFM) *A Single-Qubit Classifier with Nitrogen Vacancy Centers in Diamond*
   - Edison Xavier Salazar quezada (DIPC) *Ab Initio Molecular Dynamics using NOF-VQE on a Real Quantum Computer*
