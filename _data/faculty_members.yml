@@ -12,9 +12,9 @@
 
 - name: Stéphane Dartois
   photo: empty.png
-  info: Professeur junior <br> Starting March 2026
+  info: Professeur junior
   website: https://stephanedartois.com/
-  email: stephane.dartois@polytechnique.edu
+  email: stephane.dartois@labri.fr
   publications: https://arxiv.org/a/0000-0003-1651-3727.html
   type: "faculty"
   number_fields: 0 # <-------------
@@ -49,14 +49,6 @@
   email: adrian.tanasa@labri.fr
   type: "faculty"
   number_fields: 0
-  
-- name: Cyril Gavoille
-  photo: gavoille.jpeg
-  info: Professeur
-  website: https://dept-info.labri.fr/~gavoille/
-  email: gavoille@labri.fr
-  type: "faculty"
-  number_fields: 0
 
 - name: Yvan Le Borgne
   photo: leborgne.jpeg
@@ -66,6 +58,14 @@
   type: "faculty"
   number_fields: 0
 
+- name: Cyril Gavoille
+  photo: gavoille.jpeg
+  info: Professeur
+  website: https://dept-info.labri.fr/~gavoille/
+  email: gavoille@labri.fr
+  type: "faculty"
+  number_fields: 0
+  
 # - name: Jean-François Marckert
 #   photo: marckert.png
 #   info: Directeur de recherche CNRS

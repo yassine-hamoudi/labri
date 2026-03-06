@@ -9,7 +9,7 @@ permalink: /positions/
 <br>
 <!-- #### If you want to work with us as a student or postdoc, send an email to the [group member]({% link _pages/members.md %}) that best fits your interests, and <ins>attach the following information:</ins> a CV, a transcript of records (for student applicants) or list of publications (for postdoc applicants), a dissertation or thesis you made, and the names and email addresses of one or two referees. Postdoc applicants are also strongly encouraged to submit a research statement. -->
 
-#### Contact [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr) if you are interested in applying for one of the next positions.
+#### Contact [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr) or [Stéphane Dartois](mailto:stephane.dartois@labri.fr) if you are interested in applying for one of the next positions.
 
 ### Faculty positions
 
@@ -80,7 +80,7 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
 
 <details markdown=block>
   <summary>
-    ▶︎ Postdoc applications (Deadline: January 23, 2026)
+    ▶︎ Postdoc applications (Rolling deadline)
   </summary>
   <blockquote>
   <!-- A postdoctoral position is available in the [Quantum Information and Computation group](https://quantique.labri.fr) at the CS department of the University of Bordeaux (France). Applications should be submitted by **January 15** for full consideration. -->
@@ -96,7 +96,7 @@ We welcome applicants from all backgrounds and promote a friendly, safe, and sup
 
   <!-- The recruited candidate is expected to start in Fall 2025 (or earlier). The position is for a duration of 24 months, with a net income ranging between €2,100 and €2,500, depending on the candidate's experience. The position includes French social security coverage and employee benefits (health insurance, public transport expenses, paid leave, etc.). We welcome applicants from all backgrounds and promote a friendly, safe, and supportive team environment. -->
 
-  Interested applicants should contact [Yassine Hamoudi](yassine.hamoudi@labri.fr) with the following materials: a CV (including a list of publications), a brief cover letter or research statement, and the names and email addresses of one or two referees.
+  Interested applicants should contact [Yassine Hamoudi](yassine.hamoudi@labri.fr) or [Stéphane Dartois](mailto:stephane.dartois@labri.fr) with the following materials: a CV (including a list of publications), a brief cover letter or research statement, and the names and email addresses of one or two referees.
   </blockquote>
 </details>
 

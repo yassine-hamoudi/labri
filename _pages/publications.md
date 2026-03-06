@@ -1,0 +1,65 @@
+---
+title: "Publications"
+layout: default
+sitemap: false
+permalink: /publications/
+---
+
+# Publications
+<br>
+
+## 2026
+
+**Dequantization Barriers for Guided Stoquastic Hamiltonians**  
+Yassine Hamoudi, Yvan Le Borgne, Shrinidhi Teganahally Sridhara  
+*Preprint (2026).*  
+[[arXiv]](https://arxiv.org/abs/2602.23183)
+
+## 2025
+
+**A Brief Introduction to Quantum Query Complexity**  
+Yassine Hamoudi  
+*Preprint (2025).*  
+[[arXiv]](https://arxiv.org/abs/2508.08852)
+
+**Quantum Speedup of Non-Linear Monte Carlo Problems**  
+Jose Blanchet, Yassine Hamoudi, Mario Szegedy, Guanyang Wang  
+*Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025).*  
+[[arXiv]](https://arxiv.org/abs/2502.05094)
+
+**Universal Graph Theory Operations for Graph State Preparation**  
+Tristan Cam, Cyril Gavoille, Yvan Le Borgne and Simon Martiel  
+*Proceedings of the 17th Conference on Reversible Computation (RC 2025).*  
+[[HAL]](https://u-bordeaux.hal.science/UNIV-BORDEAUX/hal-05133697) [[Conference]](https://link.springer.com/chapter/10.1007/978-3-031-97063-4_5)
+
+**Faster Algorithms for Graph Monopolarity**  
+Geevarghese Philip and Shrinidhi Teganahally Sridhara  
+*Proceedings of the 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2025).*  
+[[arXiv]](https://arxiv.org/abs/2410.06337) [[Conference]](https://dl.acm.org/doi/10.1007/978-3-032-11835-6_30)
+
+## 2024 
+
+**Uncertainty Relations from State Polynomial Optimization**  
+Moisés Bermejo Morán and Felix Huber  
+*Physical Review Letters, vol. 132, p. 200202 (2024).*  
+[[arXiv]](https://arxiv.org/abs/2310.00612) [[Journal]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.200202)
+
+**Engineering Holography with Stabilizer Graph Codes**  
+Gerard Anglès Munné, Valentin Kasper and Felix Huber  
+*npj Quantum Information, vol. 10, p. 48 (2024).*  
+[[arXiv]](https://arxiv.org/abs/2209.08954) [[Journal]](https://doi.org/10.1038/s41534-024-00822-z)
+
+**Positive Maps from the Walled Brauer Algebra**  
+Maria Balanzó-Juandó, Michał Studziński and Felix Huber  
+*Journal of Physics A: Mathematical and Theoretical, vol. 57, p. 115202 (2024).*  
+[[arXiv]](https://arxiv.org/abs/2112.12738) [[Journal]](https://iopscience.iop.org/article/10.1088/1751-8121/ad2b86)
+
+**Entanglement Detection with Trace Polynomials**  
+Albert Rico and Felix Huber  
+*Physical Review Letters, vol. 132, p. 070202 (2024).*  
+[[arXiv]](https://arxiv.org/abs/2303.07761) [[Journal]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.070202)
+
+**The NISQ Complexity of Collision Finding**  
+Yassine Hamoudi, Qipeng Liu, Makrand Sinha  
+*Proceedings of the 43rd International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT 2024).*  
+[[arXiv]](https://arxiv.org/abs/2211.12954) [[Conference]](https://doi.org/10.1007/978-3-031-58737-5_1)

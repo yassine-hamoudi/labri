@@ -18,6 +18,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Événements soutenus</p>
 
+- International Autumn School in Quantum Algorithms for many-body problems (6 - 7 octobre 2026) : [Informations](https://www.cecam.org/workshop-details/international-autumn-school-in-quantum-algorithms-for-many-body-problems-iasqa-1521)
 - Réunion Bordeaux - Pays basque sur les algorithmes quantiques, 2e édition (24 - 25 mars 2026) : [Informations]({% link _pages/bayonne2026.md %})
 - Journées Informatique Quantique (15 - 16 janvier 2026) : [Informations]({% link _pages/jiq2026.md %})
 - Ecole d'été du CEMRACS (15 juillet - 22 août 2025) : [Informations](https://cemracs2025.math.cnrs.fr/en/)
@@ -28,7 +29,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Offres d'emplois</p>
 
-- **Ingénieur de recherche :** [Fiche de poste]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-ir.pdf)
+<!-- - **Ingénieur de recherche :** [Fiche de poste]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-ir.pdf) -->
 - **Chercheur postdoctoral :** [Informations]({{ site.url }}{{ site.baseurl }}/positions/)
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Contacts</p>
@@ -36,6 +37,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 - **Coordinateur du projet :** Yassine Hamoudi ([yassine.hamoudi@labri.fr](mailto:yassine.hamoudi@labri.fr))
 - **Coordinateur adjoint :** Adrian Tanasa ([adrian.tanasa@labri.fr](mailto:adrian.tanasa@labri.fr))
 - **Coordinatrice initiative régionale - Naquidis :** Audrey Durand ([audrey.durand@institutoptique.fr](mailto:audrey.durand@institutoptique.fr))
+- **Ingénieur de recherche :** Karim El Houdaigui
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Partenaires</p>
 

@@ -1,0 +1,32 @@
+{% assign number_printed = 0 %}
+{% for member in site.data.engineer_members %}
+{% if member.type == typeMember %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <a href="{{ member.website }}">Website</a>&nbsp;&nbsp;&nbsp;<a href="mailto:{{ member.email }}">Email</a>
+  <!-- <i>{{ member.info }}</i><br> -->
+  <!-- Started {{ member.start_date | date:"%B %Y" }}  -->
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+{% endif %}
+
+{% endfor %}
+
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
