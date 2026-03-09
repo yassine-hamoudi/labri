@@ -12,6 +12,7 @@
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
+  <a href="{{ member.website }}">Website</a>&nbsp;&nbsp;&nbsp;<a href="mailto:{{ member.email }}">Email</a><br>
   <!-- Started {{ member.start_date | date:"%B %Y" }}  -->
 </div>
 

@@ -21,7 +21,6 @@ permalink: /members/
 {% assign typeMember = 'postdoc' %}
 {% include print_postdoc.md %}
 
-
 ## Students
 {% assign typeMember = 'student' %}
 {% include print_student.md %}

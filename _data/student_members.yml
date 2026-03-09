@@ -4,7 +4,9 @@
   info: PhD student
   affiliation: IBM, Université de Bordeaux
   level: PhD
-  email: trist224@gmail.com
+  funding: CIFRE
+  website: https://www.linkedin.com/in/tristan-cam-913a6a259
+  email: tristan.cam@u-bordeaux.fr
   supervisor: Cyril Gavoille, Yvan Le Borgne
   start_date: 2024-03-21
   end_date: ...
@@ -16,7 +18,9 @@
   info: PhD student
   affiliation: Université de Bordeaux
   level: PhD
-  email: shrinidhits1208@gmail.com
+  funding: 
+  website: https://shrinidhits.bitbucket.io/
+  email: shrinidhi.teganahally-sridhara@u-bordeaux.fr
   supervisor: Yassine Hamoudi, Adrian Tanasa
   start_date: 2024-10-01
   end_date: ...
@@ -28,7 +32,9 @@
   info: PhD student
   affiliation: Université de Bordeaux, Laboratoire de Physique Théorique de Toulouse
   level: PhD
-  email: gian.luca.spitzer@rwth-aachen.de
+  funding: 
+  website: https://gian-luca.omg.lol/
+  email: gian-luca.spitzer@labri.fr
   supervisor: Adrian Tanasa, Ion Nechita
   start_date: 2024-12-01
   end_date: ...
@@ -40,6 +46,8 @@
   info: PhD student
   affiliation: Université de Bordeaux
   level: PhD
+  funding: 
+  website: https://www.labri.fr/profil/Bardy_ID1743085762
   email: gaetan.bardy@u-bordeaux.fr
   supervisor: Adrian Tanasa
   start_date: 2025-04-01
