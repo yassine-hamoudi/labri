@@ -82,10 +82,10 @@
   type: "faculty"
   number_fields: 0
 
-- name: Géraud Sénizergues
-  photo: senizergues.jpeg
-  info: Professeur émérite
-  website: https://dept-info.labri.fr/~ges/
-  email: geraud.senizergues@u-bordeaux.fr
-  type: "faculty"
-  number_fields: 0
+# - name: Géraud Sénizergues
+#   photo: senizergues.jpeg
+#   info: Professeur émérite
+#   website: https://dept-info.labri.fr/~ges/
+#   email: geraud.senizergues@u-bordeaux.fr
+#   type: "faculty"
+#   number_fields: 0
