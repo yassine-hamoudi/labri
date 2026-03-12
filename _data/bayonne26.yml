@@ -1,0 +1,155 @@
+- id: 1
+  name: Román Orús
+  affiliation: Multiverse Computing - Scientific Director
+  title: TBA
+  abstract:
+
+- id: 2
+  name: Tristan Cam
+  affiliation: LaBRI, Université de Bordeaux, IBM
+  title: On the Rank-Width of the Hypercube and Its Application to Quantum State Preparation
+  abstract: "The rank-width of a graph is intrinsically linked to the entanglement of its corresponding graph state.  In this work, we present groundbreaking results on deterministic graph state preparation. We introduce a novel method for establishing lower bounds on the rank-width of regular graphs, including hypercubes, Hamming graphs, and Cayley graphs. We develop a general method to derive rank-width bounds from the edge expansion of a graph. Our  findings reveal  the  first  deterministic  family  of  graphs  on n  vertices  with a provably high rank-width of n*loglog(n)/log(n) (nearly maximal entropy), surpassing the previous √n bound.  This breakthrough enables the preparation of nearly maximally entangled graph states in logarithmic depth, paving the way for practical quantum advantage experiments."
+
+- id: 3
+  name: Simon Martiel
+  affiliation: IBM Quantum
+  title: Large-Scale Rotated Graph State Sampling
+  abstract: "Designing verifiable quantum advantage experiments is a challenging task. Sampling rotated graph states presenting high entanglement is a known hard problem for classical computers. In this talk, we present an experiment design that attempts to solve this problem with a noisy quantum computer while ensuring (1) practical hardness of the solved instances and (2) good result fidelity."
+
+- id: 4
+  name: Javier Oliva del Moral
+  affiliation: Tecnun, DIPC
+  title: Noise mitigation of quantum observables via learning from Hamiltonian symmetry decays
+  abstract: "We present a new quantum error mitigation technique (QEM), called Learning from Symmetry Decays (LSD), which exploits Hamiltonian symmetries to improve accuracy in noisy quantum computations. This method is explicitly designed for time evolution using Trotter circuits and consists in learning the extrapolation coefficients from a symmetry observable of the system to then estimate the value of a target observable. Furthermore, we propose a Hamiltonian impurity technique to enforce symmetries allowing the mitigation of local observables of interest. We employ the IBM Heron r2 quantum processing unit ibm_basquecountry to simulate the time evolution of average magnetization and nearest-neighbor correlator observables for transverse field Ising and anisotropic Heisenberg models in 1D with open boundary conditions. We benchmark the accuracy of our method against baseline Zero Noise Extrapolation (ZNE) and tensor network simulations for systems of $100$ qubits. Remarkably, LSD achieves a relative error below 10% for circuits containing up to $8000$ CZ gates, while showcasing lower variance than ZNE on average across $20$ observables and requiring only twice the number of shots per observable compared to baseline ZNE. Furthermore, we demonstrate that LSD enables statistical post-selection based on the outcomes of the symmetry observable, which provides critical information about the quality of the target qubits by means of its mean and variance. These results indicate that LSD is a powerful QEM technique capable of mitigating utility-scale circuit outcomes, delivering high accuracy and reduced variance for large-scale circuits with minimal quantum overhead."
+
+- id: 5
+  name: Andrei Kardashin
+  affiliation: DIPC
+  title: On Measurement-Dependent Variance in Quantum Neural Networks
+  abstract: "Variational quantum circuits have become a widely used tool for performing quantum machine learning (QML) tasks on labeled quantum states. In some specific tasks or for specific variational ansätze, one may perform measurements on a restricted part of the overall input state. This is the case for, e.g., quantum convolutional neural networks (QCNNs), where after each layer of the circuit a subset of qubits of the processed state is measured or traced out, and at the end of the network one typically measures a local observable. In this work, we demonstrate that measuring observables with restricted support results in larger label prediction variance in regression QML tasks. We show that the reason for this is, essentially, the number of distinct eigenvalues of the observable one measures after the application of a variational circuit."
+
+- id: 6
+  name: Gilles Zémor
+  affiliation: IMB, Université de Bordeaux
+  title: Recent Progress on Quantum Error Correction
+  abstract: "The last few years have seen a dramatic shift in our understanding of quantum LDPC codes. A series of breakthrough papers first constructed asymptotic families of LDPC codes with minimum distances that scaled significantly above the square root of the block length, a barrier for more than 20 years, and then culminated in the construction of asymptotically good quantum LDPC codes. We shall review and comment on some of these constructions and the underlying modern concepts that they brought about."
+
+- id: 7
+  name: Reza Dastbasteh
+  affiliation: Tecnun, Universidad de Navarra
+  title: "From Doubling to Fault-Tolerant Code Switching: Implementing Logical Z-Rotations in Quantum Error-Correcting Codes"
+  abstract: "This talk presents two ongoing research projects, including a collaborative work between institutes in the Basque Country and Bordeaux. In recent years, a central focus in quantum computing has been the demonstration of various aspects of fault-tolerant (FT) computation. In this talk, we review one of the most resource-intensive tasks in the field: the realization of a universal set of FT logical gates on quantum error-correcting codes (QECCs). We discuss the implementation of universal logical gate sets using transversal gates and FT code-switching protocols [1, 2, 3]. The latter approach utilizes pairs of QECCs with complementary sets of FT logical operators, allowing operations to be “transferred” between codes to achieve universality. We extend the class of codes supporting these schemes by designing new QECCs that preserve the codes’ underlying geometric structure. Additionally, for each k ≥ 2, we introduce a new family of QECCs that admits a transversal implementation of π/2k Z-rotation gates belonging to the k-th level of the Clifford hierarchy. This family generalizes the well-known quantum H codes [4] and the [[3r + 8, r, 2]] triorthogonal codes [5]. These codes enable the FT implementation of non-Clifford Z-rotations, key primitive gates in quantum algorithms such as Grover’s search, Shor’s algorithm, and Trotterized simulations of many-body systems. Our results suggest a path toward more resource-efficient implementations of quantum algorithms in the near future. This is a joint work with: Josu Etxezarreta Martinez, Pedro M Crespo, Elena Berardini, and Ruben M Otxoa."
+
+- id: 8
+  name: Nina O’Neill
+  affiliation: Basque Center for Applied Mathematics
+  title: "Quantum Algorithms for Nonlinear PDEs: Carleman vs. Kolmogorov Embedding"
+  abstract: "From weather prediction to financial modeling to traffic flow, many relevant everyday problems are governed by nonlinear partial differential equations (PDEs). Classical methods for solving nonlinear PDEs can be computationally demanding, motivating the exploration of quantum approaches. One prominent line of work uses Carleman embedding to linearize nonlinear PDEs and make them amenable to Harrow–Hassidim–Lloyd (HHL)–style quantum algorithms [Liu et al., 2021]. More recently, Bravyi et al. proposed an alternative quantum algorithm for simulating stochastic, dissipative nonlinear dynamics using Kolmogorov embedding [Bravyi et al., 2025]. In this work, we compare these two approaches, analyzing their regimes of applicability, resource demands, and performance on the viscous Burgers’ equation."
+
+- id: 9
+  name: Daniel Isla
+  affiliation: University of the Basque Country
+  title: Quantum Algorithms for PDEs
+  abstract: "Quantum algorithms based on Carleman linearization provide a promising approach to solving nonlinear partial differential equations by embedding them into high-dimensional linear systems amenable to quantum linear solvers. In order for this protocol to be efficient, [PNAS, 26 Aug 2021] (https://doi.org/10.1073/pnas.2026805118) established a condition in terms of the parameters of the numerical discretization. However, the restrictions imposed on these parameters may become impossible to satisfy as the discretization is refined. In particular, in fluid dynamics this implies that resolving Kolmogorov scales is not feasible for large Reynolds numbers [Physical Review Research, 2025-06-12] (https://doi.org/10.1103/PhysRevResearch.7.023254). In order to overcome these limitations, we build on the results of [PNAS, 26 Aug 2021] and show how these restrictions can be addressed by formulating the error analysis at the continuous level. Under certain conditions (Javier Gonzalez-Conde et al., 2026) authors proved boundedness of the Sobolev norm at the continuous level. From this result, we relate the Sobolev norm with the discrete l2 norm and establish a truncation strategy, leading to a more global and robust definition of the truncation error."
+
+- id: 10
+  name: Nicolás Lorente
+  affiliation: CFM
+  title: Quantum Batteries Based on Time Crystals
+  abstract: "Quantum batteries are quantum many-body systems designed to store and release energy. Most existing proposals are based on static Hamiltonians and continuous driving fields, where charging relies on Rabi-type dynamics. In these schemes, the stored energy is often sensitive to imperfections and tends to degrade due to heating. In this talk, I will present a different approach, where Floquet time-crystalline phases are used to stabilize a quantum battery. The focus will be on driven XXZ spin chains subject to periodic global rotations. This stroboscopic driving defines a Floquet quantum battery, where energy is injected in a controlled way at each driving period. In the prethermal discrete time-crystal regime, the system shows a robust subharmonic response and the presence of emergent quasi-conserved quantities. As a result, heating is strongly suppressed for long times. This allows fast charging, driven by many-body interactions and entanglement growth, while the stored energy remains stable. Importantly, this mechanism does not require many-body localization, which would otherwise slow down the charging process. I will discuss how the charging power and the stability of the stored energy depend on the dynamical regime of the system, ranging from ergodic to prethermal and localized phases. I will also show how these effects can be characterized using energy observables and quantum information measures. Finally, I will briefly discuss how such time-crystal-based quantum batteries can be implemented and tested on current NISQ quantum processors."
+
+- id: 11
+  name: Huy Binh Tran
+  affiliation: LOMA, Université de Bordeaux
+  title: Alternative Mapping for Density-Functional Theory on a Quantum Computer
+  abstract: "The success of density functional theory (DFT) stems in part from its ability to map the interacting many-electron problem onto an effective non-interacting system governed by a density-dependent potential. This mapping, formalized through the Kohn-Sham (KS) scheme, provides an efficient framework for solving the variational problem established by the Hohenberg-Kohn theorems. While the KS approach was historically motivated by the computational constraints of the mid-20th century, the growth of high-performance computing (HPC) resources coupled with the emergence of quantum architechtures open the door to alternative mappings. These could leverage modern computational power to go beyond the free-electron paradigm, offering more flexible or accurate auxiliary problems tailored to contemporary hardware."
+
+- id: 12
+  name: Yann Pouillon
+  affiliation: CIC nanoGUNE
+  title: "QCOMP4DFT: From VQE to FTQC in Hybrid Electronic Structure Calculations"
+  abstract: "Density Functional Theory (DFT) struggles with electronic structure problems involving strongly-correlated electrons, a domain where quantum computing holds a significant long-term advantage. To address this, we have been developing the SIESTA-QCOMP software suite to embed quantum computing methodologies within classical DFT calculations performed with SIESTA. This hybrid approach aims to overcome the limitations of DFT for large-scale simulations of molecules and periodic systems containing strongly-correlated electrons. The path to practical quantum advantage requires a robust interface between established classical methods and emerging quantum algorithms. This presentation introduces QCOMP4DFT, a long-term initiative to build a unified, open-source ecosystem for hybrid electronic structure calculations. Our pilot implementation, SIESTA-QCOMP, demonstrates this capability by integrating the SIESTA DFT code with community-standard quantum algorithms (such as VQE, SQD, and SqDRIFT) to resolve strongly correlated states in large systems. One key aspiration of this framework is to serve as a bridge, allowing to fast-track the application of new algorithms to realistic chemical environments beyond simple models. We are currently testing these workflows on challenging test cases, including porphyrins, deployed on emerging hybrid HPC-Quantum architectures. Furthermore, we are devising a strategy to streamline these workflows across multiple DFT codes — starting with BigDFT and CP2K — to ensure resilience during the transition from Near-term Intermediate-Scale Quantum (NISQ) devices to Fault-Tolerant Quantum Computing (FTQC). By combining the scalability of DFT with the high accuracy of future quantum architectures, we aim to define a new standard for simulating complex materials."
+
+- id: 13
+  name: Oumaya Ladhari
+  affiliation: LOMA, Université de Bordeaux
+  title: Adaptive Variational Quantum Algorithms for Molecular Ground States
+  abstract: "Variational Quantum Algorithms (VQAs) are among the most promising approaches for near-term quantum simulations of molecular systems. In this work, we study the performance of the Variational Quantum Eigensolver (VQE) and adaptive variants, including ADAPT-VQE and K-ADAPT-VQE, for estimating molecular ground-state energies. Using chemistry-inspired ansätze based on unitary coupled-cluster theory, we benchmark these algorithms on small molecular systems such as LiH, BeH₂, and N₂ across different bond lengths. This work highlights the potential of adaptive VQAs for scalable quantum chemistry simulations and motivates their application to larger molecular systems."
+
+- id: 14
+  name: Joseph Mikael
+  affiliation: Quobly - VP Quantum Solutions
+  title: Silicon Spin Qubits and the Need for Industry
+  abstract:
+
+- id: 15
+  name: Rubén M. Otxoa de Zuazola
+  affiliation: Hitachi–Cambridge Laboratory, DIPC
+  title: Mapping of QEC Codes in Restricted Geometries for Spin-Qubit-Based Technologies
+  abstract: "Different quantum technologies have made substantial progress in the race for realizing the first  Quantum Computer such as cold atoms, superconducting qubits. Qubits based on charge particles’ degree of freedom has resulted as a solid contender for building a large-scale Quantum computer [1,2]. Potential scalability [3], fast operation [4] and foundries [5] with decades of experience in semiconductors physics are some of the benefits of this promising technology. However, the realization of a two-dimensional architecture layout poses several challenges in terms of wiring congestion, power dissipation and classical electronics embedding. A promising alternative lies as a short-term realization lies in architectures where the dimensionality of the system is highly restricted. Despite the fact of the inherent limitations, we propose an architecture which contains the minimum building blocks of a spin-based fault-tolerant-quantum-computer. In this contributed talk, we present an optimized mapping of some conventional quantum-error-correction codes in terms of spin-qubit shuttling [6,7] instances and avoidance of error propagation. Moreover, we propose protocols for performing operation among embedded logical qubits under the same restricted geometry."
+
+- id: 16
+  name: Abel Carreras
+  affiliation: DIPC
+  title: Practical Implementation of Subspace Quantum Diagonalization for Quantum Chemistry
+  abstract: "Subspace Quantum Diagonalization (SQD) is one of the current leading quantum algorithms for quantum chemistry. By combining quantum state preparation with classical post-processing, SQD enables the extraction of low-energy spectra from a reduced subspace spanned by quantum-generated states. Although its practical quantum hardware usage is relatively modest, the method exhibits a very favorable scaling with the number of qubits, making it particularly attractive for the study of larger molecular systems. Despite the conceptual simplicity of the algorithm, its practical performance and scalability is strongly determined by crucial implementation details, including the strategy for configuration recovery and the choice of the ansatz used to generate the subspace. In this talk, I will introduce the SQD method and describe in detail its implementation on the DIPC high-performance computing cluster. I will discuss the techniques employed for subspace construction and diagonalization, as well as the strategies adopted to improve robustness. Furthermore, I will also analyze the main limitations of the approach, and illustrate its performance through representative applications to molecular systems."
+
+- id: 17
+  name: Alexandre Perrin
+  affiliation: LOMA, Université de Bordeaux
+  title: Variational Construction of Quantum Subspace
+  abstract: "The accurate determination of low-energy eigenstates in strongly correlated quantum systems is a long-standing challenge in quantum chemistry and condensed matter physics, as classical methods face exponential scaling with system size. Hybrid quantum-classical strategies have emerged as practical alternatives for noisy intermediate-scale quantum (NISQ) devices, but they often suffer from either deep circuit requirements or large measurement overheads. In this work, we introduce the Variational Quantum Subspace Method (VQSM), a variational approach that combines the efficiency of symmetry-preserving cost functions with the robustness of subspace diagonalization. The method iteratively generates variational trial states that span an orthonormal reduced subspace, within which the Hamiltonian is classically diagonalized to extract ground and low-lying excited-state properties. By construction, the symmetry-preserving cost functions ensure that only states within the targeted quantum-number sector contribute to the optimization, allowing the use of shallow hardware-efficient ansätze without sacrificing accuracy. Furthermore, the iterative subspace expansion naturally leads to a tridiagonal structure reminiscent of Lanczos-based approaches, enabling fast geometric convergence toward the dominant eigenvalues."
+
+- id: 18
+  name: Enrique Rico Ortega
+  affiliation: CERN, Ikerbasque, EHU, DIPC
+  title: Quantum Simulation of Lattice Gauge Theories Using Superconducting Circuits
+  abstract: "Superconducting circuits offer a promising platform for the simulation of quantum systems, particularly lattice gauge theories. This talk explores key research contributions in the field, showcasing methodologies for simulating dynamical gauge fields, non-Abelian theories, and real-time dynamics. Emphasis will be placed on the architectures of superconducting quantum circuits and their efficacy in modeling complex quantum phenomena. Selected results, including loops and strings in gauge theories, will illustrate how superconducting circuits can deepen our understanding of quantum field theories."
+
+- id: 19
+  name: Bárbara Andrade
+  affiliation: LaBRI, Université de Bordeaux
+  title: Scalar Field Theory on Quantum Computers
+  abstract: "In this project, we are interested in quantum simulations of scattering processes in scalar field theories, such as phi-4, based on the Jordan-Lee-Preskill strategy described in [1-2], and more recently applied in [3-4]. The basic idea is that wave packets in the interacting theory can be adiabatically obtained from the free theory wave packets through a series of evolving and counter-evolving operations while slowly changing the interaction parameter. Real-time evolution is then implemented as usual using trotterization , and the final state is measured after adiabatically going back to the free theory basis. Finding efficient methods for quantum simulations of the phi-4 scalar field theory is actually quite a general problem that can be regarded as a way to demonstrate quantum advantage [5]."
+
+- id: 20
+  name: Juan Borge
+  affiliation: EHU/UPV
+  title: Fractional Quantum Hall States with Quantum Computing
+  abstract: "We present a study of fractional quantum Hall (FQH) states obtained from interacting hamiltonians using the variational quantum eigensolver (VQE) implemented on real quantum hardware. By encoding the many-body Hamiltonians relevant to the FQH effect into qubit representations, we employ parameterized quantum circuits to approximate ground-state wavefunctions through hybrid quantum–classical optimization. Our approach lays the groundwork for the preparation and characterization of correlated topological states and points toward simulations beyond the reach of exact diagonalization for larger system sizes. We analyze the accuracy of the VQE results in comparison with classical benchmarks and assess the impact of hardware noise, circuit depth, and ansatz choice on the fidelity of the reconstructed FQH states. These results demonstrate the feasibility of using near-term quantum computers to simulate strongly correlated electron systems and provide a pathway toward scalable quantum simulations of topological phases of matter."
+
+- id: 21
+  name: Gaétan Bardy 
+  affiliation: LaBRI, Université de Bordeaux
+  title: Quantum Krylov Methods for Scalar Field Theory
+  abstract: "Quantum Field Theories (QFTs) describe fundamental physics from particle interactions to condensed matter phenomena. Their simulation remains computationally challenging using classical methods. In this talk, I will introduce a quantum algorithmic framework for simulating QFTs on quantum computers using Krylov subspace methods. I will explain this approach in the case of the 1+1 dimensional phi^4 scalar field theory, the simplest non-trivial example of an interacting QFT. The discussion will focus on two implementation challenges: (1) discretizing the infinite-dimensional Hilbert space through appropriate field and momentum cutoffs, and (2) encoding bosonic field degrees of freedom on qubits."
+
+- id: 22
+  name: Josu Etxezarreta Martinez 
+  affiliation: Tecnun, Universidad de Navarra
+  title: Decoding with Alternating Weighted Graph Sparsification for Quantum Low-Density Parity-Check Codes
+  abstract: "Real-time decoding is a fundamental necessity for building fault-tolerant quantum computers. In this work, we introduce decoding with alternating graph sparsification (DAWG), an ensemble based approach that combines Tanner graph sparsification with ensembling belief-propagation (BP) decoders. The DAWG decoder runs BP decoders over the full detector error model Tanner graph for certain iterations to then transfer the posteriors to a sparsified graph in which additional rounds of BP are run. Each of the decoders in the ensemble uses a different transfer matrix to map the posterior information to the sparsified graph. We use the serial schedule for the minimum-sum BP decoders used and, thus, employ Vibe decoding ideas by randomizing the schedules of each of them. The performance of the DAWG decoder is then numerically studied for bivariate bicycle codes and compared with other state-of-the-art decoding approaches showing the superiority of our proposal. Importantly, the DAWG decoder shows a similar performance as Relay belief-propagation when both are run over uncorrelated detector error models and beats it when combined with additional post-processors. Crucially, the post-processors are called a negligible amount of time for relevant physical error rates, indicating that the introduced latency by them is not an issue to overcome the backlog problem."
+
+- id: 23
+  name: Eduardo Camps
+  affiliation: IMB, Université de Bordeaux
+  title: Transversal Gates of CSS Codes
+  abstract: "We compute the set of transversal diagonal gates of CSS codes. By observing the action of a diagonal gate on a basis of the CSS code, we can deduce conditions based on the code on a module in the integers modulo N. From there, computing the transversal gates corresponds to compute the dual (as a code of a ring) of this new module. This characterization allows us to recover some known facts about triorthogonal and CSS-T codes. We will exemplify our work using monomial codes."
+
+- id: 24
+  name: Ruben Esteban
+  affiliation: UPV/EHU
+  title: Quantum Experiments of Collective Rabi Oscillations
+  abstract: "Rabi oscillations are the consequence of the interchange of energy between quantum emitters and a nearby optical resonator, or, more generally, between two-level excitations and a bosonic mode. The resulting dynamics can be obtained easily for the case of a single emitter, but the Hilbert space explodes as the number of emitters increase, which makes quantum computing an attractive alternative to classical simulations of these systems. We implement a quantum circuit to solve the Tavis-Cummings Hamiltonian that describes the resonator-emitters coupling. We discuss how to map the optical bosonic mode into qubits, and how to adapt the circuit to the topology of IBM's quantum computer, so that the two-qubit depth is minimized. Quantum experiments demonstrate clear Rabi oscillations for up to 7 quantum emitters, and a pronounced improvement is achieved through a mitigation technique that is tailored to the chosen bosonic mapping. Further, the circuit presents favorable scaling (linear with number of emitters and Trotter steps), and thus the number of emitters that can be included will benefit strongly from the fast advances in quantum computing."
+
+- id: 25
+  name: Shrinidhi Teganahally Sridhara
+  affiliation: LaBRI, Université de Bordeaux
+  title: Dequantization Barriers for Guided Stoquastic Hamiltonians
+  abstract: "Stoquastic Hamiltonians form an important class of quantum Hamiltonians, with applications to combinatorial optimization, analog computation, and adiabatic algorithms. The absence of a sign problem makes stoquastic Hamiltonians particularly amenable to classical simulation and dequantization techniques. Many such approaches rely on the availability of a guiding state, that is, a state with non-negligible overlap with the true ground state. This raises a fundamental question: can a suitably chosen guiding state always suffice to dequantize the preparation of stoquastic ground states? We answer this question in the negative by constructing a family of stoquastic Hamiltonians, represented as adjacency matrices of carefully designed graphs, for which classical algorithms cannot efficiently sample from the ground-state distribution -- even given the optimal guiding state. Our graphs are built from a certain type of high-girth spectral expanders, to which self-similar trees are attached. This builds on and extends prior work of Gilyén, Hastings, and Vazirani [Quantum 2021, STOC 2021], which ruled out dequantization for a specific stoquastic adiabatic path. We strengthen their result by ruling out any classical algorithm for guided ground-state preparation, while also providing a derandomized construction."
+
+- id: 26
+  name: Ángel Rodríguez Alcaraz
+  affiliation: MPC
+  title: Discrete Time Crystals with Anisotropic Heisenberg Coupling
+  abstract: "Discrete Time Crystals (DTCs) are an emergent, out-of-equilibrium phase of matter that arises when discrete time-translation symmetry is spontaneously broken in either time-independent or periodically driven quantum many-body systems. While prior research has primarily focused on one-dimensional models with Ising-like couplings due to the computational challenges of simulating these systems, this focus has provided only limited insight into whether DTCs can exist in systems with more realistic, complex interactions. In this work, by combining IBM's Heron quantum processor with state-of-the-art tensor network methods, we demonstrate the existence of a DTC in systems governed by anisotropic Heisenberg interactions. We also study the rich phase diagram encompassing spin-glass, ergodic, and time-crystalline phases, highlighting the tunability of these phases through multiple control parameters."
