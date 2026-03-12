@@ -1,12 +1,17 @@
-- name: Arnaud Casteigts
-  location: LaBRI
-  website: https://arnaudcasteigts.net/
-  field:
-
 - name: Jean-François Marckert
   location: LaBRI
   website: https://www.labri.fr/perso/marckert/
   field:
+
+- name: Géraud Sénizergues
+  location: LaBRI
+  website: https://dept-info.labri.fr/~ges/
+  field:
+
+# - name: Arnaud Casteigts
+#   location: LaBRI
+#   website: https://arnaudcasteigts.net/
+#   field:
 
 - name: Matthieu Saubanère
   location: LOMA
