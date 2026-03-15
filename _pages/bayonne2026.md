@@ -36,20 +36,19 @@ The dinner will be held at [Kapito Café](https://kapitocafe.fr/) (600m from the
 
 Registration is required to participate in the event. If you are not affiliated with one of the sponsors below, please contact us before registering. Participation and accommodation are <b>free of charge</b>, including one night's stay at the hotel, breakfast on the 25th, lunch breaks on the 24th and 25th, and dinner on the 24th. Transportation costs are the responsibility of the participants.
 
-<p style="text-align:center; font-size:30px; font-weight:bold;">Preliminary Program</p>
+<p style="text-align:center; font-size:30px; font-weight:bold;">Program</p>
 
 All events (except dinner) will be held at Hôtel Le Bayonne.
 
 **Tuesday, 24 March**
 
-- **10:00 - 10:30**: <span style="color: #D50032;">Welcome Coffee</span>
-- {% include print_talk.md data='bayonne26' id=1 time='**10:30 - 11:15 <span style="color:rgb(23, 42, 213);">(Opening Talk)</span>**' %}
-- **11:15 - 12:35**:
-  - {% include print_talk.md data='bayonne26' id=2 time='11:15 - 11:35' %}
-  - {% include print_talk.md data='bayonne26' id=3 time='11:35 - 11:55' %}
-  - {% include print_talk.md data='bayonne26' id=4 time='11:55 - 12:15' %}
-  - {% include print_talk.md data='bayonne26' id=5 time='12:15 - 12:35' %}
-- **12:35 - 14:00**: <span style="color: #D50032;">Lunch Break</span>
+- **10:00 - 10:45**: <span style="color: #D50032;">Welcome Coffee</span>
+- {% include print_talk.md data='bayonne26' id=1 time='**10:45 - 11:30 <span style="color:rgb(23, 42, 213);">(Opening Talk)</span>**' %}
+- **11:30 - 12:30**:
+  - {% include print_talk.md data='bayonne26' id=2 time='11:30 - 11:50' %}
+  - {% include print_talk.md data='bayonne26' id=3 time='11:50 - 12:10' %}
+  - {% include print_talk.md data='bayonne26' id=25 time='12:10 - 12:30' %}
+- **12:30 - 14:00**: <span style="color: #D50032;">Lunch Break</span>
 - **14:00 - 15:30**:
   - {% include print_talk.md data='bayonne26' id=6 time='14:00 - 14:30' %}
   - {% include print_talk.md data='bayonne26' id=7 time='14:30 - 14:50' %}
@@ -62,31 +61,32 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   - {% include print_talk.md data='bayonne26' id=12 time='16:50 - 17:10' %}
   - {% include print_talk.md data='bayonne26' id=13 time='17:10 - 17:30' %}
 - **17:30 - 19:00**: **<span style="color:rgb(23, 42, 213);">Poster session</span>**
-- **20:00**: <span style="color: #D50032;">Dinner</span>
+- **20:00**: <span style="color: #D50032;">Dinner at Kapito Café</span>
 
 ---
 
 **Wednesday, 25 March**
 
-- **7:00 - 9:00**: <span style="color: #D50032;">Breakfast</span>
-- {% include print_talk.md data='bayonne26' id=14 time='**9:00 - 9:45 <span style="color:rgb(23, 42, 213);">(Opening Talk)</span>**' %}
-- **9:45 - 10:45**: 
-  - {% include print_talk.md data='bayonne26' id=15 time='9:45 - 10:05' %}
-  - {% include print_talk.md data='bayonne26' id=16 time='10:05 - 10:25' %}
-  - {% include print_talk.md data='bayonne26' id=17 time='10:25 - 10:45' %}
-- **10:45 - 11:10**: <span style="color: #D50032;">Coffee Break</span>
-- **11:10 - 12:40**: 
-  - {% include print_talk.md data='bayonne26' id=18 time='11:10 - 11:40' %}
-  - {% include print_talk.md data='bayonne26' id=19 time='11:40 - 12:00' %}
-  - {% include print_talk.md data='bayonne26' id=20 time='12:00 - 12:20' %}
-  - {% include print_talk.md data='bayonne26' id=21 time='12:20 - 12:40' %}
-- **12:40 - 14:10**: <span style="color: #D50032;">Lunch Break</span>
+- **7:00 - 8:45**: <span style="color: #D50032;">Breakfast</span>
+- {% include print_talk.md data='bayonne26' id=14 time='**8:45 - 9:30 <span style="color:rgb(23, 42, 213);">(Opening Talk)</span>**' %}
+- **9:30 - 10:30**: 
+  - {% include print_talk.md data='bayonne26' id=15 time='9:30 - 9:50' %}
+  - {% include print_talk.md data='bayonne26' id=16 time='9:50 - 10:10' %}
+  - {% include print_talk.md data='bayonne26' id=17 time='10:10 - 10:30' %}
+- **10:30 - 11:00**: <span style="color: #D50032;">Coffee Break</span>
+- **11:00 - 12:50**: 
+  - {% include print_talk.md data='bayonne26' id=18 time='11:00 - 11:30' %}
+  - {% include print_talk.md data='bayonne26' id=19 time='11:30 - 11:50' %}
+  - {% include print_talk.md data='bayonne26' id=20 time='11:50 - 12:10' %}
+  - {% include print_talk.md data='bayonne26' id=21 time='12:10 - 12:30' %}
+  - {% include print_talk.md data='bayonne26' id=24 time='12:30 - 12:50' %}
+- **12:50 - 14:10**: <span style="color: #D50032;">Lunch Break</span>
 - **14:10 - 16:00**: 
   - {% include print_talk.md data='bayonne26' id=22 time='14:10 - 14:40' %}
   - {% include print_talk.md data='bayonne26' id=23 time='14:40 - 15:00' %}
-  - {% include print_talk.md data='bayonne26' id=24 time='15:00 - 15:20' %}
-  - {% include print_talk.md data='bayonne26' id=25 time='15:20 - 15:40' %}
-  - {% include print_talk.md data='bayonne26' id=26 time='15:40 - 16:00' %}
+  - {% include print_talk.md data='bayonne26' id=4 time='15:00 - 15:20' %}
+  - {% include print_talk.md data='bayonne26' id=26 time='15:20 - 15:40' %}
+  - {% include print_talk.md data='bayonne26' id=5 time='15:40 - 16:00' %}
 
 ---
 
@@ -117,7 +117,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
   - Enrique Rico Ortega (CERN, Ikerbasque, EHU, DIPC) *Quantum Simulation of Lattice Gauge Theories Using Superconducting Circuits*
   - Ángel Rodríguez Alcaraz (MPC) *Discrete Time Crystals with Anisotropic Heisenberg Coupling*
   - Shrinidhi Teganahally Sridhara (LaBRI, Université de Bordeaux) *Dequantization Barriers for Guided Stoquastic Hamiltonians*
-  - Huy Binh Tran (LOMA, Université de Bordeaux) *Alternative Mapping for Density-Functional Theory on a Quantum Computer*
+  - Huy-Binh Tran (LOMA, Université de Bordeaux) *Alternative Mapping for Density-Functional Theory on a Quantum Computer*
   - Gilles Zémor (IMB, Université de Bordeaux) *Recent Progress on Quantum Error Correction* -->
 
 **Posters**
@@ -158,7 +158,7 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 | Yvan Le Borgne            | Adrian Tanasa             | Elena Berardini           |
 | Ricardo Díez Muiño        | Emilio Artacho            | María Blanco-Rey          |
 | Louis Simon               | David Casanova            | Jean-Baptiste Latre       |
-| Oumaya Ladhari            | Huy Binh Tran             | Lucia Royo                |
+| Oumaya Ladhari            | Huy-Binh Tran             | Lucia Royo                |
 | Javier Oliva del Moral    | Benjamin Tirado Heras     | Ruben Esteban             |
 | Nicolás Lorente           | Alexandre Perrin          | Ameeya Bhusan Sahoo       |
 | Yann Pouillon             | Bárbara Andrade           | Juan Borge                |

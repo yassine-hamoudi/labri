@@ -14,3 +14,6 @@ Install:
 gem install jekyll-ical-tag
 bundle install
 bundle update
+
+Preventing a page from being indexed by Google:
+noindex: true

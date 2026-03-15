@@ -1,8 +1,6 @@
 private repo
-deploy only new files
 
 add:
- publications
  visitor calendar
  network (umi relax)
 

@@ -3,6 +3,7 @@ title: "Welcome"
 layout: default
 sitemap: false
 permalink: /welcome/
+noindex: true
 ---
 
 # Welcome Guide
