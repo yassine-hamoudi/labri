@@ -49,7 +49,7 @@
 - id: 9
   name: Daniel Isla
   affiliation: University of the Basque Country
-  title: Quantum Algorithms for PDEs
+  title: Discretization-Independent Efficiency Criteria for Quantum Carleman Linearization
   abstract: "Quantum algorithms based on Carleman linearization provide a promising approach to solving nonlinear partial differential equations by embedding them into high-dimensional linear systems amenable to quantum linear solvers. In order for this protocol to be efficient, [PNAS, 26 Aug 2021] (https://doi.org/10.1073/pnas.2026805118) established a condition in terms of the parameters of the numerical discretization. However, the restrictions imposed on these parameters may become impossible to satisfy as the discretization is refined. In particular, in fluid dynamics this implies that resolving Kolmogorov scales is not feasible for large Reynolds numbers [Physical Review Research, 2025-06-12] (https://doi.org/10.1103/PhysRevResearch.7.023254). In order to overcome these limitations, we build on the results of [PNAS, 26 Aug 2021] and show how these restrictions can be addressed by formulating the error analysis at the continuous level. Under certain conditions (Javier Gonzalez-Conde et al., 2026) authors proved boundedness of the Sobolev norm at the continuous level. From this result, we relate the Sobolev norm with the discrete l2 norm and establish a truncation strategy, leading to a more global and robust definition of the truncation error."
 
 - id: 10
