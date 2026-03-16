@@ -114,7 +114,7 @@
 
 - id: 20
   name: Juan Borge
-  affiliation: EHU/UPV
+  affiliation: UPV/EHU
   title: Fractional Quantum Hall States with Quantum Computing
   abstract: "We present a study of fractional quantum Hall (FQH) states obtained from interacting hamiltonians using the variational quantum eigensolver (VQE) implemented on real quantum hardware. By encoding the many-body Hamiltonians relevant to the FQH effect into qubit representations, we employ parameterized quantum circuits to approximate ground-state wavefunctions through hybrid quantum–classical optimization. Our approach lays the groundwork for the preparation and characterization of correlated topological states and points toward simulations beyond the reach of exact diagonalization for larger system sizes. We analyze the accuracy of the VQE results in comparison with classical benchmarks and assess the impact of hardware noise, circuit depth, and ansatz choice on the fidelity of the reconstructed FQH states. These results demonstrate the feasibility of using near-term quantum computers to simulate strongly correlated electron systems and provide a pathway toward scalable quantum simulations of topological phases of matter."
 
