@@ -8,7 +8,7 @@ permalink: /contact/
 #### **Email addresses**
 > Head: [Yassine Hamoudi](mailto:yassine.hamoudi@labri.fr)
 >
-> Deputy head: [Mikhail Raskin](mailto:mikhail.raskin@u-bordeaux.fr)
+> Deputy head: [Stéphane Dartois](mailto:stephane.dartois@u-bordeaux.fr)
 > 
 > Seminar organizer: [Yvan Le Borgne](borgne@labri.fr)
 
