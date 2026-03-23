@@ -32,6 +32,11 @@ Tristan Cam, Cyril Gavoille, Yvan Le Borgne and Simon Martiel
 *Proceedings of the 17th Conference on Reversible Computation (RC 2025).*  
 [[HAL]](https://u-bordeaux.hal.science/UNIV-BORDEAUX/hal-05133697) [[Conference]](https://link.springer.com/chapter/10.1007/978-3-031-97063-4_5)
 
+**Time-Space Tradeoffs in Searching for a Path in Welded Trees, Classically or Quantumly**  
+Yvan Le Borgne, Shrinidhi Teganahally Sridhara  
+*Preprint (2025).*  
+[[HAL]](https://hal.science/hal-04685710)
+
 **Faster Algorithms for Graph Monopolarity**  
 Geevarghese Philip and Shrinidhi Teganahally Sridhara  
 *Proceedings of the 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2025).*  

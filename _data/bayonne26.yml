@@ -1,8 +1,8 @@
 - id: 1
   name: Román Orús
   affiliation: Multiverse Computing - Scientific Director
-  title: TBA
-  abstract:
+  title: "Towards “Intelligent” Quantum Computers"
+  abstract: "Here I will present some of the latest developments at Multiverse Computing in quantum AI. In particular, I will focus on how to build a hybrid quantum-classical LLM. This will be implemented in three steps: LLM compression via Tensor Networks, codification of the tensor networks as quantum circuits of disentanglers, and enhancement of the LLM via extra layers of variational unitaries. This approach allows for a scalable growth in the number of parameters of the (quantum) LLM by means of quantum processors. Implications in several ambits will also be discussed."
 
 - id: 2
   name: Tristan Cam
