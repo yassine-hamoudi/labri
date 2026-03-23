@@ -21,7 +21,7 @@ noindex: true
 
 ### Resources from LaBRI and the University
 
-- The LaBRI is akin to the computer science department of the Université de Bordeaux. It hosts the ICQ group, and this is where everyone has their office. Some people at LaBRI may also be located at [INRIA Bordeaux](https://www.inria.fr/fr/centre-inria-universite-bordeaux) (research institute in computer science and applied mathematics) or [Bordeaux INP](https://www.bordeaux-inp.fr/fr) (engineering school).
+- The LaBRI is akin to the computer science department of the Université de Bordeaux. It hosts the ICQ group, and this is where (almost) everyone has their office. Some people at LaBRI may also be located at [INRIA Bordeaux](https://www.inria.fr/fr/centre-inria-universite-bordeaux) (research institute in computer science and applied mathematics) or [Bordeaux INP](https://www.bordeaux-inp.fr/fr) (engineering school).
 
 - The [LaBRI intranet](https://www.labri.fr/en/intranet) provides various useful resources (e.g. information about research trips, administrative procedures, etc.). IT support is available at [this link](https://sos.labri.fr/cms/index.php), and requests can be submitted at [this link](https://sos-glpi.labri.fr/) (accessible only from within LaBRI; write to [sos@labri.fr](mailto:sos@labri.fr) otherwise). If you have an administrative inquiry and do not know whom to contact, write to [accueil@labri.fr](mailto:accueil@labri.fr).
 
