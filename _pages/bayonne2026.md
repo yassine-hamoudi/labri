@@ -148,9 +148,9 @@ All events (except dinner) will be held at Hôtel Le Bayonne.
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Registered Participants</p>
 
-<!-- <div style="text-align:center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/Workshop_Bordeaux_Basque_April_9_2025.jpg" class="responsive" >
-</div> -->
+<div style="text-align:center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/Workshop_Bordeaux_Basque_March_24_2026.jpg" class="responsive" >
+</div>
 
 <div align="center">
 

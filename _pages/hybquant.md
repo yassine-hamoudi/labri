@@ -31,6 +31,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 
 <!-- - **Ingénieur de recherche :** [Fiche de poste]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-ir.pdf) -->
 - **Chercheur postdoctoral :** [Informations]({{ site.url }}{{ site.baseurl }}/positions/)
+- **Chef de projet adjoint Naquidis+ :** [Informations](https://carrieres.institutoptique.fr/jobs/7347744-chef-de-projet-adjoint-naquidis-f-h-x)
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Contacts</p>
 
