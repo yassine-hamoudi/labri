@@ -40,6 +40,9 @@ permalink: /seminar/
 
 ### Hosted or Co-Organized Events
 
+24-25 March 2026<br>
+<i>2nd Basque Country - Bordeaux Quantum Algorithms Meeting.</i> [Program &#9432;]({% link _pages/bayonne2026.md %})
+
 15-16 January 2026<br>
 <i>Journées Informatique Quantique du GT IQ.</i> [Program &#9432;]({% link _pages/jiq2026.md %})
 
