@@ -17,7 +17,7 @@ noindex: true
 
 - We hold a research seminar on Tuesday mornings at 10:45 (schedule available on the [seminar page]({{ site.url }}{{ site.baseurl }}/seminar/)). You are expected to attend this event, as it is a central part of your training in quantum computing. You are welcome to suggest topics you'd like to see covered during the seminar, or people to invite.
 
-- You can subscribe to the seminar mailing list [via this link](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique). There also dynamic calendars for our seminars and visitors (which can be added to Zimbra, Google Calendar, etc.): [seminar calendar](https://webmel.u-bordeaux.fr/home/bf-labri.ca@u-bordeaux.fr/gt.info-quantique.ics) and [visitor calendar](https://webmel.u-bordeaux.fr/home/yassine.hamoudi@u-bordeaux.fr/Visiteurs%20ICQ.ics). Other research groups at LaBRI also hold regular seminars, you can find information about them on the [LaBRI website](https://www.labri.fr/en/research/five-departments).
+- You can subscribe to the seminar mailing list [via this link](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique). There are also dynamic calendars for our seminars and visitors (which can be added to Zimbra, Google Calendar, etc.): [seminar calendar](https://webmel.u-bordeaux.fr/home/bf-labri.ca@u-bordeaux.fr/gt.info-quantique.ics) and [visitor calendar](https://webmel.u-bordeaux.fr/home/yassine.hamoudi@u-bordeaux.fr/Visiteurs%20ICQ.ics). Other research groups at LaBRI also hold regular seminars, you can find information about them on the [LaBRI website](https://www.labri.fr/en/research/five-departments).
 
 ### Resources from LaBRI and the University
 
