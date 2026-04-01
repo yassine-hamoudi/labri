@@ -1,10 +1,11 @@
 - name: Karim El Houdaigui
-  photo: empty.png
+  photo: elhoudaigui.png
   type: "engineer"
   affiliation: Université de Bordeaux
   funding: Maison du quantique
   website: https://www.linkedin.com/in/karim-el-houdaigui-54aa471bb
-  email: elhoudaiguikarim91@gmail.com
+  email: karim.el-houdaigui@labri.fr
+  email2: elhoudaiguikarim91@gmail.com
   supervisor: Yassine Hamoudi, Pierre Ramet
   start_date: 2026-04-01
   end_date: 2027-04-01
