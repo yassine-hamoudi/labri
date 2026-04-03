@@ -12,7 +12,7 @@ permalink: /publications/
 
 **Dequantization Barriers for Guided Stoquastic Hamiltonians**  
 Yassine Hamoudi, Yvan Le Borgne, Shrinidhi Teganahally Sridhara  
-*Preprint (2026).*  
+*Contributed talk at the 21st Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2026).*  
 [[arXiv]](https://arxiv.org/abs/2602.23183)
 
 ## 2025

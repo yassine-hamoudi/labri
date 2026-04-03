@@ -38,7 +38,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 - **Coordinateur du projet :** Yassine Hamoudi ([yassine.hamoudi@labri.fr](mailto:yassine.hamoudi@labri.fr))
 - **Coordinateur adjoint :** Adrian Tanasa ([adrian.tanasa@labri.fr](mailto:adrian.tanasa@labri.fr))
 - **Coordinatrice initiative régionale - Naquidis :** Audrey Durand ([audrey.durand@institutoptique.fr](mailto:audrey.durand@institutoptique.fr))
-<!-- - **Ingénieur de recherche :** Karim El Houdaigui -->
+- **Ingénieur de recherche :** Karim El Houdaigui ([karim.el-houdaigui@labri.fr](mailto:karim.el-houdaigui@labri.fr))
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Partenaires</p>
 
