@@ -23,7 +23,7 @@ jobs:
       - name: Build website
         run: bundle exec jekyll build
       - name: Webdav deploy
-        uses: bxb100/action-upload@v0
+        uses: bxb100/action-upload@v0.1.0
         with:
           provider: webdav
           provider_options: |
