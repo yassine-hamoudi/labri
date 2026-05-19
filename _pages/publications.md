@@ -10,6 +10,11 @@ permalink: /publications/
 
 ## 2026
 
+**Quantum Graph Theory by Example**  
+Gian Luca Spitzer, Ion Nechita  
+*Preprint (2026).*  
+[[arXiv]](https://arxiv.org/abs/2603.23651)
+
 **Dequantization Barriers for Guided Stoquastic Hamiltonians**  
 Yassine Hamoudi, Yvan Le Borgne, Shrinidhi Teganahally Sridhara  
 *Contributed talk at the 21st Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2026).*  
@@ -21,6 +26,11 @@ Yassine Hamoudi, Yvan Le Borgne, Shrinidhi Teganahally Sridhara
 Yassine Hamoudi  
 *Preprint (2025).*  
 [[arXiv]](https://arxiv.org/abs/2508.08852)
+
+**Homomorphism Indistinguishability Relations induced by Quantum Groups**  
+Tim Seppelt, Gian Luca Spitzer  
+*Preprint (2025).*  
+[[arXiv]](https://arxiv.org/abs/2505.07922)
 
 **Quantum Speedup of Non-Linear Monte Carlo Problems**  
 Jose Blanchet, Yassine Hamoudi, Mario Szegedy, Guanyang Wang  

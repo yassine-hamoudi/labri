@@ -1,6 +1,6 @@
 - name: Tristan Cam
   photo: cam.jpg
-  type: "student"
+  type: "phdstudent"
   info: PhD student
   affiliation: IBM, Université de Bordeaux
   level: PhD
@@ -14,11 +14,11 @@
 
 - name: Shrinidhi Teganahally Sridhara
   photo: sridhara.jpg
-  type: "student"
+  type: "phdstudent"
   info: PhD student
   affiliation: Université de Bordeaux
   level: PhD
-  funding: 
+  funding: CMA Technologies Quantiques Projet QuanTEdu-France ?
   website: https://shrinidhits.bitbucket.io/
   email: shrinidhi.teganahally-sridhara@u-bordeaux.fr
   supervisor: Yassine Hamoudi, Adrian Tanasa
@@ -28,11 +28,11 @@
 
 - name: Gian Luca Spitzer
   photo: spitzer.jpg
-  type: "student"
+  type: "phdstudent"
   info: PhD student
   affiliation: Université de Bordeaux, Laboratoire de Physique Théorique de Toulouse
   level: PhD
-  funding: 
+  funding: Programme CNRS 80PRIME
   website: https://gian-luca.omg.lol/
   email: gian-luca.spitzer@labri.fr
   supervisor: Adrian Tanasa, Ion Nechita
@@ -42,14 +42,28 @@
 
 - name: Gaétan Bardy
   photo: empty.png
-  type: "student"
+  type: "phdstudent"
   info: PhD student
   affiliation: Université de Bordeaux
   level: PhD
-  funding: 
+  funding: Maison du quantique
   website: https://www.labri.fr/profil/Bardy_ID1743085762
   email: gaetan.bardy@u-bordeaux.fr
-  supervisor: Adrian Tanasa
+  supervisor: Adrian Tanasa, Matthieu Saubanère
   start_date: 2025-04-01
   end_date: ...
+  number_fields: 0
+
+- name: Numa Guiot
+  photo: empty.png
+  type: "visitingstudent"
+  info: Intern from ENSEIRB - Bordeaux INP
+  affiliation: Département informatique, ENSEIRB, Bordeaux INP
+  level: M1
+  funding: Maison du quantique
+  website:
+  email: numa.guiot@bordeaux-inp.fr
+  supervisor: Adrian Tanasa
+  start_date: 2026-05-18
+  end_date: 2026-08-31
   number_fields: 0
