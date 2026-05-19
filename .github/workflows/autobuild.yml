@@ -32,3 +32,11 @@ jobs:
             password=${{ secrets.WEBDAV_PASSWORD }}
             root=/
           include: '_site/**'
+#     - name: Webdav Deploy bis
+#        uses: XPH0816/webdav-deploy-action@v0.3
+#        with:
+#          url: ${{ secrets.WEBDAV_ADDRESS }}
+#          username: ${{ secrets.WEBDAV_USERNAME }}
+#          password: ${{ secrets.WEBDAV_PASSWORD }}
+#          local: "./_site/"
+#          remote: "./"
