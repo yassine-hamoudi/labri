@@ -10,6 +10,11 @@ permalink: /publications/
 
 ## 2026
 
+**Entanglement from Expansion: High Rank-Width in Deterministic Graphs**  
+Tristan Cam, Cyril Gavoille, Yvan Le Borgne, Simon Martiel  
+*Preprint (2026).*  
+[[arXiv]](https://arxiv.org/abs/2606.07110)
+
 **Alternative Adiabatic Quantum Dynamics with Algorithmic Applications**  
 Joseph Cunningham, Jérémie Roland  
 *Preprint (2026).*  

@@ -19,6 +19,8 @@ noindex: true
 
 - You can subscribe to the seminar mailing list [via this link](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique). There are also dynamic calendars for our seminars and visitors (which can be added to Zimbra, Google Calendar, etc.): [seminar calendar](https://webmel.u-bordeaux.fr/home/bf-labri.ca@u-bordeaux.fr/gt.info-quantique.ics) and [visitor calendar](https://webmel.u-bordeaux.fr/home/yassine.hamoudi@u-bordeaux.fr/Visiteurs%20ICQ.ics). Other research groups at LaBRI also hold regular seminars, you can find information about them on the [LaBRI website](https://www.labri.fr/en/research/five-departments).
 
+- You must follow the administrative procedures for declaring your vacations. PhD students employed by the university must fill out a paper form available at LaBRI's accueil. Other university employees must use the [Hamac website](https://intranet.u-bordeaux.fr/personnels/espace-RH/organisation-du-travail/horaires-temps-partiel-cet/application-hamac). CNRS employees must use the [Agate website](https://agate-tempo.cnrs.fr/). 
+
 ### Resources from LaBRI and the University
 
 - The LaBRI is akin to the computer science department of the Université de Bordeaux. It hosts the ICQ group, and this is where (almost) everyone has their office. Some people at LaBRI may also be located at [INRIA Bordeaux](https://www.inria.fr/fr/centre-inria-universite-bordeaux) (research institute in computer science and applied mathematics) or [Bordeaux INP](https://www.bordeaux-inp.fr/fr) (engineering school).
