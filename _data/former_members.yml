@@ -1,3 +1,16 @@
+- name: Bárbara Andrade
+  photo: andrade.jpeg
+  type: "postdoc"
+  affiliation: Université de Bordeaux
+  website: https://www.researchgate.net/profile/Barbara-Andrade-18
+  funding: Maison du quantique
+  email: bandradedoss@u-bordeaux.fr
+  email2: andradesantosb@gmail.com
+  supervisor: Adrian Tanasa
+  start_date: 2026-01-01
+  end_date: 2026-07-31
+  number_fields: 0
+  
 - name: Ananya Ranade
   type: "student"
   info: Intern from Chennai Mathematical Institute
