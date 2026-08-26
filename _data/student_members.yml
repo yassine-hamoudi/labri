@@ -53,17 +53,3 @@
   start_date: 2025-04-01
   end_date: ...
   number_fields: 0
-
-- name: Numa Guiot
-  photo: empty.png
-  type: "visitingstudent"
-  info: Intern from ENSEIRB - Bordeaux INP
-  affiliation: Département informatique, ENSEIRB, Bordeaux INP
-  level: M1
-  funding: Maison du quantique
-  website:
-  email: numa.guiot@bordeaux-inp.fr
-  supervisor: Adrian Tanasa
-  start_date: 2026-05-18
-  end_date: 2026-08-31
-  number_fields: 0

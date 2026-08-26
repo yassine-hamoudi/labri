@@ -1,3 +1,15 @@
+- name: Numa Guiot
+  type: "student"
+  info: Intern from ENSEIRB - Bordeaux INP
+  affiliation: Département informatique, ENSEIRB, Bordeaux INP
+  level: M1
+  funding: Maison du quantique
+  email: numa.guiot@bordeaux-inp.fr
+  supervisor: Adrian Tanasa
+  start_date: 2026-05-18
+  end_date: 2026-08-31
+  number_fields: 0
+
 - name: Bárbara Andrade
   photo: andrade.jpeg
   type: "postdoc"
@@ -10,7 +22,7 @@
   start_date: 2026-01-01
   end_date: 2026-07-31
   number_fields: 0
-  
+
 - name: Ananya Ranade
   type: "student"
   info: Intern from Chennai Mathematical Institute

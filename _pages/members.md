@@ -29,9 +29,9 @@ permalink: /members/
 {% assign typeMember = 'phdstudent' %}
 {% include print_phdstudent.md %}
 
-## Visiting Students
+<!-- ## Visiting Students
 {% assign typeMember = 'visitingstudent' %}
-{% include print_visitingstudent.md %}
+{% include print_visitingstudent.md %} -->
 
 ## Local Collaborators
 <div class="row">

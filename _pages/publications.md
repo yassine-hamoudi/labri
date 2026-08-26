@@ -10,6 +10,11 @@ permalink: /publications/
 
 ## 2026
 
+**Coordinate Space Representation for Quantum Simulation of Scalar Field Theory**  
+<u>Gaétan Bardy</u>, Matthieu Saubanère, <u>Adrian Tanasa</u>  
+*Preprint (2026).*  
+[[arXiv]](https://arxiv.org/abs/2608.00670)
+
 **Dynamic Induction of Lattice Gauge Theories on a Quantum Computer**  
 <u>Bárbara Andrade</u>, Declan Millar, Lewis Anderson, Vincent R. Pascuzzi, Maciej Lewenstein, Ivano Tavernelli, Jad C. Halimeh, Tobias Grass  
 *Preprint (2026).*  
