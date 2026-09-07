@@ -67,10 +67,10 @@ Jose Blanchet, <u>Yassine Hamoudi</u>, Mario Szegedy, Guanyang Wang
 *Preprint (2025).*  
 [[HAL]](https://hal.science/hal-04685710)
 
-**Faster Algorithms for Graph Monopolarity**  
+<!-- **Faster Algorithms for Graph Monopolarity**  
 Geevarghese Philip, <u>Shrinidhi Teganahally Sridhara</u>  
 *Proceedings of the 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2025).*  
-[[arXiv]](https://arxiv.org/abs/2410.06337) [[Conference]](https://dl.acm.org/doi/10.1007/978-3-032-11835-6_30)
+[[arXiv]](https://arxiv.org/abs/2410.06337) [[Conference]](https://dl.acm.org/doi/10.1007/978-3-032-11835-6_30) -->
 
 ## 2024 
 

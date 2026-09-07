@@ -1,3 +1,17 @@
+- name: Gaétan Bardy
+  photo: bardy.jpeg
+  type: "phdstudent"
+  info: PhD student
+  affiliation: Université de Bordeaux
+  level: PhD
+  funding: Maison du quantique
+  website: https://www.labri.fr/profil/Bardy_ID1743085762
+  email: gaetan.bardy@u-bordeaux.fr
+  supervisor: Adrian Tanasa, Matthieu Saubanère
+  start_date: 2025-04-01
+  end_date: ...
+  number_fields: 0
+  
 - name: Tristan Cam
   photo: cam.jpg
   type: "phdstudent"
@@ -9,20 +23,6 @@
   email: tristan.cam@u-bordeaux.fr
   supervisor: Cyril Gavoille, Yvan Le Borgne
   start_date: 2024-03-21
-  end_date: ...
-  number_fields: 0
-
-- name: Shrinidhi Teganahally Sridhara
-  photo: sridhara.jpg
-  type: "phdstudent"
-  info: PhD student
-  affiliation: Université de Bordeaux
-  level: PhD
-  funding: CMA Technologies Quantiques Projet QuanTEdu-France ?
-  website: https://shrinidhits.bitbucket.io/
-  email: shrinidhi.teganahally-sridhara@u-bordeaux.fr
-  supervisor: Yassine Hamoudi, Adrian Tanasa
-  start_date: 2024-10-01
   end_date: ...
   number_fields: 0
 
@@ -40,16 +40,16 @@
   end_date: ...
   number_fields: 0
 
-- name: Gaétan Bardy
-  photo: bardy.jpeg
+- name: Shrinidhi Teganahally Sridhara
+  photo: sridhara.jpg
   type: "phdstudent"
   info: PhD student
   affiliation: Université de Bordeaux
   level: PhD
-  funding: Maison du quantique
-  website: https://www.labri.fr/profil/Bardy_ID1743085762
-  email: gaetan.bardy@u-bordeaux.fr
-  supervisor: Adrian Tanasa, Matthieu Saubanère
-  start_date: 2025-04-01
+  funding: CMA Technologies Quantiques Projet QuanTEdu-France ?
+  website: https://shrinidhits.bitbucket.io/
+  email: shrinidhi.teganahally-sridhara@u-bordeaux.fr
+  supervisor: Yassine Hamoudi, Adrian Tanasa
+  start_date: 2024-10-01
   end_date: ...
   number_fields: 0

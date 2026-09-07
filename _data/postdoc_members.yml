@@ -1,16 +1,3 @@
-- name: Vishvajeet Nagargoje
-  photo: empty.png
-  type: "postdoc"
-  affiliation: Université de Bordeaux
-  funding: PEPR EPIQ
-  website: https://nvishvajeet.github.io/
-  email: vishvajeet.nagargoje@u-bordeaux.fr
-  email2: nvishvajeet@gmail.com
-  supervisor: Yassine Hamoudi
-  start_date: 2025-10-15
-  end_date: 2027-08-31
-  number_fields: 0
-
 - name: Joseph Cunningham
   photo: jcunningham.jpeg
   type: "postdoc"
@@ -22,4 +9,17 @@
   supervisor: Yassine Hamoudi
   start_date: 2025-11-01
   end_date: 2026-10-31
+  number_fields: 0
+
+- name: Vishvajeet Nagargoje
+  photo: empty.png
+  type: "postdoc"
+  affiliation: Université de Bordeaux
+  funding: PEPR EPIQ
+  website: https://nvishvajeet.github.io/
+  email: vishvajeet.nagargoje@u-bordeaux.fr
+  email2: nvishvajeet@gmail.com
+  supervisor: Yassine Hamoudi
+  start_date: 2025-10-15
+  end_date: 2027-08-31
   number_fields: 0

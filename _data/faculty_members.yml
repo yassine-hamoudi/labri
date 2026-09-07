@@ -1,3 +1,32 @@
+- name: Stéphane Dartois
+  photo: empty.png
+  info: Professeur junior
+  website: https://stephanedartois.com/
+  email: stephane.dartois@u-bordeaux.fr
+  publications: https://arxiv.org/a/0000-0003-1651-3727.html
+  type: "faculty"
+  number_fields: 0 # <-------------
+  field1: Error-correction and mitigation
+  field2: Entanglement measures
+
+- name: Fabien Dufoulon
+  photo: dufoulon.jpg
+  info: Maître de conférence
+  website: https://fabiendufoulon.github.io/
+  email: fabien.dufoulon@u-bordeaux.fr
+  publications: https://dblp.uni-trier.de/pid/203/0763.html
+  type: "faculty"
+  number_fields: 0 # <-------------
+  field1: Distributed algorithms
+
+- name: Cyril Gavoille
+  photo: gavoille.jpeg
+  info: Professeur
+  website: https://dept-info.labri.fr/~gavoille/
+  email: gavoille@labri.fr
+  type: "faculty"
+  number_fields: 0
+  
 - name: Yassine Hamoudi
   photo: hamoudi.jpg
   info: Chargé de recherche CNRS
@@ -10,46 +39,6 @@
   field2: Monte Carlo methods
   field3: Complexity theory
 
-- name: Stéphane Dartois
-  photo: empty.png
-  info: Professeur junior
-  website: https://stephanedartois.com/
-  email: stephane.dartois@u-bordeaux.fr
-  publications: https://arxiv.org/a/0000-0003-1651-3727.html
-  type: "faculty"
-  number_fields: 0 # <-------------
-  field1: Error-correction and mitigation
-  field2: Entanglement measures
-
-# - name: Felix Huber
-#   photo: huber.jpg
-#   info: Professeur junior
-#   website: https://huberfe.github.io/
-#   email: felix.huber@labri.fr
-#   publications: https://arxiv.org/a/huber_f_1.html
-#   type: "faculty"
-#   number_fields: 4
-#   field1: Quantum error correction
-#   field2: Quantum correlations
-#   field3: Optimization in quantum information
-#   field4: Mathematical physics
-
-# - name: Arnaud Casteigts
-#   photo: casteigts.jpeg
-#   info: Professeur
-#   website: https://arnaudcasteigts.net/
-#   email: arnaud.casteigts@u-bordeaux.fr
-#   type: "faculty"
-#   number_fields: 0
-
-- name: Adrian Tanasa
-  photo: tanasa.jpg
-  info: Professeur
-  website: https://www.labri.fr/perso/atanasa/?lang=uk
-  email: adrian.tanasa@labri.fr
-  type: "faculty"
-  number_fields: 0
-
 - name: Yvan Le Borgne
   photo: leborgne.jpeg
   info: Chargé de recherche CNRS
@@ -57,22 +46,6 @@
   email: borgne@labri.fr
   type: "faculty"
   number_fields: 0
-
-- name: Cyril Gavoille
-  photo: gavoille.jpeg
-  info: Professeur
-  website: https://dept-info.labri.fr/~gavoille/
-  email: gavoille@labri.fr
-  type: "faculty"
-  number_fields: 0
-  
-# - name: Jean-François Marckert
-#   photo: marckert.png
-#   info: Directeur de recherche CNRS
-#   website: https://www.labri.fr/perso/marckert/
-#   email: marckert@labri.fr
-#   type: "faculty"
-#   number_fields: 0
 
 - name: Mikhail Raskin
   photo: raskin.jpeg
@@ -82,10 +55,26 @@
   type: "faculty"
   number_fields: 0
 
-# - name: Géraud Sénizergues
-#   photo: senizergues.jpeg
-#   info: Professeur émérite
-#   website: https://dept-info.labri.fr/~ges/
-#   email: geraud.senizergues@u-bordeaux.fr
+- name: Adrian Tanasa
+  photo: tanasa.jpg
+  info: Professeur
+  website: https://www.labri.fr/perso/atanasa/?lang=uk
+  email: adrian.tanasa@labri.fr
+  type: "faculty"
+  number_fields: 0
+
+# - name: Jean-François Marckert
+#   photo: marckert.png
+#   info: Directeur de recherche CNRS
+#   website: https://www.labri.fr/perso/marckert/
+#   email: marckert@labri.fr
+#   type: "faculty"
+#   number_fields: 0
+
+# - name: Arnaud Casteigts
+#   photo: casteigts.jpeg
+#   info: Professeur
+#   website: https://arnaudcasteigts.net/
+#   email: arnaud.casteigts@u-bordeaux.fr
 #   type: "faculty"
 #   number_fields: 0
