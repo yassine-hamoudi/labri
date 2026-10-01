@@ -46,11 +46,11 @@ permalink: /positions/
 
 <details markdown=block>
   <summary>
-    ▶︎ Visiting Scholar applications (Deadline: January 11, 2026)
+    ▶︎ Visiting Scholar applications (Deadline: January 11, 2027)
   </summary>
   <blockquote>
-  - [Visiting Scholars - Call for applications](https://aap.u-bordeaux.fr/siaap/pub/appel/view/292)
-  - [Applicant guide]({{ site.url }}{{ site.baseurl }}/files/visiting_scholar.pdf)
+  - [Visiting Scholars - Call for applications](https://aap.u-bordeaux.fr/siaap/pub/appel/view/344)
+  - [Applicant guide](https://www.u-bordeaux.fr/universite/travailler-a-l-universite/personnels-enseignants-et-chercheurs/professeurs-et-chercheurs-invites)
   </blockquote>
 </details>
 

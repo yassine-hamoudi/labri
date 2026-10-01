@@ -11,6 +11,19 @@
   end_date: 2026-10-31
   number_fields: 0
 
+- name: Gabrielle Tournaire
+  photo: empty.png
+  type: "postdoc"
+  affiliation: Université de Bordeaux
+  funding: 18 mois Maison du quantique + 6 mois CPJ
+  website: https://www.linkedin.com/in/gabrielle-tournaire-856bb7195/
+  email: gabrielle.tournaire@u-bordeaux.fr
+  email2: 
+  supervisor: Stéphane Dartois
+  start_date: 2026-10-01
+  end_date: 2028-09-30
+  number_fields: 0
+
 - name: Vishvajeet Nagargoje
   photo: empty.png
   type: "postdoc"

@@ -10,6 +10,11 @@ permalink: /publications/
 
 ## 2026
 
+**Quantum Sampling of Random Spanning Trees via Amortized Data Structures**  
+<u>Yassine Hamoudi</u>, <u>Adrian Tanasa</u>, <u>Shrinidhi Teganahally Sridhara</u>  
+*Preprint (2026).*  
+[[arXiv]](https://arxiv.org/abs/2609.40314)
+
 **Coordinate Space Representation for Quantum Simulation of Scalar Field Theory**  
 <u>Gaétan Bardy</u>, Matthieu Saubanère, <u>Adrian Tanasa</u>  
 *Preprint (2026).*  
