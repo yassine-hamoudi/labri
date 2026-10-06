@@ -10,6 +10,11 @@ permalink: /publications/
 
 ## 2026
 
+**Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model**  
+<u>Fabien Dufoulon</u>, Frédéric Magniez, Gopal Pandurangan  
+*Proceedings of the 38th Symposium on Discrete Algorithms (SODA 2027).*  
+[[arXiv]](https://arxiv.org/abs/2602.15529)
+
 **Quantum Sampling of Random Spanning Trees via Amortized Data Structures**  
 <u>Yassine Hamoudi</u>, <u>Adrian Tanasa</u>, <u>Shrinidhi Teganahally Sridhara</u>  
 *Preprint (2026).*  
