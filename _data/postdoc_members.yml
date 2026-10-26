@@ -1,16 +1,3 @@
-- name: Joseph Cunningham
-  photo: jcunningham.jpeg
-  type: "postdoc"
-  affiliation: Université de Bordeaux
-  website: https://www.labri.fr/profil/Cunningham_ID1762246795
-  funding: Maison du quantique
-  email: joseph.cunningham@u-bordeaux.fr
-  email2: jat.cunningham@gmail.com
-  supervisor: Yassine Hamoudi
-  start_date: 2025-11-01
-  end_date: 2026-10-31
-  number_fields: 0
-
 - name: Gabrielle Tournaire
   photo: empty.png
   type: "postdoc"
