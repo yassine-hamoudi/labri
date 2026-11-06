@@ -10,6 +10,11 @@ permalink: /publications/
 
 ## 2026
 
+**Quantum Advantage with Sign-Free Proofs: An Oracle Separation between StoqMA <span style="white-space: nowrap">and MA</span>**  
+<u>Yassine Hamoudi</u>, <u>Yvan Le Borgne</u>, <u>Shrinidhi Teganahally Sridhara</u>  
+*Preprint (2026).*  
+[[arXiv]](https://arxiv.org/abs/2611.08180)
+
 **Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model**  
 <u>Fabien Dufoulon</u>, Frédéric Magniez, Gopal Pandurangan  
 *Proceedings of the 38th Symposium on Discrete Algorithms (SODA 2027).*  
