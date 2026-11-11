@@ -35,9 +35,9 @@ permalink: /publications/
 *Preprint (2026).*  
 [[arXiv]](https://arxiv.org/abs/2608.02756)
 
-**Entanglement from Expansion: High Rank-Width in Deterministic Graphs**  
+**Entanglement from Expansion: Deterministic Graphs of Large Rank-Width**  
 <u>Tristan Cam</u>, <u>Cyril Gavoille</u>, <u>Yvan Le Borgne</u>, Simon Martiel  
-*Preprint (2026).*  
+*Proceedings of the 52nd International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM 2027).*  
 [[arXiv]](https://arxiv.org/abs/2606.07110)
 
 **Alternative Adiabatic Quantum Dynamics with Algorithmic Applications**  
@@ -47,8 +47,8 @@ permalink: /publications/
 
 **Quantum Graph Theory by Example**  
 <u>Gian Luca Spitzer</u>, Ion Nechita  
-*Preprint (2026).*  
-[[arXiv]](https://arxiv.org/abs/2603.23651)
+*Quantum, vol. 10, p. 2228 (2026).*  
+[[arXiv]](https://arxiv.org/abs/2603.23651) [[Journal]](https://quantum-journal.org/papers/q-2026-10-06-2228/)
 
 **Dequantization Barriers for Guided Stoquastic Hamiltonians**  
 <u>Yassine Hamoudi</u>, <u>Yvan Le Borgne</u>, <u>Shrinidhi Teganahally Sridhara</u>  
@@ -70,7 +70,7 @@ Tim Seppelt, <u>Gian Luca Spitzer</u>
 **Quantum Speedup of Non-Linear Monte Carlo Problems**  
 Jose Blanchet, <u>Yassine Hamoudi</u>, Mario Szegedy, Guanyang Wang  
 *Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025).*  
-[[arXiv]](https://arxiv.org/abs/2502.05094)
+[[arXiv]](https://arxiv.org/abs/2502.05094) [[Conference]](https://doi.org/10.52202/085713-0631)
 
 **Universal Graph Theory Operations for Graph State Preparation**  
 <u>Tristan Cam</u>, <u>Cyril Gavoille</u>, <u>Yvan Le Borgne</u>, Simon Martiel  
