@@ -16,6 +16,11 @@ Elle s'appuie sur l'initiative régionale Naquidis Center ainsi que sur des part
 
 Elle entretient des partenariats privilégiés avec des entreprises néo-aquitaines des secteurs pharmaceutique, du transport et de l'énergie. Elle participe également au développement d'initiatives transfrontalières avec les acteurs du Pays basque espagnol dans le domaine du calcul quantique.
 
+<p style="text-align:center; font-size:30px; font-weight:bold;">Offres de stages étudiants</p>
+
+- *Algorithmes quantiques pour prévenir les collisions avec des débris spatiaux* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/thales1.pdf)
+- *Efficient Pauli String Decomposition of Random Matrices for Quantum Algorithms* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/thales2.pdf)
+
 <p style="text-align:center; font-size:30px; font-weight:bold;">Événements soutenus</p>
 
 - International Autumn School in Quantum Algorithms for many-body problems (6 - 7 octobre 2026) : [Informations](https://www.cecam.org/workshop-details/international-autumn-school-in-quantum-algorithms-for-many-body-problems-iasqa-1521)
