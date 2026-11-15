@@ -117,4 +117,6 @@ We can offer internships for undergraduate or master students who contact us wel
 
 Applicants should include the <ins>following information in their initial email:</ins> the preferred internship period, a CV, a transcript of records, and the names and email addresses of one or two referees.
 
+Some of our internship opportunities are listed on the [Maison du Quantique]({{ site.url }}{{ site.baseurl }}/hybquant) project page.
+
 <br>

@@ -18,8 +18,14 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Offres de stages étudiants</p>
 
-- *Algorithmes quantiques pour prévenir les collisions avec des débris spatiaux* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/thales1.pdf)
-- *Efficient Pauli String Decomposition of Random Matrices for Quantum Algorithms* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/thales2.pdf)
+- *Algorithmes quantiques pour prévenir les collisions avec des débris spatiaux* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/stage1_2027.pdf)
+- *Benchmarking et développement de techniques de mitigation d’erreur pour les processeurs quantiques analogiques* (LaBRI) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/stage2_2027.pdf)
+- *Efficient Pauli String Decomposition of Random Matrices for Quantum Algorithms* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/stage3_2027.pdf)
+
+<p style="text-align:center; font-size:30px; font-weight:bold;">Offres d'emplois</p>
+
+<!-- - **Ingénieur de recherche :** [Fiche de poste]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-ir.pdf) -->
+- **Chercheur postdoctoral :** [Informations]({{ site.url }}{{ site.baseurl }}/positions/)
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Événements soutenus</p>
 
@@ -31,11 +37,6 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 - Séminaires de recherche sur l'informatique quantique au LaBRI : [Informations]({% link _pages/seminar.md %})
 - Formation professionnelle Houko : [Informations](https://www.houko-formation.com/) 
 - Réunion Bordeaux - Pays basque sur les algorithmes quantiques (9 - 10 avril 2025) : [Informations]({% link _pages/bayonne2025.md %})
-
-<p style="text-align:center; font-size:30px; font-weight:bold;">Offres d'emplois</p>
-
-<!-- - **Ingénieur de recherche :** [Fiche de poste]({{ site.url }}{{ site.baseurl }}/files/fiche-de-poste-ir.pdf) -->
-- **Chercheur postdoctoral :** [Informations]({{ site.url }}{{ site.baseurl }}/positions/)
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Contacts</p>
 
