@@ -1,6 +1,9 @@
 ---
 ---
 
+// Switch to the mobile menu before the full navigation runs out of room.
+$grid-float-breakpoint: 1000px;
+
 @import "bootstrap";
 
 img { margin-bottom: 24px;
@@ -34,7 +37,7 @@ figcaption {
   white-space: nowrap; /* Ensures wrapping */
   display: block; /* Makes it behave like a block element */
   line-height: 22px; /* Adjust spacing */
-  font-size: 18px;
+  font-size: 19px;
 }
 
 p.byline {
@@ -150,4 +153,12 @@ firstp {
     margin-top: 20px;
     margin-left: 30px;
     margin-right: 30px;
+}
+
+/* Leave room for the menu button on smaller screens. */
+@media (max-width: 999px) {
+  .navbar .navbar-brand {
+    max-width: calc(100% - 70px);
+    white-space: normal;
+  }
 }
