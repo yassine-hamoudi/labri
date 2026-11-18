@@ -7,7 +7,7 @@
 - id: 2
   name: Tristan Cam
   affiliation: LaBRI, Université de Bordeaux, IBM
-  title: On the Rank-Width of the Hypercube and Its Application to Quantum State Preparation
+  title: On the Rank-Width of the Hypercube and its Application to Quantum State Preparation
   abstract: "The rank-width of a graph is intrinsically linked to the entanglement of its corresponding graph state.  In this work, we present groundbreaking results on deterministic graph state preparation. We introduce a novel method for establishing lower bounds on the rank-width of regular graphs, including hypercubes, Hamming graphs, and Cayley graphs. We develop a general method to derive rank-width bounds from the edge expansion of a graph. Our  findings reveal  the  first  deterministic  family  of  graphs  on n  vertices  with a provably high rank-width of n*loglog(n)/log(n) (nearly maximal entropy), surpassing the previous √n bound.  This breakthrough enables the preparation of nearly maximally entangled graph states in logarithmic depth, paving the way for practical quantum advantage experiments."
 
 - id: 3

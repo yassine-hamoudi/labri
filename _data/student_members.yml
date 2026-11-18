@@ -40,6 +40,20 @@
   end_date: ...
   number_fields: 0
 
+- name: Alberto Tairo Quispe
+  photo: empty.png
+  type: "phdstudent"
+  info: PhD student
+  affiliation: Université de Bordeaux
+  level: PhD
+  funding: Naquidis
+  website: 
+  email: 
+  supervisor: Adrian Tanasa, Matthieu Saubanère
+  start_date: 2026-11-15
+  end_date: ...
+  number_fields: 0
+
 - name: Shrinidhi Teganahally Sridhara
   photo: sridhara.jpg
   type: "phdstudent"

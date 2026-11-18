@@ -7,9 +7,11 @@ permalink: /seminar/
 
 [![email]({{ site.url }}{{ site.baseurl }}/images/logo/email.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Subscribe to the mailing list**](https://diff.u-bordeaux.fr/sympa/info/labri.gt-info-quantique) &nbsp;&nbsp;
 [![calendar]({{ site.url }}{{ site.baseurl }}/images/logo/calendar.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Subscribe to iCalendar**](https://webmel.u-bordeaux.fr/home/bf-labri.ca@u-bordeaux.fr/gt.info-quantique.ics) &nbsp;&nbsp;
-[![zoom]({{ site.url }}{{ site.baseurl }}/images/logo/zoom.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Watch on Zoom**](https://u-bordeaux-fr.zoom.us/j/83456804700?pwd=pEubGbpEOsgGnB3azdmLKMdAGfmLCT.1)
+[![zoom]({{ site.url }}{{ site.baseurl }}/images/logo/visio.jpg){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Watch on Visio**](https://visio.numerique.gouv.fr/vcy-ocrj-zpd) &nbsp;&nbsp;
+[![zoom]({{ site.url }}{{ site.baseurl }}/images/logo/zoom.png){: style="vertical-align:middle; max-width: 40px; height: auto;"}**&nbsp;&nbsp; Watch on Zoom** (backup)](https://u-bordeaux-fr.zoom.us/j/83456804700?pwd=pEubGbpEOsgGnB3azdmLKMdAGfmLCT.1)
 
-#### The seminar takes place on Tuesdays from 10:45 to 11:45 CET. It is located at [LaBRI]({% link _pages/contact.md %}), either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are usually in English and broadcast on [Zoom](https://u-bordeaux-fr.zoom.us/j/83456804700?pwd=pEubGbpEOsgGnB3azdmLKMdAGfmLCT.1). Recordings of some talks are available [at this link](https://www.labri.fr/perso/borgne/GtInfoQuantique/) (access can be granted upon request to the organizers).
+
+#### The seminar takes place on Tuesdays from 10:45 to 11:45 CET. It is located at [LaBRI]({% link _pages/contact.md %}), either on ground floor (rooms 073, 076, amphi) or first floor (room 178). The talks are usually in English and broadcast on [Visio](https://visio.numerique.gouv.fr/vcy-ocrj-zpd). Recordings of some talks are available [at this link](https://www.labri.fr/perso/borgne/GtInfoQuantique/) (access can be granted upon request to the organizers).
 
 #### We acknowledge the support of the [Maison du Quantique de Nouvelle-Aquitaine]({% link _pages/hybquant.md %}) in funding and promoting the activities of the seminar.
 
