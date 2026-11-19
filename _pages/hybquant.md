@@ -4,6 +4,8 @@ description: "<b>Maison du Quantique de Nouvelle-Aquitaine - <span style='color:
 layout: autonomous
 sitemap: false
 permalink: /hybquant/
+redirect_from:
+  - /quantina/
 ---
 
 <div style="text-align:center">
