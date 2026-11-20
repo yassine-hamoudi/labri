@@ -41,14 +41,14 @@
   number_fields: 0
 
 - name: Alberto Tairo Quispe
-  photo: empty.png
+  photo: tairoquispe.jpg
   type: "phdstudent"
   info: PhD student
   affiliation: Université de Bordeaux (LOMA)
   level: PhD
   funding: Naquidis
-  website: 
-  email: 
+  website: https://www.labri.fr/profil/Tairo_quispe_ID1794480558
+  email: alberto.tairoquispe@u-bordeaux.fr
   supervisor: Adrian Tanasa, Matthieu Saubanère
   start_date: 2026-11-15
   end_date: ...
