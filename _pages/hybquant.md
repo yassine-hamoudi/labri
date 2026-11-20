@@ -81,7 +81,7 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
   <a href="https://www.xlim.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/xlim.png">
   </a>
-  <a href="https://www.labri.fr/">
+  <a href="https://quantique.labri.fr/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logo/labri2.png">
   </a>
   <a href="https://www.loma.cnrs.fr/">
