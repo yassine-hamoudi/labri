@@ -20,9 +20,9 @@ Elle entretient des partenariats privilégiés avec des entreprises néo-aquitai
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Offres de stages étudiants</p>
 
-- *Algorithmes quantiques pour prévenir les collisions avec des débris spatiaux* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/stage1_2027.pdf)
-- *Benchmarking et développement de techniques de mitigation d’erreur pour les processeurs quantiques analogiques* (LaBRI) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/stage2_2027.pdf)
-- *Efficient Pauli String Decomposition of Random Matrices for Quantum Algorithms* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/stage3_2027.pdf)
+1. *Algorithmes quantiques pour prévenir les collisions avec des débris spatiaux* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/2027/stage_collision_2027.pdf)
+2. *Benchmarking et développement de techniques de mitigation d’erreur pour les processeurs quantiques analogiques* (LaBRI) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/2027/stage_mitigation_2027.pdf)
+3. *Efficient Pauli String Decomposition of Random Matrices for Quantum Algorithms* (LaBRI - Thales Alenia Space) [Informations]({{ site.url }}{{ site.baseurl }}/files/stages/2027/stage_pauli_2027.pdf)
 
 <p style="text-align:center; font-size:30px; font-weight:bold;">Offres d'emplois</p>
 
